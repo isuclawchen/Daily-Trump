@@ -1,0 +1,18 @@
+{{ define "main" }}
+  {{ $latestSiteReport := "" }}
+  {{ with first 1 (.Site.RegularPages.ByDate.Reverse) }}
+    {{ $latestSiteReport = index . 0 }}
+  {{ end }}
+  {{ $activeSection := "" }}
+  {{ if $latestSiteReport }}
+    {{ $activeSection = $latestSiteReport.CurrentSection }}
+  {{ end }}
+
+  {{ partial "report-shell.html" (dict
+    "ctx" .
+    "activeSection" $activeSection
+    "reportPage" $latestSiteReport
+    "viewMode" "latest"
+    "emptyMessage" "目前還沒有任何報告內容。"
+  ) }}
+{{ end }}

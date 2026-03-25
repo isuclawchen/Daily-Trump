@@ -1,0 +1,14 @@
+{{ define "main" }}
+  {{ $latestReport := "" }}
+  {{ with first 1 (.RegularPages.ByDate.Reverse) }}
+    {{ $latestReport = index . 0 }}
+  {{ end }}
+
+  {{ partial "report-shell.html" (dict
+    "ctx" .
+    "activeSection" .
+    "reportPage" $latestReport
+    "viewMode" "latest"
+    "emptyMessage" "這個人物目前還沒有任何報告。"
+  ) }}
+{{ end }}

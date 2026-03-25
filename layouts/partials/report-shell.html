@@ -1,0 +1,95 @@
+{{ $ctx := .ctx }}
+{{ $activeSection := .activeSection }}
+{{ $reportPage := .reportPage }}
+{{ $viewMode := .viewMode }}
+{{ $emptyMessage := .emptyMessage }}
+
+<main class="page-shell">
+  <div class="page-shell__inner">
+    {{ partial "person-tabs.html" (dict
+      "ctx" $ctx
+      "activeSection" $activeSection
+    ) }}
+
+    <div class="report-layout">
+      {{ partial "sidebar.html" (dict
+        "ctx" $ctx
+        "activeSection" $activeSection
+        "reportPage" $reportPage
+        "viewMode" $viewMode
+      ) }}
+
+      <section class="report-panel panel">
+        {{ if $reportPage }}
+          {{ $sectionTitle := "" }}
+          {{ if $activeSection }}
+            {{ $sectionTitle = $activeSection.Title }}
+          {{ end }}
+          {{ if eq $sectionTitle "" }}
+            {{ $sectionTitle = $reportPage.Section | humanize }}
+          {{ end }}
+
+          {{ $latestPermalink := "" }}
+          {{ with $activeSection }}
+            {{ with first 1 (.RegularPages.ByDate.Reverse) }}
+              {{ $latestPermalink = (index . 0).RelPermalink }}
+            {{ end }}
+          {{ end }}
+
+          <header class="dossier-header">
+            <div>
+              <p class="section-kicker">人物檔案</p>
+              <div class="dossier-header__title-row">
+                <h1 class="dossier-header__title">{{ $sectionTitle }}</h1>
+                <span class="dossier-header__code">{{ upper $reportPage.Section }}</span>
+              </div>
+              <p class="dossier-header__summary">
+                {{ with $activeSection.Params.description }}
+                  {{ . }}
+                {{ else }}
+                  以日期時間線持續追蹤 {{ $sectionTitle }} 的最新動態，人物頁預設顯示最新報告。
+                {{ end }}
+              </p>
+            </div>
+            {{ with $activeSection }}
+              <dl class="dossier-header__facts">
+                <div>
+                  <dt>Reports</dt>
+                  <dd>{{ len .RegularPages }}</dd>
+                </div>
+                {{ with first 1 (.RegularPages.ByDate.Reverse) }}
+                  <div>
+                    <dt>Latest</dt>
+                    <dd>{{ (index . 0).Date | time.Format "2006-01-02" }}</dd>
+                  </div>
+                {{ end }}
+                <div>
+                  <dt>Status</dt>
+                  <dd>{{ if eq $reportPage.RelPermalink $latestPermalink }}LIVE{{ else }}ARCHIVE{{ end }}</dd>
+                </div>
+              </dl>
+            {{ end }}
+          </header>
+
+          <div class="report-meta">
+            <span class="meta-chip meta-chip--accent">{{ $sectionTitle }}</span>
+            <span class="meta-chip">{{ $reportPage.Date | time.Format "2006-01-02" }}</span>
+            {{ if and $activeSection (eq $reportPage.RelPermalink $latestPermalink) }}
+              <span class="meta-chip meta-chip--success">Latest</span>
+            {{ end }}
+          </div>
+
+          <article class="report-body prose">
+            {{ $reportPage.Content }}
+          </article>
+        {{ else }}
+          <div class="empty-state">
+            <p class="empty-state__eyebrow">No report yet</p>
+            <h1>{{ $emptyMessage }}</h1>
+            <p>新增 `content/&lt;person&gt;/yyyy-mm-dd.md` 後，這裡會自動顯示最新報告。</p>
+          </div>
+        {{ end }}
+      </section>
+    </div>
+  </div>
+</main>

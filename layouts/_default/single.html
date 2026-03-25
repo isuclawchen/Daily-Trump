@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ partial "report-shell.html" (dict
+    "ctx" .
+    "activeSection" .CurrentSection
+    "reportPage" .
+    "viewMode" "page"
+    "emptyMessage" "找不到這篇報告。"
+  ) }}
+{{ end }}

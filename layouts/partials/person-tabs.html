@@ -1,0 +1,20 @@
+{{ $ctx := .ctx }}
+{{ $activeSection := .activeSection }}
+
+<nav class="person-tabs" aria-label="人物 tabs">
+  {{ range $ctx.Site.Sections.ByWeight }}
+    {{ $sectionTitle := .Title }}
+    {{ if eq $sectionTitle "" }}
+      {{ $sectionTitle = .Section | humanize }}
+    {{ end }}
+    <a
+      class="person-tabs__item {{ if and $activeSection (eq .RelPermalink $activeSection.RelPermalink) }}is-active{{ end }}"
+      href="{{ .RelPermalink }}"
+    >
+      <span class="person-tabs__name">{{ $sectionTitle }}</span>
+      <span class="person-tabs__meta">{{ len .RegularPages }} reports</span>
+    </a>
+  {{ else }}
+    <span class="person-tabs__empty">目前還沒有可切換的人物。</span>
+  {{ end }}
+</nav>

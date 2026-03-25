@@ -1,0 +1,45 @@
+{{ $ctx := .ctx }}
+{{ $activeSection := .activeSection }}
+{{ $reportPage := .reportPage }}
+{{ $viewMode := .viewMode }}
+
+<aside class="sidebar">
+  <section class="panel sidebar-panel">
+    <p class="sidebar-panel__eyebrow">時間線</p>
+    {{ if $activeSection }}
+      <p class="sidebar-note">上方切換人物，左側切換這個人物的舊報告。</p>
+      <nav class="nav-list nav-list--compact" aria-label="日期選單">
+        <a
+          class="nav-link nav-link--ghost {{ if eq $viewMode "latest" }}is-active{{ end }}"
+          href="{{ $activeSection.RelPermalink }}"
+        >
+          <span>Latest</span>
+          {{ with first 1 ($activeSection.RegularPages.ByDate.Reverse) }}
+            <span class="nav-link__meta">{{ (index . 0).Date | time.Format "2006-01-02" }}</span>
+          {{ end }}
+        </a>
+
+        {{ range $activeSection.RegularPages.ByDate.Reverse }}
+          <a
+            class="nav-link nav-link--ghost {{ if and $reportPage (eq $viewMode "page") (eq .RelPermalink $reportPage.RelPermalink) }}is-active{{ end }}"
+            href="{{ .RelPermalink }}"
+          >
+            <span class="nav-link__main">
+              <span>{{ .Date | time.Format "2006-01-02" }}</span>
+              {{ if and $reportPage (eq $viewMode "page") (eq .RelPermalink $reportPage.RelPermalink) }}
+                <span class="nav-link__sub">Current report</span>
+              {{ else }}
+                <span class="nav-link__sub">Archive entry</span>
+              {{ end }}
+            </span>
+            <span class="nav-link__meta">{{ if and $reportPage (eq $viewMode "page") (eq .RelPermalink $reportPage.RelPermalink) }}Open{{ else }}Report{{ end }}</span>
+          </a>
+        {{ else }}
+          <p class="sidebar-note">這個人物目前沒有歷史報告。</p>
+        {{ end }}
+      </nav>
+    {{ else }}
+      <p class="sidebar-note">先建立 `content/&lt;person&gt;/yyyy-mm-dd.md`，日期選單就會自動出現。</p>
+    {{ end }}
+  </section>
+</aside>

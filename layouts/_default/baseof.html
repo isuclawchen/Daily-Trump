@@ -1,0 +1,51 @@
+{{- $siteTitle := site.Title -}}
+{{- $pageTitle := $siteTitle -}}
+{{- if .IsHome -}}
+  {{- $pageTitle = printf "People Files · %s" $siteTitle -}}
+{{- else if .IsSection -}}
+  {{- $pageTitle = printf "%s · %s" .Title $siteTitle -}}
+{{- else if .IsPage -}}
+  {{- $sectionTitle := .CurrentSection.Title | default (.Section | humanize) -}}
+  {{- $pageTitle = printf "%s · %s · %s" $sectionTitle (.Date | time.Format "2006-01-02") $siteTitle -}}
+{{- end -}}
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ $pageTitle }}</title>
+  <meta name="description" content="{{ site.Params.description }}">
+  <script>
+    (() => {
+      const storageKey = "dpr-theme";
+      let savedTheme = "";
+      try {
+        savedTheme = localStorage.getItem(storageKey) || "";
+      } catch (error) {
+        savedTheme = "";
+      }
+      const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      document.documentElement.dataset.theme = savedTheme || systemTheme;
+    })();
+  </script>
+  <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head>
+<body>
+  <div class="site-frame">
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-brand" href="{{ "/" | relURL }}">
+          <span class="site-brand__eyebrow">People Files</span>
+          <span class="site-brand__title">{{ site.Title }}</span>
+        </a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="切換深色模式" aria-pressed="false">
+          <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+          <span class="theme-toggle__label">切換主題</span>
+        </button>
+      </div>
+    </header>
+    {{ block "main" . }}{{ end }}
+  </div>
+  <script src="{{ "js/site.js" | relURL }}" defer></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+baseURL: /
+languageCode: zh-Hant
+title: Daily Public Report
+defaultContentLanguage: zh-hant
+timeZone: Asia/Taipei
+enableGitInfo: true
+
+disableKinds:
+  - taxonomy
+  - term
+
+frontmatter:
+  date:
+    - :filename
+    - date
+    - publishDate
+    - lastmod
+  publishDate:
+    - publishDate
+    - :filename
+    - date
+  lastmod:
+    - lastmod
+    - :git
+    - :fileModTime
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  description: 以人物為主軸的追蹤站，聚焦最新報告與歷史時間線。
+
+caches:
+  images:
+    dir: :cacheDir/images
