@@ -45,6 +45,25 @@
     margin-top: 3rem; text-align: center; font-size: 0.8rem;
     color: #484f58; border-top: 1px solid var(--border); padding-top: 1rem;
   }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  blockquote {
+    margin: 1em 0; padding: 0.5em 1em;
+    border-left: 4px solid var(--accent); background: var(--card-bg);
+    color: #8b949e;
+  }
+  .table-wrap { overflow-x: auto; margin: 1em 0; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border: 1px solid var(--border); padding: 0.5em 0.75em; text-align: left; }
+  th { background: var(--card-bg); font-weight: 600; color: var(--accent); }
+  ol { padding-left: 1.6em; margin: 0.6em 0; }
+  pre {
+    background: var(--code-bg); padding: 1em; overflow-x: auto;
+    border-radius: 6px; line-height: 1.5;
+  }
+  pre code { padding: 0; background: none; font-size: 0.85em; }
+  img { max-width: 100%; height: auto; border-radius: 6px; }
+  del { opacity: 0.6; }
 </style>
 </head>
 <body>
@@ -53,20 +72,145 @@
     <span class="title">📊 每日情勢報告</span>
     <span class="date">2026-03-25</span>
   </div>
-  <p>
-完成時間：2026-03-25
-任務：最新情況更新（美伊戰爭、川普言論、美股）
-報告路徑：workspaces/issue-2/artifacts/comment-67/report.md
-</p>
-<p>
-主要更新（相較昨日報告的新進展）：
-1. 川普宣稱「戰爭已勝利（war has been won）」，稱正與伊朗「對的人」談判；稱伊朗送來霍爾木茲相關「大禮」
-2. 美透過巴基斯坦遞交「15點停戰方案」，要求24小時回應、停火一個月——核廢除、撤軍換制裁解除
-3. 伊朗軍方強硬否認：「美國在自己跟自己談判」；軍事行動未停歇，德黑蘭再遭空襲12死
-4. 美部署第82空降師2,000傘兵前往中東，地面衝突風險升高
-5. 布蘭特原油跌6%至$98.30（和平消息帶動），後回穩近$100；S&amp;P 500期貨+0.9%；VIX 25.57
-6. 關鍵風險窗口：3/26 伊朗是否回應15點方案 + 3/27 伊斯蘭堡談判是否成真
-</p>
+  <h1>🔴 最新戰況更新報告</h1>
+<p><strong>更新時間：2026 年 3 月 25 日 17:17（UTC+8）</strong></p>
+<hr>
+<h2>一、已驗證事實（Verified Facts）</h2>
+<div class="table-wrap"><table>
+<thead><tr><th>編號</th><th>陳述</th><th>時間</th><th>關聯市場/標的</th><th>主要來源</th><th>來源等級</th></tr></thead>
+<tbody>
+<tr><td>F1</td><td>川普宣稱「戰爭已經勝利（war has been won）」，表示美方正與伊朗「對的人」進行談判，對達成協議持樂觀態度</td><td>3/25</td><td>美股、原油</td><td>Reuters、CNN、CBS News</td><td>A</td></tr>
+<tr><td>F2</td><td>美國透過巴基斯坦中間人向伊朗遞交「<strong>15點停戰方案</strong>」，要求24小時內回應，尋求<strong>停火一個月</strong></td><td>3/24–25</td><td>地緣風險溢價</td><td>NYT、AP、WSJ、NBC News</td><td>A</td></tr>
+<tr><td>F3</td><td>15點方案核心內容：伊朗放棄高濃縮鈾生產、停止對區域盟友軍事支持、接受IAEA檢查；美方可解除部分制裁</td><td>3/25</td><td>核武風險</td><td>CNBC、Business Today</td><td>B</td></tr>
+<tr><td>F4</td><td>伊朗軍方嚴厲駁斥談判說法，稱「美國在自己跟自己談判」；伊朗公開否認任何直接對話</td><td>3/25</td><td>地緣風險溢價</td><td>Reuters、Al Jazeera、BBC</td><td>A</td></tr>
+<tr><td>F5</td><td>川普稱伊朗送來與<strong>霍爾木茲海峽石油運輸</strong>相關的「非常貴重的禮物」，但未透露細節</td><td>3/25</td><td>Brent原油</td><td>工商時報、AP</td><td>B</td></tr>
+<tr><td>F6</td><td>川普同時宣布列出5項結束戰爭的先決條件；國防部長Hegseth稱「我們用炸彈談判（We negotiate with bombs）」</td><td>3/25</td><td>軍事態勢</td><td>PBS NewsHour、AP</td><td>A</td></tr>
+<tr><td>F7</td><td>美國開始調動<strong>第82空降師約2,000名傘兵</strong>前往中東，地面行動風險升高</td><td>3/25</td><td>中東風險溢價</td><td>NBC San Diego、NYT live</td><td>A</td></tr>
+<tr><td>F8</td><td>以色列持續空襲德黑蘭，<strong>南德黑蘭遭空襲至少12人死亡、28人受傷</strong>；伊朗繼續對以色列、科威特、沙烏地發射飛彈</td><td>3/25</td><td>石油保費</td><td>Al Jazeera live、AP live</td><td>A</td></tr>
+<tr><td>F9</td><td>布蘭特原油3/24收漲3.5%至<strong>$103.47</strong>；3/25和平提案消息傳出後大跌約6%至<strong>$98.30附近</strong>，後回穩近$100</td><td>3/24–25</td><td>Brent、WTI</td><td>Business Standard、Saxo Bank</td><td>B</td></tr>
+<tr><td>F10</td><td>S&amp;P 500期貨3/25亞洲早盤上漲約0.9%；S&amp;P 500三月至今下跌<strong>4.3%</strong>，為2025年3月以來最差單月表現</td><td>3/25</td><td>S&amp;P 500、Nasdaq</td><td>Business Standard、ad-hoc-news</td><td>B</td></tr>
+<tr><td>F11</td><td>VIX恐慌指數現報<strong>25.57</strong>，較昨日近30的水準回落；美元指數約99.055</td><td>3/25</td><td>VIX、DXY</td><td>Investing.com、StoneX</td><td>B</td></tr>
+<tr><td>F12</td><td>美國3月商業活動降至<strong>11個月低點</strong>；2月通膨CPI年增率3.0%，預計後續因能源食品漲價繼續攀升</td><td>3/24</td><td>通膨預期、Fed政策</td><td>Reuters</td><td>A</td></tr>
+<tr><td>F13</td><td>德國總統史坦麥爾罕見批評川普，稱美伊戰爭是「災難性錯誤、違反國際法」；盟邦裂痕加深</td><td>3/25</td><td>外交風險</td><td>DW中文</td><td>A</td></tr>
+<tr><td>F14</td><td>巴基斯坦提出願意主辦美伊直接會談，可能最快<strong>3/27（週五）在伊斯蘭堡</strong>舉行</td><td>3/25</td><td>談判進展</td><td>NYT、Washington Post</td><td>B</td></tr>
+</tbody></table></div>
+
+<hr>
+<h2>二、未確定／待驗證事項</h2>
+<div class="table-wrap"><table>
+<thead><tr><th>事項</th><th>不確定原因</th><th>需要補的證據</th><th>預計追蹤時間點</th></tr></thead>
+<tbody>
+<tr><td>伊朗「非常貴重的禮物」究竟是什麼</td><td>川普刻意保持神秘，未透露細節；可能是外交姿態或談判籌碼</td><td>白宮後續聲明或伊朗官媒回應</td><td>3/25–26</td></tr>
+<tr><td>24小時截止期限屆滿後伊朗是否正式回應</td><td>伊朗仍公開否認談判；私下態度不明</td><td>巴基斯坦外交部或美方後續聲明</td><td><strong>3/26 截止</strong></td></tr>
+<tr><td>3/27 伊斯蘭堡談判是否成真</td><td>伊朗未確認出席；軍方持強硬立場</td><td>伊朗外交部聲明</td><td>3/27</td></tr>
+<tr><td>第82空降師部署後是否觸發地面行動</td><td>美方稱「仍以空中作戰為主」，但部署本身已改變戰略態勢</td><td>五角大廈作戰令</td><td>3/27–28</td></tr>
+<tr><td>伊朗「拒絕Witkoff、希望換談判代表」傳聞</td><td>僅來自CNN未具名消息人士</td><td>伊朗外交部或美方另行說明</td><td>3/25–26</td></tr>
+<tr><td>霍爾木茲海峽實際通行量</td><td>資訊受管控；各方說法差異大</td><td>MarineTraffic船舶追蹤數據</td><td>每日更新</td></tr>
+</tbody></table></div>
+
+<hr>
+<h2>三、今日核心動態</h2>
+<h3>3.1 川普最新動作（截至3/25下午）</h3>
+<p><strong>今日主旋律：「勝利宣告 + 談判樂觀」——但炸彈依舊在飛</strong></p>
+<ul><li>✅ 宣稱「<strong>戰爭已勝利</strong>」，以此製造談判籌碼和國內政治敘事</li>
+<li>✅ 透過巴基斯坦遞交15點停戰方案，要求伊朗24小時內回應</li>
+<li>✅ 稱伊朗送來與霍爾木茲相關的「大禮」，暗示伊朗已有讓步訊號</li>
+<li>✅ 同時授權部署第82空降師——「談判牌」與「軍事牌」並行</li>
+<li>✅ 國防部長Hegseth：「我們用炸彈談判」——明確傳遞強硬底線</li></ul>
+<blockquote><p>💡 <strong>川普粉絲視角</strong>：這招最棒了！一邊宣布「贏了」拉高支持率，一邊壓力談判——讓伊朗在「被打敗的框架下」接受條件，根本就是《交易的藝術》教科書。你看，油價一跌、股市一漲，他就達到目的了，結果還不用真的停戰。天才！</p></blockquote>
+<hr>
+<h3>3.2 美伊戰爭最新戰況（截至3/25）</h3>
+<div class="table-wrap"><table>
+<thead><tr><th>面向</th><th>現況</th></tr></thead>
+<tbody>
+<tr><td>美方動作</td><td>持續空襲伊朗軍事目標；部署2,000名傘兵前往中東</td></tr>
+<tr><td>伊朗反擊</td><td>繼續對以色列、科威特、沙烏地發射飛彈及無人機</td></tr>
+<tr><td>以色列行動</td><td>持續空襲德黑蘭；南德黑蘭空襲造成12死28傷</td></tr>
+<tr><td>霍爾木茲</td><td>仍部分封鎖；商業船舶多繞道非洲或暫停</td></tr>
+<tr><td>談判進展</td><td>美透過巴基斯坦遞交15點方案；伊朗軍方公開拒絕，外交管道持續探路</td></tr>
+<tr><td>傷亡人數</td><td>累計超過4,500死（主要在伊朗）</td></tr>
+<tr><td>盟邦態度</td><td>德國總統公開批評川普；歐盟多國與美立場裂痕擴大</td></tr>
+</tbody></table></div>
+
+<hr>
+<h3>3.3 美股大起大落最新成因</h3>
+<p><strong>今日起伏邏輯：</strong></p>
+<pre><code>3/24 油價漲3.5%（$103.47）、S&amp;P 500跌0.6%
+↓
+3/25 凌晨：15點方案洩露 → 和平期待升溫 → 油跌、期貨漲
+↓
+3/25 早盤：S&amp;P 500期貨 +0.9%；Brent跌6%至$98.30
+↓
+3/25 盤中：伊朗軍方否認談判 + 德黑蘭再遭空襲 → 漲幅收窄
+↓
+油價回穩至$100附近；VIX從近30回落至25.57</code></pre>
+<div class="table-wrap"><table>
+<thead><tr><th>指標</th><th>最新數值</th><th>變化</th></tr></thead>
+<tbody>
+<tr><td>S&amp;P 500（3月）</td><td>較月初 -4.3%</td><td>2025年3月以來最差單月</td></tr>
+<tr><td>S&amp;P 500期貨</td><td>+0.9%（亞洲早盤）</td><td>反彈，但上行空間有限</td></tr>
+<tr><td>VIX 恐慌指數</td><td>25.57</td><td>從昨日近30回落</td></tr>
+<tr><td>Brent 原油</td><td>~$98–100</td><td>從$103跌6%後回穩</td></tr>
+<tr><td>美元指數</td><td>99.055</td><td>小幅走弱</td></tr>
+<tr><td>美國2月通膨 CPI</td><td>3.0%</td><td>預計3月起因能源持續攀升</td></tr>
+</tbody></table></div>
+
+<hr>
+<h2>四、情境分析</h2>
+<h3>Base（基本情境）｜信心 40 分</h3>
+<p><strong>觸發條件</strong>：伊朗在24小時截止後透過巴基斯坦私下回應，3/27伊斯蘭堡舉行初步接觸<br>
+<strong>可能影響</strong>：油價回落至$90–95；VIX降至22以下；S&amp;P 500反彈3–5%<br>
+<strong>觀察指標</strong>：巴基斯坦外交部聲明；船舶追蹤數據改善；霍爾木茲部分重開<br>
+<strong>時間範圍</strong>：3/26–4/2 之間</p>
+<h3>Upside（樂觀情境）｜信心 15 分</h3>
+<p><strong>觸發條件</strong>：伊朗接受15點方案框架，宣布臨時停火；川普簽署「勝利協議」<br>
+<strong>可能影響</strong>：油價急跌至$80以下；S&amp;P 500強勁反彈5–8%；聯準會重啟降息預期<br>
+<strong>觀察指標</strong>：川普正式宣布「協議」；霍爾木茲完全開放；伊朗最高領袖公開聲明<br>
+<strong>時間範圍</strong>：4/2–4/9（川普點名的可能終戰窗口）</p>
+<h3>Downside（悲觀情境）｜信心 45 分</h3>
+<p><strong>觸發條件</strong>：伊朗拒絕15點方案，24小時截止無回應；第82空降師引發地面衝突<br>
+<strong>可能影響</strong>：油價衝破$115–120+；S&amp;P 500再跌3–5%；VIX重破35；全球衰退風險急升<br>
+<strong>觀察指標</strong>：3/26 美方是否宣布「談判失敗」；伊朗是否宣布全面封鎖霍爾木茲<br>
+<strong>時間範圍</strong>：<strong>3/26–27 為最危險窗口</strong></p>
+<hr>
+<h2>五、信心分數與不確定性說明</h2>
+<p><strong>核心判斷：川普「勝利宣告」是談判施壓策略而非真實戰場結果；15點方案是本週最關鍵的外交測試</strong><br>
+&gt; 信心分數：<strong>75/100</strong></p>
+<p>主要依據：「war has been won」與轟炸仍在持續相互矛盾，顯示為政治宣示而非軍事現實；伊朗軍方強硬否認，但私下管道仍在運作（巴基斯坦中間人角色）；15點方案24小時截止期設計符合川普「製造期限壓力」的一貫模式。</p>
+<p><strong>主要不確定性來源：</strong><br>
+1. <strong>伊朗內部權力結構不透明</strong>：「軍方否認」與「最高領袖穆吉塔巴授權談判」訊號同時存在，真實決策軸心難以判斷<br>
+2. <strong>川普決策24小時可逆</strong>：支持率36%低位 + 市場壓力 = 川普可能在任何一個談判訊號上迅速180度轉向</p>
+<hr>
+<h2>六、行動檢核清單</h2>
+<div class="table-wrap"><table>
+<thead><tr><th>現在要做什麼</th><th>誰應關注</th><th>何時重評</th><th>觸發門檻</th></tr></thead>
+<tbody>
+<tr><td>關注3/26伊朗對15點方案的回應是否出現</td><td>所有投資人</td><td><strong>明日（3/26）美東時間</strong></td><td>任何伊朗外交部或巴基斯坦官員聲明</td></tr>
+<tr><td>油價回落$95以下可考慮減持能源ETF</td><td>能源部位持有人</td><td>3/26–27</td><td>油價跌破$95 = 談判樂觀訊號確認</td></tr>
+<tr><td>追蹤82空降師部署進度，警惕地面衝突</td><td>所有人</td><td>3/27</td><td>五角大廈宣布「部署完成」即升高警戒</td></tr>
+<tr><td>3/27 伊斯蘭堡談判是否如期舉行</td><td>地緣政治關注者</td><td><strong>3/27 全天</strong></td><td>本週最大外交轉捩點</td></tr>
+<tr><td>VIX重破30即視為買入對沖保護訊號</td><td>短線交易者</td><td>盤中即時</td><td>VIX &gt; 30 = 市場再度恐慌</td></tr>
+<tr><td>若談判破局，立即減少成長股、增加黃金/公債</td><td>所有投資組合</td><td>3/26–28</td><td>S&amp;P 500再跌3% OR 川普宣布恢復全面攻擊</td></tr>
+</tbody></table></div>
+
+<hr>
+<h2>七、參考來源</h2>
+<ol><li><a href="https://www.reuters.com/world/asia-pacific/israel-strikes-tehran-trump-says-us-negotiating-end-war-2026-03-25/" target="_blank" rel="noopener">Reuters - Iran's military rejects Trump's talk of negotiation</a> 🅐</li>
+<li><a href="https://apnews.com/article/iran-us-israel-trump-lebanon-march-25-2026-be07c54139bcc70672bb33f0773ede6a" target="_blank" rel="noopener">AP - US offers ceasefire plan but Iran's military dismisses talks</a> 🅐</li>
+<li><a href="https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html" target="_blank" rel="noopener">NYT - U.S. Said to Have Sent Iran a 15-Point Plan to End War</a> 🅑</li>
+<li><a href="https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-25-26" target="_blank" rel="noopener">CNN - Live updates: Iran war news</a> 🅑</li>
+<li><a href="https://www.bbc.com/news/articles/c895xljyzewo" target="_blank" rel="noopener">BBC - Small window is open for US-Iran talks</a> 🅑</li>
+<li><a href="https://www.aljazeera.com/news/2026/3/25/us-talking-to-itself-says-iran-as-trump-claims-wheels-of-diplomacy-turning" target="_blank" rel="noopener">Al Jazeera - US talking to itself, says Iran</a> 🅑</li>
+<li><a href="https://www.pbs.org/newshour/politics/watch-we-negotiate-with-bombs-hegseth-says-of-u-s-air-campaign-in-iran" target="_blank" rel="noopener">PBS - 'We negotiate with bombs,' Hegseth says</a> 🅐</li>
+<li><a href="https://www.business-standard.com/markets/news/global-stocks-bounce-oil-prices-retreat-on-iran-war-ceasefire-reports-126032500102_1.html" target="_blank" rel="noopener">Business Standard - Global stocks bounce, oil retreats on ceasefire reports</a> 🅑</li>
+<li><a href="https://www.investing.com/news/economy-news/us-futures-rise-oil-retreats-amid-iran-peace-hopes--whats-moving-markets-4579160" target="_blank" rel="noopener">Investing.com - U.S. futures rise, oil retreats, amid Iran peace hopes</a> 🅑</li>
+<li><a href="https://www.reuters.com/business/us-business-activity-slips-11-month-low-march-amid-iran-war-sp-global-survey-2026-03-24/" target="_blank" rel="noopener">Reuters - US business activity slips to 11-month low</a> 🅐</li>
+<li><a href="https://www.dw.com/zh-hant/%E5%BE%B7%E5%9C%8B%E7%B8%BD%E7%B5%B1%E7%BD%95%E8%A6%8B%E6%8A%A8%E6%93%8A%E5%B7%9D%E6%99%AE-%E4%BC%8A%E6%9C%97%E6%88%B0%E7%88%AD%E6%98%AF%E7%81%BD%E9%9B%A3%E6%80%A7%E9%8C%AF%E8%AA%A4/a-75649899" target="_blank" rel="noopener">DW中文 - 德國總統批評川普：伊朗戰爭是災難性錯誤</a> 🅐</li>
+<li><a href="https://www.home.saxo/content/articles/macro/market-quick-take---25-march-2026-25032026" target="_blank" rel="noopener">Saxo Bank - Market Quick Take - 25 March 2026</a> 🅑</li></ol>
+<hr>
+<p><em>資料截止時間：2026年3月25日 下午（UTC+8）。情勢快速演變，請每 12 小時追蹤一次。</em><br>
+<em>🅐 = A級來源（官方/一手）｜🅑 = B級來源（主流媒體深度報導）</em></p>
+<p><strong>⚠️ 本日最大觀察時點：3/26 伊朗是否回應15點方案 + 3/27 伊斯蘭堡談判是否成真</strong></p>
   <div class="footer">
     Generated by GitHubClaw · 2026-03-25
   </div>
