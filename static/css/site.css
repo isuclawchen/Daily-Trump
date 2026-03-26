@@ -197,6 +197,17 @@ select {
   line-height: 1.12;
 }
 
+.person-tabs__badge {
+  display: inline-flex;
+  width: fit-content;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent-soft) 78%, var(--surface));
+  color: var(--accent-strong);
+  font-size: 0.72rem;
+  line-height: 1.4;
+}
+
 .person-tabs__meta {
   color: var(--muted);
   font-family: var(--font-mono);
@@ -213,6 +224,24 @@ select {
 .sidebar {
   position: sticky;
   top: 98px;
+}
+
+.dossier-header__title-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.person-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent-soft) 78%, var(--surface));
+  color: var(--accent-strong);
+  font-size: 0.8rem;
+  line-height: 1.2;
 }
 
 .sidebar-panel,

@@ -41,6 +41,9 @@
               <p class="section-kicker">人物檔案</p>
               <div class="dossier-header__title-row">
                 <h1 class="dossier-header__title">{{ $sectionTitle }}</h1>
+                {{ with $activeSection.Params.badge }}
+                  <span class="person-badge">{{ . }}</span>
+                {{ end }}
                 <span class="dossier-header__code">{{ upper $reportPage.Section }}</span>
               </div>
               <p class="dossier-header__summary">

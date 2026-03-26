@@ -12,6 +12,9 @@
       href="{{ .RelPermalink }}"
     >
       <span class="person-tabs__name">{{ $sectionTitle }}</span>
+      {{ with .Params.badge }}
+        <span class="person-tabs__badge">{{ . }}</span>
+      {{ end }}
       <span class="person-tabs__meta">{{ len .RegularPages }} reports</span>
     </a>
   {{ else }}
