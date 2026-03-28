@@ -31,6 +31,23 @@ markup:
 
 params:
   description: 以人物為主軸的追蹤站，聚焦最新報告與歷史時間線。
+  marketTicker:
+    locale: zh_TW
+    symbols:
+      - label: BTC
+        tradingview: BITSTAMP:BTCUSD
+      - label: S&P500
+        tradingview: FOREXCOM:SPXUSD
+      - label: NASDAQ
+        tradingview: FOREXCOM:NSXUSD
+      - label: DXY
+        tradingview: INDEX:DXY
+      - label: Gold
+        tradingview: OANDA:XAUUSD
+      - label: Oil
+        tradingview: TVC:USOIL
+      - label: USD/TWD
+        tradingview: FX_IDC:USDTWD
 
 caches:
   images:

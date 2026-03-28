@@ -11,6 +11,8 @@
       "activeSection" $activeSection
     ) }}
 
+    {{ partial "market-ticker.html" $ctx }}
+
     <div class="report-layout">
       {{ partial "sidebar.html" (dict
         "ctx" $ctx

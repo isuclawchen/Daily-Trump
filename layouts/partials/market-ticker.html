@@ -1,0 +1,42 @@
+{{ with site.Params.marketTicker }}
+  {{ $symbols := slice }}
+  {{ range .symbols }}
+    {{ $symbols = $symbols | append (dict "description" .label "proName" .tradingview) }}
+  {{ end }}
+
+  {{ if gt (len $symbols) 0 }}
+    <section class="market-strip panel" aria-labelledby="market-strip-title">
+      <p class="market-strip__label" id="market-strip-title">Markets</p>
+      <div class="market-strip__body">
+        <div
+          class="market-strip__grid"
+          data-market-grid
+          data-market-locale="{{ default "zh_TW" .locale }}"
+        >
+          {{ range $symbols }}
+            <div
+              class="market-strip__quote"
+              data-market-symbol="{{ .proName }}"
+            ></div>
+          {{ end }}
+        </div>
+        <div class="market-strip__meta">
+          <p class="market-strip__status">載入即時價格中。</p>
+          <div class="market-strip__credits">
+            <a
+              class="market-strip__credit"
+              href="https://www.tradingview.com/"
+              target="_blank"
+              rel="noopener nofollow"
+            >
+              Live by TradingView
+            </a>
+          </div>
+        </div>
+        <noscript>
+          <p class="market-strip__status">需要啟用 JavaScript 才能顯示 TradingView 即時行情。</p>
+        </noscript>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
