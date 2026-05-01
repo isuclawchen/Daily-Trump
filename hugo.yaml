@@ -44,8 +44,8 @@ params:
         tradingview: INDEX:DXY
       - label: Gold
         tradingview: OANDA:XAUUSD
-      - label: Oil
-        tradingview: TVC:USOIL
+      - label: BRENT
+        tradingview: TVC:UKOIL
       - label: USD/TWD
         tradingview: FX_IDC:USDTWD
 

@@ -13,6 +13,9 @@
   --shadow: 0 12px 32px rgba(41, 28, 23, 0.06);
   --code-bg: #ede5dc;
   --code-text: #312925;
+  --vtt-bg: #0f2747;
+  --vtt-time: #bfa24a;
+  --vtt-text: #d9e2ec;
   --page-width: 1180px;
   --content-width: 780px;
   --font-body: "Avenir Next", "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
@@ -39,6 +42,9 @@ html[data-theme="dark"] {
   --shadow: 0 16px 38px rgba(0, 0, 0, 0.2);
   --code-bg: #221d1a;
   --code-text: #ece2d6;
+  --vtt-bg: #0f2747;
+  --vtt-time: #bfa24a;
+  --vtt-text: #d9e2ec;
 }
 
 * {
@@ -584,6 +590,35 @@ select {
 .prose pre code {
   padding: 0;
   background: transparent;
+}
+
+.prose .highlight {
+  margin: 1em 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.prose .highlight pre {
+  margin: 0;
+  background: var(--code-bg) !important;
+  color: var(--code-text) !important;
+}
+
+.prose .highlight pre:has(code[data-lang="vtt"]) {
+  background: var(--vtt-bg) !important;
+  color: var(--vtt-text) !important;
+}
+
+.prose .highlight pre code[data-lang="vtt"],
+.prose .highlight pre code[data-lang="vtt"] * {
+  color: var(--vtt-text) !important;
+  background: transparent !important;
+}
+
+.prose .highlight pre code[data-lang="vtt"] [style*="color:#66d9ef"],
+.prose .highlight pre code[data-lang="vtt"] [style*="color:#e6db74"],
+.prose .highlight pre code[data-lang="vtt"] [style*="color:#f92672"] {
+  color: var(--vtt-time) !important;
 }
 
 .prose blockquote {
