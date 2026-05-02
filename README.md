@@ -4,18 +4,17 @@ Hugo-based GitHub Pages site for daily public reports.
 
 ## Content Layout
 
-Reports live under a person section:
+Reports live under:
 
 ```text
-content/<section>/<slug-or-date>.md
+content/<person>/yyyy-mm-dd.md
 ```
 
 Examples:
 
 ```text
 content/trump/2026-03-25.md
-content/xMusk/2026-03-26.md
-content/Alansays/劉育綸 艾綸說【連假前震盪，迎接五月！】影音分析2026⧸04⧸30.md
+content/musk/2026-03-26.md
 ```
 
 Person landing pages use the latest report by default:
@@ -43,38 +42,6 @@ Recommended:
 - `weight`: ordering on the homepage and sidebar
 - `description`: short summary shown on the homepage card and person page
 
-For ASCII folder names such as `content/Alansays/`, set the human-readable label in `_index.md`:
-
-```md
----
-title: 艾綸說
-weight: 40
-description: 長期整理艾綸說的影音分析、重點字幕與台股盤勢觀察。
----
-```
-
-## Report Front Matter
-
-Two content patterns are supported:
-
-1. Date-based filename only:
-
-   ```text
-   content/trump/2026-03-25.md
-   ```
-
-2. Custom filename with explicit front matter date:
-
-   ```md
-   ---
-   title: 文章標題
-   date: 2026-04-30
-   description: 摘要
-   ---
-   ```
-
-Hugo resolves report dates from front matter first when present, and otherwise can infer them from a `yyyy-mm-dd.md` filename.
-
 ## Local Development
 
 ```bash
@@ -93,19 +60,6 @@ The workflow:
 
 ## Notes
 
-- Reports can use either a `yyyy-mm-dd.md` filename or an explicit `date:` in front matter
-- Markdown can contain raw HTML such as `<iframe>` and `<details>`
-- Fenced `vtt` blocks use the site's custom subtitle palette
+- Report dates are inferred from the filename `yyyy-mm-dd.md`
+- Markdown can contain raw HTML if needed
 - Dark mode is built into the site shell and stored in `localStorage`
-
-## Market Ticker
-
-Homepage market widgets are configured in `hugo.yaml`:
-
-```yaml
-params:
-  marketTicker:
-    symbols:
-      - label: BRENT
-        tradingview: TVC:UKOIL
-```
