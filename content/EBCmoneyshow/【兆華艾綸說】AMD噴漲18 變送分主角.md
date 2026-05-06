@@ -859,59 +859,59 @@ N字形做一個確立
 <a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2711&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:45:11.439 --&gt; 00:45:41.439</a>
 我們一直講,做技術派的人就不能買。好不容易才打開。對,他今天盤中殺得很快,殺到平盤。那平盤能不能買?其實剛好,如果我們學技術分析者,這個叫標股。漲停,漲停,漲停,漲停,漲停,這叫標股。標股漲停打開是要賣的,不是給你買的。前面就應該要上車了。對,我們標股的戰法,如果你真的做到一支了,
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2741&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:45:41.959 --&gt; 00:45:47.179</a>
-閘提一下, aument �� é
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2741&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:45:41.799 --&gt; 00:45:43.399</a>
+聲稱什麼?
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2748&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:45:48.179 --&gt; 00:46:11.139</a>
-所以今天本來是聯發哥律提了,你可能會�主 Hoje O
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2762&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:02.059 --&gt; 00:46:03.879</a>
+於是去過幾個帳範,以上 Ads家洽,那 Polan 合作ところ,他就是問 herself 別 の 何 有因素的、沒有。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2771&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:11.439 --&gt; 00:46:19.839</a>
-明天開低的話你就趕快走。因為這個量太大。你一開低,這個量就出來了。它的賣壓就出來了。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2763&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:03.879 --&gt; 00:46:33.879</a>
+這個明天不可以開低,明天一開低,你就趕快跑。那更要跑,因為你今天沒跑嘛。所以明天開低的話,你就趕快走。因為這個量太大,你一開低,這個量就出來了。它的賣壓就出來了。有一點點它的力氣好像快放進的感覺。畢竟也長那麼多天。好,那接下來的話我們來看。這個應該是這一波到4萬點以上大家最常問的。賣飛了怎麼辦?其實這也是跟技術分析的,
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2779&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:19.839 --&gt; 00:46:24.839</a>
-有一點點它的利器好像快放進的感覺。畢竟也漲那麼多天。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2793&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:33.879 --&gt; 00:46:44.879</a>
+這支股票如果你在這買,結果今天沒有漲你賣了,那你就賣飛了。盤中有時候會洗你啊,我講主力會洗。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2784&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:24.839 --&gt; 00:46:30.839</a>
-接下來的話我們來看。這個應該是這一波到4萬點以上大家最常問的。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2804&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:44.879 --&gt; 00:46:49.879</a>
+我可能會賣在那個最低點,想說沒救了,沒救了,隔天就噴噴噴噴噴。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2790&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:30.839 --&gt; 00:46:40.839</a>
-賣飛了怎麼辦?其實這也是跟技術分析的紀律有關。這支股票如果你在這買,結果今天沒有漲你賣了,那你就賣飛了。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2809&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:49.879 --&gt; 00:46:57.879</a>
+那我們就講嘛,你就沿著五軍嘛,不管他今天紅的、黑的、上銀線、下銀線,你沒有跌破五軍就不賣。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2800&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:40.839 --&gt; 00:46:44.839</a>
-對不對?盤中有時候會洗你啊,我講主力會洗。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2817&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:57.879 --&gt; 00:47:27.779</a>
+那你就不怕被阻力整來整去的。因為有時候它是盆中洗,那第二天又拉一個漲停。所以我們就講按紀律。那這個就是也一樣。標股是不是按照紀律?對不對?你就賣了嘛。賣了,怎麼又漲?你說很後悔。不用啊,你這邊再買啊。你現在又賺一段。其實你是賣在這邊,你買在這邊,你還多賺。比你抱起來還賺得多。因為你賣的比較高嘛。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2804&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:44.839 --&gt; 00:46:49.839</a>
-我可能會賣在那個最低點,想說沒救了。沒救,隔天就噴噴噴噴噴。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2847&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:47:27.779 --&gt; 00:47:57.779</a>
+買的比較低嘛。所以你還多賺。我很可能就是賣在那天有下影線說不行了啦,就賠了啦,然後把它賣掉,然後昨天就噴漲停。這個賣是剛才我講的,標股的賣法。因為你已經獲利一個漲停,兩個漲停,三個、四個。所以你高檔有這種變盤黑鏡,你就趕快賣。這是技術面的一個操作技巧。還有賣飛我覺得是心態上的調整。如果賣了之後沒有勇氣把它買回來,那就是賣飛。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2809&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:49.839 --&gt; 00:46:57.839</a>
-那我們就講嘛,你就沿著五軍嘛,不管它今天紅的、黑的、上影線、下影線,你沒有跌破五軍就不賣。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2877&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:47:57.779 --&gt; 00:48:27.759</a>
+所以我們常常有時候跟朋友開玩笑說它不會漲了因為我今天買了所以標股我今天買了明天可能就不會漲了。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2817&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:46:57.839 --&gt; 00:47:06.839</a>
-那你就不怕被主力,它整一整,整來整去的。因為有時候它是盤中洗,那第二天又拉個漲停。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2907&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:27.779 --&gt; 00:48:29.779</a>
+有這麼一個魔咒在。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2826&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:47:06.839 --&gt; 00:47:36.839</a>
-所以我們就講按紀律。那這個就是也一樣。標股是不是按照紀律?對不對?你就賣了嘛。賣了,怎麼又漲?你是不是很後悔?不用啊,你這邊再買啊。你現在又賺一段了。其實你是賣在這邊,你買在這邊,你還多賺。比你抱起來還賺得多。因為你賣的比較高嘛,買的比較低嘛。所以你還多賺。我很可能就是賣在那一天有那個下影線說,不行了啦,就賠了啦。然後把他賣了。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2909&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:29.779 --&gt; 00:48:34.779</a>
+所以今天朱老師把散戶朋友們在這一段時間的疑問都告訴大家了。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2886&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:06.839 --&gt; 00:48:20.679</a>
-就回到第一個問題。那個不一樣,那個是因為你賣了它後面還有一小段嘛,那你就算了那一段,那你又去追,哇糟糕了,結果你還又賠回去了。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2914&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:34.779 --&gt; 00:48:36.779</a>
+也很謝謝朱老師教導我們。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2900&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:20.679 --&gt; 00:48:29.799</a>
-所以我們常常有時候跟朋友開玩笑說,它不會漲了,因為我今天買了,所以標股我今天買了,明天可能就不會漲了。有這麼一個魔咒在。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2916&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:36.779 --&gt; 00:48:38.779</a>
+而且我們會發現一件事。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2909&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:29.799 --&gt; 00:48:34.999</a>
-好,所以今天朱老師把散戶朋友們在這一段時間的疑問都告訴大家了。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2918&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:38.779 --&gt; 00:48:40.779</a>
+雖然朱老師的學生已經上萬個了。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2914&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:34.999 --&gt; 00:48:37.299</a>
-也很謝謝朱老師教導我們啦。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2920&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:40.779 --&gt; 00:48:42.779</a>
+可是問題是永遠一樣的。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2917&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:37.299 --&gt; 00:48:42.799</a>
-而且我們會發現一件事,雖然朱老師的學生已經上萬個了,可是問題是永遠一樣的。
-
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2922&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:42.799 --&gt; 00:48:45.299</a>
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2922&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:42.779 --&gt; 00:48:45.779</a>
 跟當初可能只有十個學生是一樣的。
 
-<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2925&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:45.299 --&gt; 00:48:49.799</a>
-這個,這個怎麼講,交給你啊。
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2925&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:45.779 --&gt; 00:48:47.779</a>
+這個怎麼講?
+
+<a href="https://www.youtube.com/embed/bGw4ys3B50Y?start=2927&amp;autoplay=1" target="yt-player-bGw4ys3B50Y">00:48:47.779 --&gt; 00:48:49.779</a>
+交給你啊。
 </pre>
 
 </details>
