@@ -9,7 +9,7 @@ tags:
   - 股票分析
 categories:
   - 投資筆記
-description: "整理外資買台股ETF、主動式ETF回檔操作差異，以及核心配置、加碼條件與融資維持率觀察。"
+description: "影片整理台股回檔後的ETF配置邏輯，重點在主動式ETF的抄底節奏、被動式市值型作為核心配置，以及加碼前提是產品趨勢與資金配置。"
 ---
 
 # 【兆華艾綸說】外資大買台股ETF 秘辛？
@@ -33,28 +33,26 @@ description: "整理外資買台股ETF、主動式ETF回檔操作差異，以及
 
 ## 文章摘要（核心）
 
-本集主軸是在整理外資與主動式ETF在台股大幅回檔後的操作差異，並用 00980A、00981A、00985A 的不同做法來說明經理人風格。講者認為主動式產品追求超額報酬，但在下跌時波動也會比較大，不能只用一次回檔就否定整體表現。節目同時強調，核心配置仍應以被動式市值型為主，高股息可作為穩定部位。若要在回檔時加碼，前提是標的長期趨勢向上，而且手上要有資金子彈。
+這集主要在談台股7月回檔後的ETF配置與操作節奏，重點放在主動式ETF與被動式市值型ETF的差異。講者認為，主動式ETF適合追求超額報酬，但波動也較大；被動式市值型才比較適合作為核心配置。影片也用經理人實際加碼與不加碼的時點，說明抄底、追漲與分批布局的差異。整體結論是：先顧好核心部位，再用剩餘資金追求額外報酬。
 
 ---
 
 ## 投資重點整理（最重要）
 
-- **主動式ETF追求超額報酬**：講者認為它在上漲時衝得快，但回檔時也會修正得快；意義是投資人要先接受波動，才能談報酬。
-- **不要只看一次回檔就否定產品**：節目認為 7 月這波是主動式ETF的一次考驗，短期下跌不代表長期失效。
-- **核心配置先放被動式市值型**：講者反覆強調核心部位應先以被動市值型建立基本報酬，投資順序不要顛倒。
-- **高股息較抗跌**：在市場回檔時，高股息因為定位不同，表現相對穩定；可用來平衡整體波動。
-- **加碼前提是長期趨勢向上**：若產品圖形是往右上角走，回檔時可考慮加碼；若是平盤或往下走，就不適合硬攤平。
-- **有錢才有辦法加碼**：講者提醒，前面漲多時若把子彈全打完，真正回檔出現時反而沒資金可以布局。
-- **融資維持率可觀察市場壓力**：字幕提到只算個股的維持率，跌破 135% 以下容易引發恐慌，之後可能出現反彈。
-- **不同經理人風格差很多**：有的偏抄底、有的在下跌過程就先布局，有的會等反彈前後再追；選ETF前要先看自己能不能接受那種操作節奏。
-- **先求穩，再求超額**：節目的整體建議是先把該拿的核心部位拿好，剩下資金再去追主動式、產業型、主題型的超額報酬。
+- **核心配置先做穩**：被動式市值型ETF才是核心部位，先把市場基本曝險拿下來。
+- **主動式ETF追求超額報酬**：主動式產品目標是跑贏大盤，但回檔時跌幅通常也更快。
+- **加碼前提是產品趨勢**：適合加碼的是長期圖形往右上走的產品；若長期平盤或下行，就不適合硬加碼。
+- **有錢才有加碼能力**：前面資金太早用完，遇到急跌反彈時就沒有子彈。
+- **回檔是配置檢查點**：若回檔時感到極度痛苦，代表部位波動可能太高，應檢查主動式比例。
+- **經理人操作風格差很多**：有的在反彈前一天大買，有的在下跌過程中一路加碼，節奏與個性不同。
+- **高股息的定位是穩定**：高股息產品在回檔時相對抗跌，但其定位不是追求最高超額報酬。
+- **融資維持率是觀察指標之一**：字幕提到用維持率觀察市場壓力，跌到特定區間時容易出現恐慌與反彈。
+- **投資順序不要顛倒**：先求穩，再用剩餘資金追求產業型、主動型、主題型等超額報酬。
+- **部位配置要符合性格**：可選擇跟自己性格相近的經理人，或找互補型風格，重點是自己能持有。
 
 ---
 
 ## 台股投資整理
-
-| 股票 | 代號 | 題材/族群 | 節目原話重點 | 觀察依據 | 觀察條件 | 風險/失效點 | 影片時間 |
-|---|---|---|---|---|---|---|---|
 
 > 本影片未明確提出具有可驗證觀點的台股個股。
 
@@ -62,22 +60,21 @@ description: "整理外資買台股ETF、主動式ETF回檔操作差異，以及
 
 ## 產業與市場觀察
 
-- **大盤方向**：7 月先大幅回檔，之後出現反彈，但整體仍未回到高點。
-- **產業趨勢**：主動式ETF、高股息ETF、市值型ETF的定位差異，在震盪盤中被放大。
-- **主流題材**：台股ETF、主動式策略、融資維持率、回檔加碼。
-- **資金流向**：字幕提到外資也在買台股ETF，主動式經理人則在下跌與反彈過程中做不同布局。
-- **操作節奏**：先看長期趨勢，再決定是否逢回加碼；若是波動太高的部位，可考慮降低比重，改用高股息平衡。
+- **大盤方向**：7月出現明顯回檔，之後又快速反彈；講者認為回檔後可重新檢視配置。
+- **產業趨勢**：字幕重點不在單一產業，而在ETF商品類型的比較，特別是主動式與被動式。
+- **主流題材**：主動式ETF、高股息ETF、市值型ETF。
+- **資金流向**：外資與經理人都在買台股ETF，且在市場情緒低點時出現加碼動作。
+- **操作節奏**：先看長期趨勢，再決定是否加碼；若產品長期向上，回檔可視為布局機會。
 
 ---
 
 ## 關鍵名詞
 
-- **主動式ETF**：由經理人主動選股與調整部位，目標是追求超額報酬。
-- **被動式市值型**：跟隨市場指數的產品，講者視為核心配置。
-- **高股息ETF**：節目中被定位為相對穩定、抗跌的配置工具。
-- **融資維持率**：字幕中拿來觀察市場壓力與恐慌程度的指標。
-- **抄底 / 加碼**：在市場回檔時分批布局的操作方式。
-- **00980A / 00981A / 00985A**：字幕中用來比較不同主動式ETF經理人風格的個案。
+- **主動式ETF**：由經理人主動選股與調整部位，目標是超越大盤。
+- **被動式市值型ETF**：追蹤大盤或市值權重，適合作為核心配置。
+- **高股息ETF**：強調配息與相對穩定，回檔時通常較抗跌。
+- **融資維持率**：字幕用來觀察市場壓力與恐慌程度的指標之一。
+- **超額報酬**：主動式產品希望創造、並跑贏加權指數的報酬。
 
 <!-- raw-vtt-appendix:start -->
 ## 字幕附錄（VTT）
@@ -692,37 +689,37 @@ WEBVTT
 我是要買跟我的性格相近的
 
 <a href="https://www.youtube.com/embed/V18P-vLQn6A?start=847&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:14:07.663 --&gt; 00:14:37.663</a>
-還是我要找一個互補的經理人。那這樣子的話,你在投資的過程中,你有沒有覺得好像又多了一些很莫名其妙的樂趣就跑出來了。好,但是剛剛有提到,即使從年初三到現在,主動是還是銀試值對不對?BOT,就是這個BOT。很多人就是四五月才去買。所以呢,七元一回土,不但沒有賺,搞不好還倒賠。對,所以如果手上現在ETF是呈現,因為之前累積的部位是在比較高檔區的話,我現在
+還是我要找一個互補的經理人。那這樣子的話,你在投資的過程中,你有沒有覺得好像又多了一些很莫名其妙的樂趣就跑出來了。好,但是呢剛剛有提到即使從年初三到現在主動是還是銀式值對不對?BOT,就是這個BOT,很多人就是4、5月才去買。所以呢,七元一回土,哎呦,不但沒有賺搞不好還倒賠。對,所以如果手上現在ETF是呈現,因為之前累積的部位是在比較高檔區的話,我現在
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=877&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:14:37.663 --&gt; 00:15:07.623</a>
-那就可以加碼了嗎?當然啊!當然可以加碼了!那你為什麼那天不買?你有錢就加碼啦!對不對?但是呢我們在這個部分喔!我覺得有一個前提是投資朋友一定要先弄清楚的!ETF呢你跑來問我我一定都跟你講可以加碼!但是呢!但是你不能夠只聽我講前面!我後面那一段你也得聽清楚!就是說!我們在看加碼這件事情它有個前提!就是呢!
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=877&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:14:37.663 --&gt; 00:15:07.663</a>
+那就可以加碼了嗎?當然啊,當然可以加碼了。那你為什麼那天不買?你有錢就加碼了,對不對?但是呢,我們在這個部分,我覺得有一個前提是投資朋友一定要先弄清楚的。ETF呢,你跑來問我,我一定都跟你講可以加碼。但是呢,但是,你不能夠只聽我講前面。我後面那一段你也得聽清楚。就是說,我們在看加碼這件事情,它有個前提,就是呢,你可能只聽我講前面。我後面那一段你也得聽清楚。就是說,我們在看加碼這件事情,它有個前提,就是呢,你可能只聽我講前面。
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=907&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:07.623 --&gt; 00:15:37.623</a>
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=907&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:07.663 --&gt; 00:15:37.663</a>
 你要先看它的股價的趨勢。有些產品呢,它是往右上走的。有些產品的話,它是平盤,甚至呢,它是往下走的。那我們今天在講說啊,如果今天遇到市場的回檔,你問我它可不可以做加碼。你選的是那種時間拉長,它會往右上角走的。這個不要怕。你就是呢,有閒錢就是做加碼的動作。那時間拉的夠長,就算現在回檔了,
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=937&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:37.623 --&gt; 00:15:42.023</a>
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=937&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:37.663 --&gt; 00:15:42.063</a>
 之後他還是有機會可以超過你現在的投入成本
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=942&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:42.023 --&gt; 00:15:46.623</a>
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=942&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:42.063 --&gt; 00:15:46.663</a>
 可是呢,如果今天他是像這種平盤甚至一路往下的
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=946&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:46.623 --&gt; 00:15:50.223</a>
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=946&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:46.663 --&gt; 00:15:50.263</a>
 這個我們就不要談什麼加碼了,好不好?
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=950&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:50.223 --&gt; 00:15:55.623</a>
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=950&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:50.263 --&gt; 00:15:55.763</a>
 這種你可能花了很多時間在上面,結果最後會繞得一無所獲
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=955&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:55.623 --&gt; 00:15:58.623</a>
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=955&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:55.763 --&gt; 00:15:58.763</a>
 像這種的話就比較不太適合去做加碼
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=958&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:58.623 --&gt; 00:16:03.623</a>
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=958&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:15:58.763 --&gt; 00:16:03.763</a>
 當然除了選對產品之外,還有一件事情更重要
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=963&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:16:03.623 --&gt; 00:16:05.623</a>
-你要有錢啊!
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=963&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:16:03.763 --&gt; 00:16:05.763</a>
+你要有錢啊
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=965&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:16:05.623 --&gt; 00:16:52.684</a>
-這是一個很實際的問題。譬如說,你看,我們現在在講說7月,這麼大的一個回檔,那真的有很多人衝進去做加碼的動作嗎?可能沒有幾個喔。那這些人不是說他沒有掌握到反彈的機會,而是他有掌握到了,但是沒錢。這是一個很大的問題,因為5月6月一直漲嘛,大家就想說5月6月一直漲的話,我還把錢留在我手上幹什麼?當然是ALL IN全部都投進去嘛。結果呢,7月開始回檔之後的話呢,他反而沒有子彈可以打了。所以你就錯過了一個反彈的機會。所以我們常在講說,能不能夠加碼取決兩件事情。
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=965&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:16:05.763 --&gt; 00:16:52.684</a>
+誒,這是一個很實際的問題。譬如說,你看,我們現在在講說7月,這麼大的一個回檔,那真的有很多人衝進去做加碼的動作嗎?可能沒有幾個喔,那這些人不是說他沒有掌握到反彈的機會,而是他有掌握到了,但是沒錢。這是一個很大的問題,因為5月6月一直漲嘛,大家就想說5月6月一直漲的話,我還把錢留在我手上幹什麼?當然是ALL IN全部都投進去嘛。結果呢,7月開始回檔之後的話呢,他反而沒有子彈可以打了。所以你就錯過了一個反彈的機會。所以我們常在講說,能不能夠加碼取決兩件事情。
 
 <a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1012&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:16:52.684 --&gt; 00:17:22.664</a>
 第一個,你的產品有沒有長期區長。這是第一個條件。第二個條件的話呢,有沒有錢啊。你如果前面子彈打太快的話呢,真的這個反彈的機會出現的時候,你是沒有能力去做加碼的一個動作的。不過如果以長期區長這件事情的話,是執行,台股是執行,是長期區長。然後如果是比較綜合的科技型,甚至現在跟所謂的AI或半導體相關的,應該也是長期區長。
@@ -770,7 +767,7 @@ WEBVTT
 個股含ETF的算法。跟只算個股的算法。你現在會得到三個截然不同的一個結果。所以呢我們在同一個時間上面來講。假設呢我們以7月30號那一天來看。7月30號那天是個很有趣的日子。7月30號那天的話各位可以幫我看一下。這個的話是不含ETF的維持率。在7月30號那天,他的維持率呢只剩下131%的一個位置。可是呢你如果看券商的
 
 <a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1210&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:20:10.245 --&gt; 00:20:40.245</a>
-券商的維持率大概是155,可是你如果看整戶的大概有171,就會發現這個數字差很多。可是我們投資看的是哪一個?我們投資看的是這個,只算個股的維持率。因為我們重點是在於個股現在到底承受了多大的壓力,是不是有機會馬上遇到斷頭被券商去做一個處理。所以我們以前在看這個數字的時候,只要有一個努力,
+券商的維持率大概是155元,可是你如果看整戶的大概有171元,就會發現這個數字差很多。可是我們投資看的是哪一個?我們投資看的是這個,只算個股的維持率。因為我們重點是在於個股現在到底承受了多大的壓力,是不是有機會馬上遇到斷頭被券商去做一個處理。所以我們以前在看這個數字的時候,只要有一個人,
 
 <a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1240&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:20:40.245 --&gt; 00:20:44.745</a>
 我們要發現它一旦跌破135%以下
@@ -952,11 +949,74 @@ WEBVTT
 <a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1492&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:24:52.826 --&gt; 00:25:22.726</a>
 還有主動式的產品。其實你整年的報酬率應該都有機會可以拿到40%以上。它落差沒有你想像中這麼的大。可是你在回檔過程當中你的感覺是差很多的。所以這次我們在這邊幫投資朋友把這張表整理出來之後,讓投資朋友可以回去去思考一下到底怎樣的配置才是比較適合你的投資邏輯。因為我們也有聽到身邊的朋友在討論啦。去年到現在買高鞋啊,一開始就覺得好像傻了。
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1522&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:22.726 --&gt; 00:25:52.726</a>
-有名詞７ 像傻子一樣有沒有看到人家主動式的啦、AI素材的啦都在往上噴可是七月又覺得高息好棒喔 對然後我不但這個可以穩定比較低的波動之外又有息可以領啊 沒錯 對所以每一個時期大家可能會要審視一下自己不要隨著市場起舞而是都配置好的時候就不會那麼擔心是的好 今天非常謝謝古瑜那當然這張錶裡面也會有配息不錯但它的息可能從資本利得配出來的
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1522&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:22.726 --&gt; 00:25:27.626</a>
+好像傻子一樣有沒有看到人家主動式的啦、AI素材的啦,都在往上噴
 
-<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1552&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:52.726 --&gt; 00:26:19.226</a>
-稅、稅付就不會有這麼大的壓力。對,那我們這邊就有做個整理嘛。那可以去看說,他最近一次配息的話呢,到底有多少的底重來自於資本利得。那資本利得如果越高的,他基本上呢,你要被課的稅就會比較少一點。所以呢,像這些有一些呢,到100%、90%以上的話呢,你領到這個息根本就是不用擔心,就是說呢,會有被課稅的一個現象。就很值得投資朋友來做一個參考。
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1527&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:27.626 --&gt; 00:25:29.626</a>
+可是七月又覺得高洗好棒喔
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1529&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:29.626 --&gt; 00:25:30.526</a>
+對
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1530&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:30.526 --&gt; 00:25:33.946</a>
+然後我不但這個可以穩定比較低的波動之外
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1533&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:33.946 --&gt; 00:25:35.346</a>
+又有洗可以領啊
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1535&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:35.346 --&gt; 00:25:36.106</a>
+對
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1536&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:36.106 --&gt; 00:25:38.746</a>
+所以每一個時期大家可能會要審視一下
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1538&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:38.746 --&gt; 00:25:40.546</a>
+自己不要隨著市場起舞
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1540&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:40.546 --&gt; 00:25:42.846</a>
+而是都配置好的時候就不會那麼擔心
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1542&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:42.846 --&gt; 00:25:43.286</a>
+是的
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1543&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:43.286 --&gt; 00:25:45.446</a>
+好 今天非常謝謝古瑜
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1545&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:45.446 --&gt; 00:25:48.646</a>
+那當然這張錶裡面也會有配洗不錯
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1548&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:48.646 --&gt; 00:25:51.186</a>
+但它的洗可能從資本利得配出來的
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1551&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:51.186 --&gt; 00:25:54.966</a>
+所以他對於所得稅、稅付就不會有這麼大的壓力
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1554&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:54.966 --&gt; 00:25:56.786</a>
+那我們這邊就有做個整理嘛
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1556&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:56.786 --&gt; 00:25:59.886</a>
+他可以去看說他最近一次配息的話呢
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1559&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:25:59.886 --&gt; 00:26:02.466</a>
+到底有多少的底重來自於資本利得
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1562&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:26:02.466 --&gt; 00:26:04.706</a>
+那資本利得如果越高的
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1564&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:26:04.706 --&gt; 00:26:08.046</a>
+他基本上你要被課的稅就會比較少一點
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1568&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:26:08.046 --&gt; 00:26:11.866</a>
+所以像這些有一些到100%、90%以上的話呢
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1571&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:26:11.866 --&gt; 00:26:14.446</a>
+你領到這個息根本就是不用擔心
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1574&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:26:14.446 --&gt; 00:26:17.046</a>
+就是說會有被課稅的一個現象
+
+<a href="https://www.youtube.com/embed/V18P-vLQn6A?start=1577&amp;autoplay=1" target="yt-player-V18P-vLQn6A">00:26:17.046 --&gt; 00:26:19.246</a>
+就很值得投資朋友來做一個參考
 </pre>
 
 </details>
