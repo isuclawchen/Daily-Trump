@@ -1,4 +1,4 @@
----
+我先整理字幕裡能確定的個股與投資重點，接著直接產出可發布的 Hugo 文章。---
 title: "《投其所展》挑戰全球前十大 CDMO！地"
 date: "2026-08-07"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - 股票分析
 categories:
   - 投資筆記
-description: "聚焦保瑞的 CDMO 擴張、AI 藥物合作與美國產能布局，以及生技展透露的授權與供應鏈韌性趨勢。"
+description: "保瑞聚焦 CDMO、AI 藥物合作與美國產能布局，影片重點在供應鏈韌性、授權小包裹化與下半年整合進度。"
 ---
 
 # 《投其所展》挑戰全球前十大 CDMO！地
@@ -26,27 +26,27 @@ description: "聚焦保瑞的 CDMO 擴張、AI 藥物合作與美國產能布局
 
 - 頻道：統一投顧
 - 主持人：未明確標示
-- 來賓：未明確標示
+- 來賓：保瑞發言人迪亞
 - YouTube 標題：《投其所展》挑戰全球前十大 CDMO！地緣政治轉單發酵，保瑞如何靠「供應鏈韌性」通吃大廠訂單？ | 2026生技展上集|
 
 ---
 
 ## 文章摘要（核心）
 
-本集聚焦 2026 生技展的產業熱度，講者認為 AI 已更深地導入新藥開發，授權案也從追求超大包裹，轉向多筆中小型機會。節目主軸放在保瑞如何從「買產能」轉向「買技術能力」，並以美國產能、東西岸布局與 AI 合作，朝全球前十大 CDMO 前進。另也提到美國藥品零關稅延後、以及去中國化供應鏈需求，對已在美國建置產能的台廠較有利。投資人可關注下半年 Rockville 並表、InSilico 合作平台進展，以及產品組合與整合效率的變化。
+本集從生技展切入，主軸放在 AI 新藥、細胞治療與再生醫療，以及國際藥廠授權與合作趨勢。訪談核心則是保瑞如何從併購產能，轉向併購技術能力，並朝全球前十大 CDMO 目標推進。字幕也提到美國製造、零關稅窗口、東西岸產能互補與 AI 藥物合作。投資人可重點觀察保瑞的整合進度、產品組合改善與 CDMO 客戶導入節奏。
 
 ---
 
 ## 投資重點整理（最重要）
 
-- **AI 進入生技研發**：節目認為 AI 已導入新藥開發，代表能把 AI 與後段製造接起來的公司，較容易拿到合作與授權機會。
-- **授權交易轉向多點布局**：大藥廠不再只追求單一超大案，而是找更多小包裹機會，對能提供多元平台的廠商較有利。
-- **美國製造與零關稅延後**：美國對藥品零關稅延後兩年、且仍依賴海外供應，讓已有美國產能的台廠受惠。
-- **保瑞策略從產能走向技術**：公司明確表示，過去 12 個月的重點是從併購產能轉向併購技術能力，長線目標是全球前十大 CDMO。
-- **AI 與量產銜接是關鍵**：InSilico 合作的重點不只在研發端，更在 CMC、Scale Up、量產能否接上；若接不上，AI 價值難落地。
-- **供應鏈韌性成主軸**：公司強調 One Team, One Supply Chain 與跨廠區技術服務，顯示 CDMO 競爭已從被動接單轉向主動解題。
-- **美國廠區整合值得觀察**：Rockville 廠並表與廠區整合，是下半年營運與獲利能否展現併購效益的重要觀察點。
-- **產品組合改善**：Upshire Smith 的專科用藥占比上升，搭配新產品上市，有助營運結構更健康。
+- **生技展熱度升溫**：今年展會參展廠商多、關注度高，AI 新藥、細胞治療與再生醫療成為焦點，代表生技題材的市場能見度提高。
+- **授權案從大包裹轉向多案**：字幕提到大藥廠現在偏向找更多小包裹機會，而不是單一超大授權案，對創新藥與合作平台都是新機會。
+- **今年上半年授權金額已超過去年全年**：代表產業資金仍在，只是配置方式改變，投資焦點要看誰能接到多筆機會。
+- **美國製造與零關稅窗口**：字幕提到美國對進口藥品的零關稅延後兩年，台灣廠商若已有美國產能布局，較有機會受惠。
+- **保瑞從買產能轉向買技術**：公司明確把方向放在 CDMO，且希望成為全球前十大，投資意義在於成長故事從擴廠進一步轉到技術與平台能力。
+- **供應鏈韌性是 CDMO 關鍵字**：保瑞強調 one team、one supply chain，並用跨廠區、東西岸布局與技術服務團隊去提高主動服務能力。
+- **AI x CDMO 正在落地**：保瑞與 InSilico 簽 MOU，顯示 AI 藥物開發不只停留在概念，而是往量產與合作平台延伸。
+- **下半年看整合、明年看轉換率**：Rockville 廠並表、Maple Grove 客戶計轉、以及既有產品組合改善，都是後續營運觀察重點。
 
 ---
 
@@ -54,30 +54,30 @@ description: "聚焦保瑞的 CDMO 擴張、AI 藥物合作與美國產能布局
 
 | 股票 | 代號 | 題材/族群 | 節目原話重點 | 觀察依據 | 觀察條件 | 風險/失效點 | 影片時間 |
 |---|---|---|---|---|---|---|---|
-| 保瑞 | 6472 | CDMO、AI新藥合作、美國產能、供應鏈韌性 | 公司表示過去 12 個月從「買產能」轉向「買技術能力」，目標是成為全球前十大 CDMO，並看好 AI 藥物開發、全球布局與供應鏈韌性。 | 已提到與 InSilico 的 MOU、Rockville 廠並表、東西岸廠區互補。 | MOU 後續合作、今年底前管線產品確認、Rockville 整合。 | - | <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=300&autoplay=1" target="yt-player-c1eo-N19nb4">00:05:00</a> |
-| 泰福-KY | 6541 | 大分子CDMO、ADC、廠區互補 | 節目提到 Bora Biologics 在泰福生技底下，有竹北前期研發實驗室，並與美國馬里蘭州 Rockville 廠形成互補。 | 直接提到泰福生技與 Bora Biologics 的隸屬關係與廠區協作。 | 東西岸廠區與前期研發、量產銜接。 | - | <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=452&autoplay=1" target="yt-player-c1eo-N19nb4">00:07:32</a> |
+| 保瑞 | 6472 | CDMO / 生技製造 / AI 藥物合作 | 公司越來越聚焦在 CDMO，目標是成為全球前十大 CDMO，且從併購產能轉向併購技術能力，並強調供應鏈韌性與 AI 合作平台。 | 全球十一個廠、與 InSilico 簽 MOU、Rockville 廠 7 月開始並表、Maple Grove 已和 Top20 客戶簽約。 | 年底前確認新合作平台與產品組合；明年下半年完成計轉；廠區整合持續推進。 | 產品組合曾過度依賴少數項目，後續仍要看多元化是否持續改善。 | <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=300&autoplay=1" target="yt-player-c1eo-N19nb4">00:05:00</a> |
+| 泰福-KY | 6541 | 生物藥 CDMO / 東西岸產能 | Bora Biologics 在泰福生技底下，和竹北研發、San Diego 量產、Rockville 東岸廠形成互補，客戶可在東西岸兩個廠之間選擇硬體。 | 竹北前期研發實驗室、San Diego 廠、Rockville 廠與生物反應槽品牌錯開。 | 客戶若要轉場或拓二次資料，不必再換量產設備，東西岸廠區可接軌。 | - | <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=482&autoplay=1" target="yt-player-c1eo-N19nb4">00:08:02</a> |
 
 ---
 
 ## 產業與市場觀察
 
-- **大盤方向**：生技展熱度明顯升溫，AI 已成為生技研發的重要加速器。
-- **產業趨勢**：授權案從追求超大包裹，轉為多筆中小型機會。
-- **主流題材**：AI 新藥開發、細胞治療、再生醫療、CDMO、供應鏈韌性、美國製造。
-- **資金流向**：大藥廠仍在出手，但更偏向分散式布局與多案並行。
-- **操作節奏**：短線看廠區並表與合作案進度，中期看 AI 平台落地與營運整合成果。
+- **大盤方向**：影片沒有談整體指數，主軸集中在生技展與個股營運。
+- **產業趨勢**：AI 新藥、CDMO、細胞治療、再生醫療與美國製造是主線。
+- **主流題材**：授權小包裹化、供應鏈韌性、東西岸產能布局、AI 藥物合作。
+- **資金流向**：國際大廠仍在找授權與合作，但偏向多筆分散布局，不再只押單一大案。
+- **操作節奏**：先看今年底合作平台與產品確認，再看下半年並表與明年下半年的產能轉換。
 
 ---
 
 ## 關鍵名詞
 
-- **CDMO**：委託開發暨製造服務，節目主軸是保瑞朝全球前十大 CDMO 前進。
-- **AIDD**：AI Drug Development，指用 AI 做藥物研發。
-- **Resilience**：供應鏈韌性，節目中強調 CDMO 要協助客戶建立韌性。
-- **One Team, One Supply Chain**：單一團隊、單一供應鏈，強調東西岸廠區與客戶協作整合。
-- **MOU**：合作意向書，節目提到保瑞與 InSilico 先簽 MOU，再處理後續流程。
-- **CMC**：藥物開發到製造的中段關鍵流程，節目提到 AI 開發後若無法在這一段銜接，價值難落地。
-- **Scale Up**：放大製程，從開發走向量產的過程。
+- **AIDD**：用 AI 進行藥物研發與開發。
+- **CDMO**：委託開發暨製造服務。
+- **Supply chain resilience**：供應鏈韌性，強調多廠區與多地布局的切換能力。
+- **Rockville 廠**：保瑞提到的馬里蘭州廠區，預計 7 月起並表。
+- **Maple Grove 廠**：保瑞提到與 Top20 客戶確認簽約、預計明年下半年完成計轉的廠區。
+- **InSilico**：與保瑞簽 MOU 的 AI 醫療合作對象。
+- **Upshire Smith**：保瑞在美國的子公司，字幕提到其專科用藥比重提升。
 
 <!-- raw-vtt-appendix:start -->
 ## 字幕附錄（VTT）
@@ -194,7 +194,7 @@ WEBVTT
 大家好,今年又是一年一度的亞洲升級大展。
 
 <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=293&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:04:53.540 --&gt; 00:04:57.740</a>
-其中我們第一間來拜訪的是這個6472的保瑞藥業。
+其中我們第一間來拜訪的是這個6472的寶瑞藥業。
 
 <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=297&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:04:57.740 --&gt; 00:05:00.640</a>
 我們歡迎我們的發言人迪亞。
@@ -262,82 +262,43 @@ WEBVTT
 <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=452&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:07:32.613 --&gt; 00:08:02.613</a>
 製藥的趨勢去接軌， 也就是以我們可以參與保健品原物料規格的制定。第二點就是能夠呼應現在包括GOP1的盛行，大家越來越在意自己整體的保健、維持、在壽跟命這兩個部分的一個琢磨。上個月宣布的這一個在馬里蘭州的大分子廠,它是一個大分子的原料藥的廠區。這間公司和我們的Bora Biologics的這個品牌呢,就是一個
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=482&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:08:02.613 --&gt; 00:08:11.613</a>
-和相輔相成。 怎麼說呢?Bora Biologics 現在在太福生劑底下呢,有一個竹北前期研發的實驗室。
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=482&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:08:02.613 --&gt; 00:08:32.593</a>
+和相輔相成。怎麼說呢?Bora Biologics 現在在太福生技底下有一個竹北前期研發的實驗室。然後這個實驗室裡面也包括ADC的技術或者是很多不同的Linker技術的早期的開發。那我們原本的量產都是放在西岸San Diego的這一個廠。但是美國這麼大,當我們要和客戶去Sell一個one team,one supply chain 的邏輯的時候,有的時候,就有一個相輔的相輔。
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=491&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:08:11.613 --&gt; 00:08:19.613</a>
-然後這個實驗室裡面也包括 ADC 的技術,或者是很多不同的 Linker 的技術的早期的開發。
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=512&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:08:32.613 --&gt; 00:09:02.293</a>
+然後西岸跟東岸因為寶瑞的徵記廠位於東岸。這個協作效應還是沒有這麼好。那非常幸運的是這個馬里蘭州的廠它跟整個寶瑞集團包括泰福有三個互補。第一個互補呢是就是這麼巧。它的一次性的這個生物反應槽的品牌剛好和San Diego是完全錯開的。所以在客戶來說如果今天我和Bora Biologics商談覺得很滿意這個團隊,很滿意技術,但是我要轉場或是我拓第二個
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=499&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:08:19.613 --&gt; 00:08:23.613</a>
-那我們原本的量產都是放在西岸 San Diego 的這一個廠。
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=542&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:09:02.293 --&gt; 00:09:32.293</a>
+第二次資料。我不想再換量產機器設備。中間不想再浪費這些時間。客戶就在東西岸的兩個廠的硬體之間能夠做一個選擇。第二點就是呢,這一個東岸這個Rockville廠,它在馬里蘭州的Rockville。Rockville廠和現在的San Diego廠還有另外一個互賭是剛好這一個廠前期的研發和PD也是落實的相對比較好的。因為這間公司本來是新藥公司嘛。它是因為沒有錢了。
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=503&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:08:23.613 --&gt; 00:08:31.613</a>
-但是美國這麼大,當我們要和客戶去 Sell 一個 One Team, One Supply Chain 的邏輯的時候,
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=572&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:09:32.293 --&gt; 00:10:02.273</a>
+所以才把牆去賣給我們。所以他在前期開發就很好的能夠聽得懂竹北的團隊在說什麼。然後又能夠把竹北團隊做出來的東西這個球能夠直接接到東岸來。那第三點的互補就是因為剛剛提到我們的徵技場就在東岸,然後也都在馬里蘭州。我們相信這兩邊的團隊,DS跟DP的團隊也能夠更好的服務客戶。其實寶瑞前兩三年呢,碰到最大的挑戰就是我們的產品組合還有營收的大小。
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=511&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:08:31.613 --&gt; 00:09:01.593</a>
-有時西岸跟東岸因為寶瑞的徵紀廠位於東岸。這個協作效應還是沒有這麼好。非常幸運的是馬里蘭州的廠跟整個寶瑞集團,包括泰福有三個互補。第一個互補就是這麼巧。一次性的生物反應槽品牌剛好和San Diego是完全錯開的。所以在客戶來說,如果今天我和Bora Biologics商談,覺得很滿意這個團隊,很滿意技術,但是我要轉場或是我拓展,
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=602&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:02.293 --&gt; 00:10:32.273</a>
+有過度依賴一兩項。其實五六月的營收結構來看,裡面大概有兩到三億左右是來自威德。因為剛好五六月是美國的零售還有保健品的旺季、促銷季。另外一點值得注意的是,我們也同時在Upshire Smith經歷了14個月左右的陣痛之後,整體來說新產品的上市。在五六月的時候,其實也都開始看到完全補上了這幾個代表的額。
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=541&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:09:01.613 --&gt; 00:09:12.413</a>
-第二次資料,我不想再換量產機器設備。中間不想再浪費這些時間。客戶就在東西岸的兩個廠的硬體之間做一個選擇。
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=632&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:32.293 --&gt; 00:10:36.313</a>
+代表性的學民要包括衛食道逆流的DOS或新腳痛的DTC
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=552&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:09:12.413 --&gt; 00:09:18.013</a>
-第二點就是,這個東岸這個Rockville廠,它在馬里蘭州的Rockville,
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=558&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:09:18.013 --&gt; 00:09:28.613</a>
-Rockville廠和現在的San Diego廠還有另外一個互賭是,剛好這一個廠前期的研發和PD也是落實的相對比較好的。
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=568&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:09:28.613 --&gt; 00:09:58.573</a>
-因為這間公司本來是新藥公司嘛。它是因為沒有錢了,所以才把牆去賣給我們。所以它在前期開發就很好的能夠聽得懂竹北的團隊在說什麼。然後又能夠把竹北團隊做出來的東西,這個球能夠直接接到東岸來。那第三點的互補就是因為剛剛提到我們的徵技場就在東岸,然後也都在馬里蘭州。我們相信這兩邊的團隊,DS跟DP的團隊也能夠更好的服務客戶。其實保瑞前兩三年呢,碰到最大的
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=598&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:09:58.573 --&gt; 00:10:26.173</a>
-我們有一個挑戰就是產品組合和營收大項有過度依賴一兩項。其實五六月的營收結構來看,裡面大概有兩到三億左右是來自威德。因為剛好五六月是美國的零售和保健品的旺季、促銷季。另外一點值得注意的是,我們也同時在Upshire Smith經歷了14個月左右的陣痛之後,整體來說新產品的上市。
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=626&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:26.173 --&gt; 00:10:33.373</a>
-在五六月的時候 其實也都開始看到完全補上了這幾個代表性的學名藥
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=633&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:33.373 --&gt; 00:10:36.273</a>
-包括衛食刀逆流的DOS 或新腳痛的DTC
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=636&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:36.273 --&gt; 00:10:39.373</a>
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=636&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:36.313 --&gt; 00:10:39.313</a>
 這邊碰到競爭的那一個漏洞已經全部都補上
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=639&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:39.373 --&gt; 00:10:45.573</a>
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=639&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:39.313 --&gt; 00:10:45.393</a>
 也就是五六月大家看到的數字其實是比之前更健康也更多元的表現
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=645&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:45.573 --&gt; 00:10:50.073</a>
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=645&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:45.393 --&gt; 00:10:50.193</a>
 那當然接下來因為CDMO還是會有一些比方說吳俊廠區
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=650&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:50.073 --&gt; 00:10:55.573</a>
-他必須被FDA的法規規定幾個工作天之後是一定要稅修
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=650&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:50.193 --&gt; 00:10:55.693</a>
+它必須被FDA的法規規定幾個工作天之後是一定要稅修
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=655&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:55.573 --&gt; 00:11:00.853</a>
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=655&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:10:55.693 --&gt; 00:11:00.793</a>
 可是我們基本上覺得在接下來這些快狀的影響
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=660&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:00.853 --&gt; 00:11:03.773</a>
-對營收還有對獲利的影響不會到這麼大
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=660&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:00.793 --&gt; 00:11:23.993</a>
+對營收和獲利的影響不會到這麼大。主要就是因為一個地方在淡季的時候,另外一個地方可以是在旺季。這也就是寶瑞一開始做雙引擎策略,覺得能夠互相避險的狀態。當然前一年互相避險的狀態實現的沒有那麼好,但是經過一年的調整之後,今年還是回到兩邊是可以互補的加分效果。
 
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=663&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:03.773 --&gt; 00:11:07.493</a>
-主要就是因為一個地方在淡季的時候
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=667&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:07.493 --&gt; 00:11:09.213</a>
-另外一個地方可以是在旺季
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=669&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:09.213 --&gt; 00:11:12.013</a>
-那這也就是寶瑞一開始做一個雙引擎策略
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=672&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:12.013 --&gt; 00:11:14.733</a>
-覺得能夠互相避險的一個狀態
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=674&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:14.733 --&gt; 00:11:18.093</a>
-那當然就前一年這個互相避險的狀態實現的沒有那麼好
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=678&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:18.093 --&gt; 00:11:20.093</a>
-但是經過一年的調整之後呢
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=680&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:20.093 --&gt; 00:11:23.973</a>
-今年就還是回到兩邊是可以互補的一個加分的效果
-
-<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=683&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:23.973 --&gt; 00:11:39.126</a>
+<a href="https://www.youtube.com/embed/c1eo-N19nb4?start=683&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:23.993 --&gt; 00:11:39.126</a>
 而且CDMO現在整體的駕動率尤其明年我覺得是蠻值得期待的因為包括我們現在駕動率比較偏低的美國的Maple Growth廠區它現在幾個月前也是和一個Top20的客戶這邊確認簽約
 
 <a href="https://www.youtube.com/embed/c1eo-N19nb4?start=699&amp;autoplay=1" target="yt-player-c1eo-N19nb4">00:11:39.126 --&gt; 00:11:42.326</a>
