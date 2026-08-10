@@ -9,7 +9,7 @@ tags:
   - 股票分析
 categories:
   - 投資筆記
-description: "台積電7月營收創高帶動權值與老AI延續多頭，節目同步追蹤 CPO、記憶體、BBU 與封測輪動。"
+description: "台股大漲後仍看多，節目聚焦7月營收創高的權值股、老AI、光通訊、記憶體、BBU與封測。"
 ---
 
 # 【理財達人秀】台積7月營收新高 老AI
@@ -17,8 +17,6 @@ description: "台積電7月營收創高帶動權值與老AI延續多頭，節目
 ---
 
 ## 影片
-
-> 必須輸出下方 `iframe`，不可改成 YouTube 純連結。
 
 <iframe id="yt-player-HhXthV1uRXc" name="yt-player-HhXthV1uRXc" width="100%" height="400" src="https://www.youtube.com/embed/HhXthV1uRXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -28,7 +26,7 @@ description: "台積電7月營收創高帶動權值與老AI延續多頭，節目
 
 - 頻道：理財達人秀 EBCmoneyshow
 - 主持人：李兆華
-- 來賓：李永年、林漢偉、楊雲翔
+- 來賓：未明確標示
 - YouTube 標題：【理財達人秀】台積7月營收新高 老AI.超跌股誰剛漲？AAOI噴 先買一線CPO？三大外資加持 記憶體再起？光寶科醒 下一棒？｜李兆華、李永年、林漢偉、楊雲翔2026.08.10【電視完整版】
 
 ---
@@ -44,20 +42,22 @@ description: "台積電7月營收創高帶動權值與老AI延續多頭，節目
 
 ## 文章摘要（核心）
 
-本集以台股盤中大漲、指數一度摸到 4 萬 5 為開場，主軸圍繞台積電 7 月營收創高與權值股續強。講者認為現在市場氣氛已從 6 月的「利多不漲」轉為「利多會反應」，老AI、CPO、記憶體、BBU 與封測都有輪動機會。操作上偏向順勢與看高做低，但仍要看營收、籌碼與均線是否站穩。
+本集節目認為台股在大漲後仍維持偏多結構，指數盤中一度衝到 4 萬 5，重點轉向 7 月營收與第二季財報。  
+講者把盤面主軸放在權值股、老AI、光通訊/CPO、記憶體、BBU 與封測，並強調好業績開始直接反映在股價上。  
+美國就業數據轉弱也讓市場對 9 月升息的預期降溫，資金面對股市較有利。  
+操作上則偏向看高做低、站穩均線與量能，並留意漲太快與本益比偏高的標的。
 
 ---
 
 ## 投資重點整理（最重要）
 
-- **權值股回神**：台積電、台達電、光寶科、日月光等被視為領頭羊，指數仍有續攻條件。
-- **利多開始會反應**：講者明講現在和 6 月不同，7 月營收與財報好的股票會直接被買。
-- **台積電是核心指標**：若能站穩 2395，才有機會再挑戰 2425 的下降趨勢線壓力。
-- **CPO / 光通訊重新點火**：AOI 財報與供需缺口帶動聯亞、全新、環宇-KY、IET-KY、宏捷科。
-- **記憶體走分化**：南亞科、華邦電、群聯被拿來對照，顆粒端優於模組端。
-- **BBU 與封測可看高做低**：台達電、光寶科、AES-KY、順達、日月光投控都被放進順勢交易視角。
-- **量能是關鍵**：講者認為若要往 4 萬 8 挑戰，量能最好回到 1.5 兆附近更健康。
-- **漲太快要小心**：像聯亞這種急漲股，講者直接提醒有被關、影響動能的風險。
+- **多頭結構還在**：講者認為台股站上月線、季線後仍有更高點可期待，雖然接近頸線可能整理，但整體不是轉空。
+- **利多開始被正面反應**：7 月營收與第二季財報陸續公布，只要數字好、成長明顯，股價就會直接反應。
+- **權值股是盤面主軸**：台積電、台達電、光寶科、日月光、鴻海、廣達、聯發科等都被點名為帶動氣氛的領頭羊。
+- **光通訊/CPO持續強勢**：AOI 財報、投信加碼與缺貨敘事，讓聯亞、全新、環宇-KY 等被列為接下來可能續強的族群。
+- **記憶體偏向上游顆粒**：南亞科、華邦電、群聯被提到，但講者更在意上游顆粒與籌碼；模組廠則相對弱一些。
+- **BBU與封測同步受惠**：台達電、光寶科、AES-KY、順達與日月光都被放在資料中心電力、先進封裝外溢的脈絡裡。
+- **操作節奏重視位階與量能**：節目多次提到看高做低、沿五日線或季線、以及量能回到更健康水位後再看延續。
 
 ---
 
@@ -65,43 +65,39 @@ description: "台積電7月營收創高帶動權值與老AI延續多頭，節目
 
 | 股票 | 代號 | 題材/族群 | 節目原話重點 | 觀察依據 | 觀察條件 | 風險/失效點 | 影片時間 |
 |---|---|---|---|---|---|---|---|
-| 台積電 | 2330 | 半導體／權值股 | 七月營收再創歷史新高，後面又說年增 44.7%、月增 5.6%，第二季營收與營運雙創高；收盤 2380，先看 2395、2425 壓力。 | 七月營收與第二季營運雙創新高。 | 站穩 2395。 | 2425 下降趨勢線壓力。 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=59&autoplay=1" target="yt-player-HhXthV1uRXc">00:00:59</a> |
-| 日月光投控 | 3711 | 封測／先進封裝 | 被點名和台達電、光寶科一起往上噴出；後面說 7 月營收 737 億，月增 14%、年增 43%，封測外溢效應很大。 | 7 月營收創高。 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=175&autoplay=1" target="yt-player-HhXthV1uRXc">00:02:55</a> |
-| 台達電 | 2308 | BBU／電源 | 和日月光、光寶科一起被列為領頭羊，講者說它跌很深、今天直接跳空漲停；後面補充 7 月營收年增 56.5%、月增 2.2%。 | 跌深後直接拉漲停，營收增長明顯。 | 1980 一帶的套牢壓力。 | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=175&autoplay=1" target="yt-player-HhXthV1uRXc">00:02:55</a> |
-| 光寶科 | 2301 | BBU／電源 | 被列為今天往上噴出的領頭羊，後面又說它年增約 37%、也創高，和台達電一起成為看高做低的例子。 | 營收成長、股價創高。 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=175&autoplay=1" target="yt-player-HhXthV1uRXc">00:02:55</a> |
-| 聯發科 | 2454 | IC 設計／權值股 | 被放在五大全值股裡面，講者認為今天也很強勢。 | 五大全值股之一。 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=414&autoplay=1" target="yt-player-HhXthV1uRXc">00:06:54</a> |
-| 鴻海 | 2317 | AI 供應鏈／權值股 | 同樣列入五大全值股，今天表現相對強勢。 | 五大全值股之一。 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=414&autoplay=1" target="yt-player-HhXthV1uRXc">00:06:54</a> |
-| IET-KY | 4971 | 光通訊／超跌反彈 | 被拿來當超跌反彈例子，講者說跌了 62%，但反彈起來很兇。 | 超跌後反彈。 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=844&autoplay=1" target="yt-player-HhXthV1uRXc">00:14:04</a> |
-| 宏捷科 | 8086 | 光通訊／矽光子 | 7 月營收年增 18.3%，上半年 EPS 2.93 元、年增 318%；講者說它在做月線爭奪戰，基本面還不錯。 | 營收與 EPS 都有成長。 | 季線約 460~465，大量區 480，年線 375。 | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=899&autoplay=1" target="yt-player-HhXthV1uRXc">00:14:59</a> |
-| 聯亞 | 3081 | 光通訊／磷化銦 | 7 月營收年增 176.54%，講者說現在最缺磷化銦，投信開始加碼；但短暫漲太快會怕被關。 | 磷化銦題材、法人加碼。 | 持續走高。 | 漲太快有被關風險，影響量能和動能。 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1416&autoplay=1" target="yt-player-HhXthV1uRXc">00:23:36</a> |
-| 南亞科 | 2408 | 記憶體 | 講者提到它股價到 502 元、快要創高，也提到大摩喊到 1000 以上，並說 MSCI 換股可能會納入記憶體。 | 記憶體題材、外資目標價、MSCI 換股。 | MSCI 換股結果。 | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1796&autoplay=1" target="yt-player-HhXthV1uRXc">00:29:56</a> |
-| 華邦電 | 2344 | 記憶體 | 法說後再創高，7 月營收也是創歷史新高；講者說它相對南亞科偏落後補漲。 | 法說與營收雙利多。 | 若 MSCI 沒納入，和南亞科的強弱會分歧。 | 未納入 MSCI。 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1796&autoplay=1" target="yt-player-HhXthV1uRXc">00:29:56</a> |
-| 群聯 | 8299 | 記憶體／控制晶片 | 被放在記憶體後段接棒看，講者說它是財報後面的最後一棒，8 月 13 日才公布財報。 | 財報題材待發酵。 | - | 若單季賺 100 塊的公司都沒漲，市場就會等更久。 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1867&autoplay=1" target="yt-player-HhXthV1uRXc">00:31:07</a> |
-| 台光電 | 2383 | PCB／材料 | 被拿來當 PCB 強弱比較的參照，講者用它去對比光寶科、台達電的相對位置。 | 被作為比較基準。 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=2352&autoplay=1" target="yt-player-HhXthV1uRXc">00:39:12</a> |
-| AES-KY | 6781 | BBU／電源 | BBU 族群代表之一，講者說它從 830 元漲到 1200 多，底部反彈很兇。 | BBU 題材與底部反彈。 | - | 本益比偏高。 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=2449&autoplay=1" target="yt-player-HhXthV1uRXc">00:40:49</a> |
-| 順達 | 3211 | BBU／電池模組 | 被放在 BBU 族群裡面一起看，講者說它和新勝力一樣，重點是本益比高、看 2027/2028。 | BBU／電力建設題材。 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=2505&autoplay=1" target="yt-player-HhXthV1uRXc">00:41:45</a> |
+| 台積電 | 2330 | 權值股／晶圓代工 | 七月營收再創歷史新高，第二季營收與營運雙創高；講者說只要站穩 2395，就有機會挑戰 2425 的下降趨勢線壓力。 | 7月營收年增44.7%、月增5.6%，成交量縮小 | 站穩2395 | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=59&autoplay=1" target="yt-player-HhXthV1uRXc">00:00:59</a> |
+| 日月光投控 | 3711 | 封測／先進封裝 | 被點名為往上噴出的權值領頭羊，講者說月營收 737 億、月增 14%、年增 43%，也提到台積電擴廠帶動封測外溢。 | 7月營收737億，月增14%、年增43% | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=175&autoplay=1" target="yt-player-HhXthV1uRXc">00:02:55</a> |
+| 台達電 | 2308 | 電源供應／BBU | 今天直接跳空漲停，講者又提到 7 月營收年增 56.5%、月增 2.2%，且最低融資維持率一度到 129。 | 7月營收年增56.5%、月增2.2%，最低融資維持率129 | 先消化1980附近套牢壓力 | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=175&autoplay=1" target="yt-player-HhXthV1uRXc">00:02:55</a> |
+| 光寶科 | 2301 | 電源供應／BBU | 被列為今天往上噴出的領頭羊，後面又被拿來和台達電做「看高做低」，講者說月增、年增都在成長。 | 月增、年增約37%，與台達電一起被當作強勢電力股 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=175&autoplay=1" target="yt-player-HhXthV1uRXc">00:02:55</a> |
+| 聯亞 | 3081 | 光通訊／CPO | 被列為超跌後反彈很強的光通訊股，講者說已反彈 90%、站回所有均線之上，且投信開始加碼。 | 反彈90%、站回所有均線之上、投信開始加碼 | 續守均線 | 短線漲太快怕被關 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=844&autoplay=1" target="yt-player-HhXthV1uRXc">00:14:04</a> |
+| IET-KY | 4971 | 超跌反彈 | 被放在超跌股例子裡，講者提到它跌了 62%，但反彈起來也很快。 | 跌62% | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=844&autoplay=1" target="yt-player-HhXthV1uRXc">00:14:04</a> |
+| 宏捷科 | 8086 | 超跌反彈／營運改善 | 講者說它業績不錯，7 月營收年增 18.3%，上半年 EPS 2.93 元、年增 318%。 | 7月營收年增18.3%、上半年EPS 2.93元年增318% | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=899&autoplay=1" target="yt-player-HhXthV1uRXc">00:14:59</a> |
+| 南亞科 | 2408 | 記憶體／DRAM | 講者提到大摩給 1000 元以上評價，股價到 502 元快創高，且投信最近較喜歡南亞科。 | 股價502元快創高、投信較喜歡南亞科 | - | - | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1196&autoplay=1" target="yt-player-HhXthV1uRXc">00:19:56</a> |
+| 威剛 | 3260 | 記憶體模組 | 講者拿它和其他記憶體模組股比，說從 30 元到 32.39 元，成長變少了。 | 從30元到32.39元 | - | 成長變少 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1631&autoplay=1" target="yt-player-HhXthV1uRXc">00:27:11</a> |
+| 華邦電 | 2344 | 記憶體／DRAM | 法說後又再漲，7 月營收創歷史新高；講者認為它和南亞科相比屬落後補漲。 | 7月營收創歷史新高 | 若有指數換股題材落地 | 未納入時可能弱於南亞科 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1796&autoplay=1" target="yt-player-HhXthV1uRXc">00:29:56</a> |
+| AES-KY | 6781 | BBU／電池模組 | 講者說它雖然今天只漲 4% 多，但從 830 漲到 1200 多，已反彈約 50%，也提到 EPS 四十幾元、本益比接近 30 倍。 | 從830漲到1200多、EPS四十幾元、本益比接近30倍 | - | 本益比接近30倍 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=2449&autoplay=1" target="yt-player-HhXthV1uRXc">00:40:49</a> |
+| 順達 | 3211 | BBU／電池模組 | 與 AES-KY 一起被談到，講者認為 BBU 是看 2027、2028 的長線題材。 | BBU長線看2027、2028 | - | 本益比偏高 | <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=2449&autoplay=1" target="yt-player-HhXthV1uRXc">00:40:49</a> |
 
 ---
 
 ## 產業與市場觀察
 
-- **大盤方向**：盤中一度大漲超過千點，指數摸到 4 萬 5；講者整體仍偏多，認為還有更高點可期待。
-- **產業趨勢**：AI 權值、老AI、CPO、記憶體、BBU、封測是主軸，且開始出現輪動。
-- **主流題材**：7 月營收創高、財報、外資目標價、MSCI 換股、非農數據降溫，都是市場關注焦點。
-- **資金流向**：先反映權值與領頭羊，再擴散到超跌反彈股，之後回到法人加碼的光通訊與記憶體顆粒。
-- **操作節奏**：講者偏向看高做低、順勢交易；若大盤量能能回到 1.5 兆以上，整體結構會更健康。
+- **大盤方向**：盤中一度大漲超過千點、指數看見 4 萬 5；講者認為突破月線、季線後仍偏多，過去 7 天反彈約 14.8%。
+- **產業趨勢**：7 月營收與第二季財報成為主軸，節目認為現在是「利多會反應」的環境，不再是好消息不漲。
+- **主流題材**：權值股、老AI、光通訊/CPO、記憶體、BBU、封測都被反覆提到。
+- **資金流向**：外資調高不少公司目標價，投信也加碼部分光通訊與記憶體；量能若能回到更健康水位，盤勢會更穩。
+- **操作節奏**：講者多次提到看高做低、沿五日線或季線操作，漲太快的股票要小心被關或短線過熱。
 
 ---
 
 ## 關鍵名詞
 
-- **老AI**：節目中用來稱台積電、鴻海、廣達等大型 AI 權值／供應鏈。
-- **CPO**：字幕中的光通訊／矽光子族群。
-- **BBU**：備援電池與電源題材。
-- **磷化銦**：講者說現在最缺的光通訊材料。
-- **MSCI 換股**：字幕提到可能牽動南亞科、華邦電的指數調整。
-- **看高做低**：把資金放在先轉強的領頭股，同時找底型完成但還沒完全反映的個股。
-- **非農 / Fed Watch**：就業數據降溫後，市場用來觀察升息預期的背景因子。
+- **利多反應**：好消息開始直接反映在股價上。
+- **看高做低**：用強勢龍頭當參考，找相對低位但同題材的個股。
+- **多頭背離**：股價創低但 RSI 沒跟著創低，節目視為可能反彈訊號。
+- **月線／季線**：講者用來判斷趨勢是否站穩的技術關卡。
+- **CPO／光通訊**：節目主談的高速連接題材。
+- **BBU**：節目中用來指電力／備援電力相關題材。
 
 <!-- raw-vtt-appendix:start -->
 ## 字幕附錄（VTT）
@@ -1289,7 +1285,7 @@ OK 好
 原本9月份升息期率大概有超過五成以上。那現在這個非銅數據出來之後,整個升息期只剩下四成不到。所以不過半。也代表說目前看起來9月份可能也不升息,甚至連到這個10月份也不升息。最快升息可能要等到年底。所以我覺得這個情況當然對於整個資金環境來講相對是有利的。那在這樣的情況裡面我們就可以看到,美股也開始出現這種正向的反應財報的利多。那這個所謂AOI是台灣的財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務財務
 
 <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1295&amp;autoplay=1" target="yt-player-HhXthV1uRXc">00:21:35.313 --&gt; 00:22:05.313</a>
-非常愛得一檔光通訊的個股。對,因為這個創辦人是台灣人嘛。對,AOI台灣人非常喜歡。可能還比流民光學科系人都還要喜歡。所以我們來看到他的這個財報的數據啊。第一個,營收、年增跟季增都超出市場預期。然後資料中心業務突破1億美元的大關。EPS已經出現轉虧為盈了。然後他講到說,不管是400G、800G跟1.6T,整個所謂產品的需求非常強。那供需狀況說,如果客戶需求已經高了,
+非常愛得一檔光通訊的個股。對,因為這個創辦人是台灣人嘛。對,AOA台灣人非常喜歡。可能還比流民光學科系人都還要喜歡。所以我們來看到他的財報數據啊。第一個,營收年增跟季增都超出市場預期。然後資料中心業務突破1億美元的大關。EPS已經出現轉虧為盈了。然後他講到說不管是400G、800G跟1.6T整個所謂產品的需求非常強。那供需狀況說,如果客戶的需求已經高了,
 
 <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1325&amp;autoplay=1" target="yt-player-HhXthV1uRXc">00:22:05.313 --&gt; 00:22:35.313</a>
 高出公司的供應能力大概兩成到四成。所以很長一段時間客戶都拿不到貨。他又是在講供需缺口這件事情對不對?這跟劉民工學講的一樣。對 那我覺得其實每股七月份很多講供需缺口都跌。那八月份講供需缺口會漲。對 我覺得市場的氛圍在改變。所以在這樣的情況當中你就可以看到光通訊股票是藍線的。八月份短短一個多禮拜漲了20.47個百分點。確實強談。對 那記憶體股票在每股當中只漲了1.85個百分點。
@@ -1547,7 +1543,7 @@ OK 好
 超越了川普跟維穎
 
 <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1678&amp;autoplay=1" target="yt-player-HhXthV1uRXc">00:27:58.339 --&gt; 00:28:00.719</a>
-那營收年增率最高是納尼亞科
+那營收年增率最高是南亞科
 
 <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=1680&amp;autoplay=1" target="yt-player-HhXthV1uRXc">00:28:00.719 --&gt; 00:28:02.319</a>
 719.61元
@@ -1958,7 +1954,7 @@ BPU跟風測是你目前看高坐低所定的標的
 接近一兆的位置呢
 
 <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=2233&amp;autoplay=1" target="yt-player-HhXthV1uRXc">00:37:13.655 --&gt; 00:37:43.676</a>
-目前看起來是還好就是說大家有比較謹慎一點可是我覺得也好。對,也不用亂衝。那真正就是說未來如果這個站穩這個位置點,增加功過所謂的4萬8這個位置。當然還是有機會了。那功過這個位置當然你就需要把這個量可能拉升到大概1.5兆左右。1.5兆。對,我覺得有機會了。因為你說要到1.8兆嘛,我覺得倒不至於為什麼。因為其實這個量,我上次有講說這個頭部的位置來講,一直大概
+目前看起來是還好就是說大家有比較謹慎一點可是我覺得也好。對,也不用亂衝。那真正就是說未來如果這個站穩這個位置點,增加功過所謂的48000這個位置。當然還是有機會啦。那功過這個位置當然你就需要把這個量可能拉升到大概1.5兆左右。1.5兆。對,我覺得有機會啦。因為你說要到1.8兆嘛。我覺得倒不至於為什麼。因為其實這個量,我上次有講說這個頭部的位置來講,一直大概
 
 <a href="https://www.youtube.com/embed/HhXthV1uRXc?start=2263&amp;autoplay=1" target="yt-player-HhXthV1uRXc">00:37:43.676 --&gt; 00:37:46.076</a>
 所以真正高點的位置來講
