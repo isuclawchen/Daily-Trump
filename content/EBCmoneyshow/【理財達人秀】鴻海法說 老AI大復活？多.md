@@ -9,7 +9,7 @@ tags:
   - 股票分析
 categories:
   - 投資筆記
-description: "台股連三紅、外資回補，節目聚焦老AI、記憶體、PCB與機器人輪動，重點是先看型態完成與基本面轉強，不追創高。"
+description: "台股反彈延續，節目聚焦鴻海法說、老AI估值、南亞科與群聯的記憶體輪動，以及PCB和機器人題材的籌碼變化。"
 ---
 
 # 【理財達人秀】鴻海法說 老AI大復活？多
@@ -42,19 +42,20 @@ description: "台股連三紅、外資回補，節目聚焦老AI、記憶體、P
 
 ## 文章摘要（核心）
 
-這集主軸是台股連三紅後的續攻力道，以及外資回頭、老AI、記憶體、PCB、機器人等族群輪動。講者普遍認為大盤雖強，但慣性上仍可能要有第二隻腳，只是位置可能比想像更高。個股操作上，重點放在型態已轉強、財報與籌碼同步改善的標的，創高則先不追。節目也把鴻海法說、南亞科、金像電、景碩、直得等案例拿來比對。
+台股反彈延續，節目主軸放在大盤是否需要第二隻腳，以及資金在老AI、記憶體、PCB、機器人之間的輪動。講者偏向先挑型態與財報都較完整的股票，對創高追價與尚未完成多頭的標的保持保守。鴻海、廣達、技嘉等AI權值股被拿來做估值比較，南亞科、群聯則屬記憶體觀察重點。
 
 ---
 
 ## 投資重點整理（最重要）
 
-- **大盤偏強但未必一口氣到底**：講者認為台股雖然型態轉強、甚至有機會直接 V 上去，但也不排除還要經過一段較高位置的第二隻腳。
-- **老AI資金回流**：鴻海、廣達、技嘉、緯創、微星等被拿來當作資金回到大型 AI 供應鏈的例子，重點是財報與估值。
-- **記憶體先看基本面與位階**：南亞科、鈺創、群聯都被提到，但節目強調創高不追，回檔或位階較低者較有操作空間。
-- **PCB/ABF 是籌碼與業績雙強題材**：金像電、景碩、南電被視為業績漂亮、籌碼也逐漸轉好的族群。
-- **被動元件要看型態是否完成**：國巨、信昌電都被用來示範「反彈不等於完全多頭」，要看前高、月線與量能。
-- **機器人題材偏長線**：直得、上銀、全球傳動被放進機器人展脈絡，講者認為可觀察大戶是否持續卡位。
-- **操作節奏重於追價**：節目多次提醒，已創高或剛漲停的股票先不要急著追，回檔、站穩、出關後再看會更穩。
+- **大盤仍偏強**：朱家泓認為加權已出現頭頭高，但短線仍可能再打一隻較高的第二隻腳；也不排除直接 V 上去。
+- **先做型態完成度高的股票**：講者反覆強調，優先看已完成多頭、月線/季線走順、量價配合的標的。
+- **老AI靠財報與估值支撐**：鴻海、廣達、技嘉、緯創等被拿來比較，重點是明後年本益比回到約 10 倍附近的評價。
+- **記憶體創高不追**：南亞科創高後先壓回，講者明講先不要追，等回檔再看。
+- **PCB族群籌碼變熱**：金像電、景碩、南電、德宏等被點名，部分個股已出現分盤、注意股、處置等現象。
+- **位階高低要分開看**：同族群裡，高位階先看能否續強，低位階則等型態補完。
+- **機器人題材看中長線**：展覽不是唯一催化，重點在大戶提前卡位與後續量能延續。
+- **創高股不宜追價**：講者多次提醒，創高、漲停、出關後都要等拉回或確認再進。
 
 ---
 
@@ -62,45 +63,45 @@ description: "台股連三紅、外資回補，節目聚焦老AI、記憶體、P
 
 | 股票 | 代號 | 題材/族群 | 節目原話重點 | 觀察依據 | 觀察條件 | 風險/失效點 | 影片時間 |
 |---|---|---|---|---|---|---|---|
-| 南亞科 | 2408 | 記憶體 | 有投顧喊到 1000 元，講者說它今天創高後有點壓回，整體記憶體族群是漲跌互見。 | 7 月營收創高、長約鎖定產能 | 創高後先不要追，拉回再看 | 創高追價容易被甩 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=107&autoplay=1" target="yt-player-Atj2btgTIII">00:01:47</a> |
-| 華興 | 6164 | 技術面轉強 | 被拿來示範底部反轉，講者說它已上月線、上季線，而且今天是多頭。 | 頭頭高底底高的多頭型態 | 等回後買上漲 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=500&autoplay=1" target="yt-player-Atj2btgTIII">00:08:20</a> |
-| 信昌電 | 6173 | 被動元件 | 分盤時很慘、曾有量跌停，放出來後帶量反彈，今天反彈高點也過高。 | 有量反彈、過前高 | 先完成多頭再看 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=557&autoplay=1" target="yt-player-Atj2btgTIII">00:09:17</a> |
-| 國巨 | 2327 | 被動元件 | 前兩天都漲停，但目前還壓在月線下、前高未過，講者認為還沒算完成多頭。 | 底底高已出現 | 等完成多頭再看 | 月線仍下彎、前高未過 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=845&autoplay=1" target="yt-player-Atj2btgTIII">00:14:05</a> |
-| 鴻海 | 2317 | AI伺服器/代工 | 法說後講者提到 EPS 有明顯成長，毛利率微受影響，但下半年 Rubin 出貨可望幫助營收。 | 上半年 EPS 4.27、營收年增 | 看下半年 Rubin 出貨後的營收變化 | 原料上漲影響毛利率 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1115&autoplay=1" target="yt-player-Atj2btgTIII">00:18:35</a> |
-| 晶技 | 3042 | 老AI輪動 | 講者提到它和其他老 AI 一起大漲 7%。 | 老AI輪動、資金回流 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1308&autoplay=1" target="yt-player-Atj2btgTIII">00:21:48</a> |
-| 緯創 | 3231 | AI伺服器 | 講者提到它七月營收年增 60%，屬 AI 營收占比拉高的族群之一。 | AI營收占比高 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1308&autoplay=1" target="yt-player-Atj2btgTIII">00:21:48</a> |
-| 廣達 | 2382 | AI伺服器 | 講者說它七月營收年增 100 多%，法人估今年約 17 到 18 元、明年約 20 到 23 元，跌到接近 10 倍本益比時是低檔區。 | 獲利與估值回到合理區間 | 跌深時反而是低接區 | 技術面破線不代表基本面失效 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1308&autoplay=1" target="yt-player-Atj2btgTIII">00:21:48</a> |
-| 技嘉 | 2376 | AI伺服器/板卡 | 講者說它最近突然拉一根，法人估值約 30 到 33 元，跌到約 10 倍本益比，殖利率約 5-6%。 | 低本益比、殖利率 | 等位階整理 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1486&autoplay=1" target="yt-player-Atj2btgTIII">00:24:46</a> |
-| 鈺創 | 5351 | 記憶體 | 講者說半年報很好，最近也飆得很兇。 | 記憶體族群轉強 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1780&autoplay=1" target="yt-player-Atj2btgTIII">00:29:40</a> |
-| 群聯 | 8299 | 記憶體/方案 | 講者說它剛碰季線，提到分紅與持股增加，也強調它是賣解決方案，不只是賣記憶體。 | 季線附近、籌碼與分紅話題 | 站穩後再看 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1923&autoplay=1" target="yt-player-Atj2btgTIII">00:32:03</a> |
-| 金像電 | 2368 | PCB/ABF載板 | 講者說投信最近轉買、今天買 2000 張，上半年賺 16.4 元，1000 元站穩後再看能否挑戰季線。 | 投信轉買、財報亮眼 | 站穩千元再看季線 | 明天開高先不要追，可能有隔日沖賣壓 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2134&autoplay=1" target="yt-player-Atj2btgTIII">00:35:34</a> |
-| 景碩 | 3189 | PCB/ABF載板 | 講者把它列在 PCB/載板強勢族群裡，和金像電一起被點名。 | PCB族群整齊上攻 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2281&autoplay=1" target="yt-player-Atj2btgTIII">00:38:01</a> |
-| 南電 | 8046 | PCB/ABF載板 | 講者說 PCB 族群多數營收漂亮，但南電沒有創高。 | 族群強、個股相對落後 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2281&autoplay=1" target="yt-player-Atj2btgTIII">00:38:01</a> |
-| 聯亞 | 3081 | 聯家軍/處置股 | 講者說它是新一代聯家軍之一，但短線不要追，因為最近被處置，股價已到 500 多。 | 被處置、股價高檔 | 等回檔或籌碼穩定 | 漲多短線不追 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2328&autoplay=1" target="yt-player-Atj2btgTIII">00:38:48</a> |
-| 台達電 | 2308 | 機器人展/AI展區 | 講者建議去看台達電和索羅門的專區。 | 展覽題材 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2667&autoplay=1" target="yt-player-Atj2btgTIII">00:44:27</a> |
-| 直得 | 1597 | 機器人/滑軌 | 講者說機器人占比慢慢拉高到 10%，底部已完成，若大量高點突破還有機會。 | 大底完成、季線反壓 | 大量高點突破再攻 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2817&autoplay=1" target="yt-player-Atj2btgTIII">00:46:57</a> |
-| 上銀 | 2049 | 機器人/滑軌 | 講者說如果上銀也能表態，全球傳動就有機會再往上拉。 | 觀察上銀是否表態 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2863&autoplay=1" target="yt-player-Atj2btgTIII">00:47:43</a> |
+| 微星 | 2377 | 老AI / PC | 被點名為「之前漲勢比較落後、今天漲停板」的個股之一。 | - | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=0&autoplay=1" target="yt-player-Atj2btgTIII">00:00:00</a> |
+| 鴻海 | 2317 | AI伺服器 / 老AI | 法說與財報出爐後，講者認為 EPS 表現不錯，毛利率雖微降但影響有限。 | 第二季營收年增近兩成、稅後獲利年增35%，EPS 4.27。 | 留意下半年 Rubin 出貨後營收是否再往上。 | 原物料上漲仍會壓到毛利率。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=107&autoplay=1" target="yt-player-Atj2btgTIII">00:01:47</a> |
+| 南亞科 | 2408 | 記憶體 | 被提到有投顧喊到1000元，但股價創高後先壓回，講者提醒先不要追。 | 7月營收年增700多%。 | 創高後等回檔再看。 | 追高容易短線被扒。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=107&autoplay=1" target="yt-player-Atj2btgTIII">00:01:47</a> |
+| 晶技 | 3042 | - | 被當作「一反彈就過前高、今天是第二隻腳」的例子。 | 先過高，屬頭頭高的示範。 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=657&autoplay=1" target="yt-player-Atj2btgTIII">00:10:57</a> |
+| 國巨 | 2327 | 被動元件 | 講者說它還沒有多頭，月線向下、季線未過，高點也還沒過。 | 月線向下、季線未過。 | 先等高點與均線壓力化解。 | 若沒過高點，仍只是盤整，不算多頭。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=815&autoplay=1" target="yt-player-Atj2btgTIII">00:13:35</a> |
+| 廣達 | 2382 | AI伺服器 / 老AI | 被拿來做估值對照，講者認為跌到約280左右時，大致是明年本益比10倍附近。 | 法人估今年約24～29、明年約25～30。 | 回到接近10倍評價區可留意。 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1308&autoplay=1" target="yt-player-Atj2btgTIII">00:21:48</a> |
+| 緯創 | 3231 | AI伺服器 / 老AI | 被列為營收成長很強的 AI 股之一。 | 7月營收年增約60%。 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1308&autoplay=1" target="yt-player-Atj2btgTIII">00:21:48</a> |
+| 技嘉 | 2376 | AI伺服器 / 老AI | 被提到突然拉升，法人估值也被拿來對照。 | 法人估明年約30～33元，股價跌深後接近10倍本益比。 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1486&autoplay=1" target="yt-player-Atj2btgTIII">00:24:46</a> |
+| 鈺創 | 5351 | 記憶體 | 被說「最近也是飆到一個不行」。 | - | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1746&autoplay=1" target="yt-player-Atj2btgTIII">00:29:06</a> |
+| 群聯 | 8299 | 記憶體 / 控制IC | 講者提到它剛碰季線，且半年分紅、持股增加。 | 季線附近、位階相對較低。 | 可留意位階較低的切入點。 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1879&autoplay=1" target="yt-player-Atj2btgTIII">00:31:19</a> |
+| 金像電 | 2368 | PCB / ABF | 被列為外資看好的 PCB 高價股之一，還提到今天買了 2000 張。 | 站上短期均線、出量表態。 | 站穩 1000 元後看是否挑戰季線。 | 高檔處置與隔日沖賣壓。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2134&autoplay=1" target="yt-player-Atj2btgTIII">00:35:34</a> |
+| 景碩 | 3189 | PCB / ABF | 被列入 PCB 強勢股，且 7 月營收表現亮眼。 | 講者提到 PCB 族群多檔營收創高，景碩也在其中。 | 留意分盤/處置後的續強。 | 隔日沖與賣壓。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2183&autoplay=1" target="yt-player-Atj2btgTIII">00:36:23</a> |
+| 德宏 | 5475 | PCB | 講者說它是從底部起漲後，被列為注意股的個股。 | 底部起漲、被列注意股。 | - | 注意股與分盤風險。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2183&autoplay=1" target="yt-player-Atj2btgTIII">00:36:23</a> |
+| 南電 | 8046 | PCB / ABF | 被放在 PCB 強勢族群裡，講者也提到一出關就有機會衝漲停。 | 族群籌碼熱，且有出關題材。 | 出關後看買盤是否續接。 | 出關後賣壓。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2234&autoplay=1" target="yt-player-Atj2btgTIII">00:37:14</a> |
+| 聯亞 | 3081 | 光通訊 / 聯家軍 | 被點名為「新一代聯家軍」之一，講者形容很猛烈。 | - | 短線不追。 | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2328&autoplay=1" target="yt-player-Atj2btgTIII">00:38:48</a> |
+| 台達電 | 2308 | 機器人 / AI零組件 | 被提到可去看台達電的 AI 專區，屬機器人關鍵零組件方向。 | - | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2667&autoplay=1" target="yt-player-Atj2btgTIII">00:44:27</a> |
+| 鴻準 | 2354 | 機器人 / 工具機 | 被列入大戶提前卡位、近期表現不錯的名單。 | 三大法人近 5 天都買超。 | - | - | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2717&autoplay=1" target="yt-player-Atj2btgTIII">00:45:17</a> |
+| 直得 | 1597 | 機器人 / 滑軌 | 講者說它機器人占比慢慢拉高到 10%，還跨半導體設備與先進封裝。 | 底部完成，剛碰季線反壓。 | 突破大量高點後再看。 | 季線反壓。 | <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2814&autoplay=1" target="yt-player-Atj2btgTIII">00:46:54</a> |
 
 ---
 
 ## 產業與市場觀察
 
-- **大盤方向**：台股連三紅，講者認為多頭轉強，但慣性上仍可能需要第二隻腳，只是位置可能比前一波想像更高。
-- **資金流向**：外資回頭買台股，講者也提到台股結構比韓股更有優勢，資金會慢慢進來。
-- **主流題材**：老AI、記憶體、PCB/ABF、被動元件、機器人，是這集最明確的輪動主軸。
-- **操作節奏**：已經完成多頭、站穩月線/季線、或基本面轉好的標的優先；創高、漲停、剛出關的股票先不追。
-- **風險意識**：今晚 CPI 是節目開頭提到的觀察點之一，代表總經數據仍可能影響短線風險偏好。
+- **大盤方向**：指數連三紅，講者認為趨勢已在轉強，但短線仍可能需要第二隻腳；若不回檔，也不排除直接 V 上去。
+- **產業趨勢**：老AI、記憶體、PCB、機器人都在輪動，資金不是只集中單一族群。
+- **主流題材**：鴻海法說、南亞科 1000 目標價、PCB 越關越大尾、機器人展前卡位。
+- **資金流向**：外資回頭偏向台股，講者認為台灣 AI 產業鏈比韓股更完整，題材分散也更好找。
+- **操作節奏**：先挑型態完成、量價配合、評價偏低者；創高、漲停、處置股先等拉回或確認再進。
 
 ---
 
 ## 關鍵名詞
 
-- **第二隻腳**：多頭轉折時常見的回測確認，先反彈再拉回找支撐。
-- **頭頭高底底高**：講者用來判斷多頭成形的型態語言。
-- **分盤交易**：講者用來描述股票被限制交易、籌碼變化的狀況。
-- **本益比**：節目多次用來比對鴻海、廣達、技嘉等 AI 股的低檔位置。
-- **季線 / 月線**：技術面判斷的重要壓力與支撐。
-- **機器人展**：本集把它當成機器人題材是否延續的觀察窗口。
+- **頭頭高**：高點一波比一波高，朱家泓用來判斷多頭。
+- **底底高**：低點一波比一波高，搭配頭頭高可視為趨勢轉強。
+- **第二隻腳**：反彈後再回測，作為多頭確認的一種走法。
+- **N字底**：底部整理後突破前高的型態。
+- **越關越大尾**：強勢 PCB 股被分盤或處置後，反而可能更強。
+- **標股認證**：被關或處置常被視為強勢股的表徵。
 
 <!-- raw-vtt-appendix:start -->
 ## 字幕附錄（VTT）
@@ -153,8 +154,8 @@ WEBVTT
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=161&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:02:41.180 --&gt; 00:02:53.380</a>
 士俊也要說今天有一個產業大家一定非常關心,就是第一波漲價題材的PCB概念。這個族群很大,但是大家知道嗎?不管上中下游,
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=173&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:02:53.380 --&gt; 00:03:23.380</a>
-現在陸續又漲到怎麼樣?開始被關耶!我們今天看到像韓國的斗山：日本的伊比丹等等的他們的表現都是不錯的還有日東坊哦!像這樣的情況下我們整體的PCB有沒有可能越關越大圍?等下來幫您做一下篩選了再來是機器人展哦!即將要登場了!好,很多重量級的廠商聚集。世俊發現大戶是認真在買機器人這個認真可能不只是因為展覽
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=173&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:02:53.380 --&gt; 00:03:23.340</a>
+現在陸續又漲到怎麼樣?開始被關咧。我們今天看到像韓國的斗山：日本的EBIDEN等等的,他們的表現都是不錯的。還有日東方哦!像這樣的情況下,我們整體的PCB有沒有可能越關越大圍?等一下來幫您做一下篩選了。再來是機器人展哦,即將要登場了。好,很多重量級的廠商聚集。世俊發現大戶是認真在買機器人。這個認真可能不只是因為展覽。
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=203&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:03:23.380 --&gt; 00:03:25.980</a>
 也有可能是整體的機器人
@@ -327,8 +328,8 @@ WEBVTT
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=382&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:06:22.116 --&gt; 00:06:24.696</a>
 在分析這個趨勢
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=384&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:06:24.696 --&gt; 00:06:54.676</a>
-就非常清楚。所以我說我們的大盤是蠻強的。當然趙華講的也有可能這一路就去過高點了,過歷史高點。不要這樣我心情很雀躍了。因為我們這個K線的表現,一二三四五,這五天都沒有跌。可是有沒有大漲?也沒有。所以這個叫稅步上漲。稅步上漲會有一天會有一個長虹出來,會跑出來。所以在這裡大家手上好,
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=384&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:06:24.696 --&gt; 00:06:54.696</a>
+就非常清楚。所以我說我們的大盤是蠻強的。當然趙華講的也有可能這一路就去過高點了,過歷史高點。不要這樣,我心情很雀躍了。因為我們這個K線的表現,12345這五天都沒有跌。可是有沒有大漲?也沒有。所以這個叫稅部上漲。稅部上漲會有一天會有一個長紅出來,會跑出來。所以在這裡大家手上好,
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=414&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:06:54.696 --&gt; 00:06:57.296</a>
 好的多頭股票不要隨便賣掉
@@ -480,50 +481,65 @@ WEBVTT
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=567&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:27.612 --&gt; 00:09:28.972</a>
 另外一隻也是一樣
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=568&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:28.972 --&gt; 00:09:32.372</a>
-被動元件的信倉機前被分盤好慘啊
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=568&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:28.972 --&gt; 00:09:58.972</a>
+被動元件的信仓之前被分盤。好慘啊!有量跌停。對,因為它在上面就已經一路有放量就開始下跌。那跌到這裡,這邊有個小反彈又跌破,那這邊跌了三天,這個跌了五均就沒有再下跌。所以它今天完成多頭。被放出來之後有量了。對,它也是有量,而且反彈的高點今天過高了。今天過反彈高點。
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=572&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:32.372 --&gt; 00:09:37.272</a>
-有量跌停。對 因為它在上面就已經一路有放量
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=598&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:58.972 --&gt; 00:10:03.252</a>
+那這兩支股票 哪支比較好 當然這支比較好
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=577&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:37.272 --&gt; 00:09:39.772</a>
-就開始下跌。那跌到這裡
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=603&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:03.252 --&gt; 00:10:05.372</a>
+華興光比較好嗎 雖然股價比較高
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=579&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:39.772 --&gt; 00:09:41.872</a>
-這邊有一個小反彈又跌破
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=605&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:05.372 --&gt; 00:10:08.852</a>
+但是它全部都完成了 因為它季線也上去了
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=581&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:41.872 --&gt; 00:09:44.472</a>
-那這邊跌了三天
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=608&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:08.852 --&gt; 00:10:11.612</a>
+月線也上揚了 可是這個還沒有
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=584&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:44.472 --&gt; 00:09:46.972</a>
-這個跌的五軍就沒有再下來
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=611&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:11.612 --&gt; 00:10:15.452</a>
+月線還在向下 季線還沒過
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=586&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:46.972 --&gt; 00:09:51.372</a>
-所以它今天完成多頭。好 被放出來之後有量了
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=615&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:15.452 --&gt; 00:10:17.132</a>
+所以大家就可以比較一下
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=591&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:51.372 --&gt; 00:09:52.872</a>
-對 它也是有量
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=617&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:17.132 --&gt; 00:10:19.292</a>
+因為我們可以排優先順序
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=592&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:09:52.872 --&gt; 00:09:56.772</a>
-而且反彈的高點今天過高了
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=619&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:19.292 --&gt; 00:10:21.532</a>
+我先做這一支 這支錢賺了
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=626&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:26.772 --&gt; 00:10:56.772</a>
-我當然選這個還比較低的。這是價位比較低。但是你的風險比較高。風險比較高。因為你上面壓力都太大嘛。這邊季線都還沒過。我們情願做高一點。但是架構全部做好。你比較容易就是很順利買了就容易漲。所以這兩支倒是蠻好的一個對比。大家可以從股票上去對比一下。CPU真的是比大盤大跌
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=621&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:21.532 --&gt; 00:10:24.172</a>
+已經漲了一倍 那我再來做這一支
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=656&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:56.772 --&gt; 00:11:26.532</a>
-還先修正那時候。所以現在反彈回來它已經變成幾乎全數多頭。所以這個類股可以說是領先上來的。它是領先。先跌先直跌。我們看一下這個類股就知道幾乎全是多頭。全部都變多頭。陳幾何時。那如果在低檔的那各位看這個是不是一個進場的位置。那下面這個還要還沒有變多還要過一個壓力。那這個呢我們大家這裡去看。
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=624&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:24.172 --&gt; 00:10:25.732</a>
+朱老師觀眾一定會想要問
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=686&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:11:26.772 --&gt; 00:11:56.772</a>
-好,舉個例子。那這個呢,就是，明軍，這個就是，跟大盤一樣，我一直反彈,把高點過了，對不對，這邊這個高點過，我先過高，所以這個叫頭頭高，那我今天是第二隻腳，昨天回來，今天就上來，小小腳，對，小小的腳，這是第二隻腳，這個腳是很強的，因為這個腳，跟這個距離很遠，其實這也是一個形態，這個，因為是底，
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=625&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:25.732 --&gt; 00:10:27.772</a>
+那它都做好了 我當然選這個
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=716&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:11:56.772 --&gt; 00:12:37.648</a>
-這是空嘛,這是底部反轉。所以這也是一個型態。如果過了前面這個高點,那這個就是一個標準的,我們在節目也講過,N字體。這是標準的N字體。那如果是一個N字體,底大量,各位,你不要看這個大量。這個大量現在已經突破了。它不是壓力。那這個N字底就會挑戰了,就會過了。所以大家都可以去鎖骨一下。好,穩帽。對,那你看這個跟那個又可以比較了。怎麼比?那這個是已經上了月線、上了季線,而且今天多頭了。漂漂亮亮。對,漂亮亮。
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=627&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:27.772 --&gt; 00:10:57.772</a>
+這是價位比較低,但是你的風險比較高。風險比較高。因為你上面壓力都太大嘛。這邊季線都還沒過。我們情願做高一點。但是架構全部做好。你比較容易就是很順利買了就容易漲。所以這兩隻倒是蠻好的一個對比。大家可以從股票上去對比一下。CPU真的是比大盤大跌時還先修正。
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=657&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:10:57.772 --&gt; 00:11:27.752</a>
+所以現在反彈回來它已經變成幾乎全數多頭。所以這個類股可以說是領先上來的。它是領先。先跌先直跌。我們看一下這個類股就知道幾乎全是多頭。全部都變多頭。曾幾何時。那如果在低檔的那各位看這個是不是一個進場的位置。那下面這個還要還沒有變多還要過一個壓力。那這個呢我們大家自己去看。好舉個例子。
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=687&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:11:27.752 --&gt; 00:11:29.992</a>
+那這個就是 聯軍，晶技、京元電
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=689&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:11:29.992 --&gt; 00:11:57.352</a>
+這個就是跟大盤一樣。我一直反彈把高點過了。對不對?這邊這個高點過了。我先過高,所以這個叫頭頭高。那我今天是第二隻腳。昨天回來,今天就上來了。小小腳。對。小小的腳。這是第二隻腳。這個腳是很強的。因為這個腳跟這個距離很遠。其實這也是一個形態。因為這是空。
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=717&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:11:57.352 --&gt; 00:12:37.648</a>
+這是底部反轉。所以這也是一個型態。如果過了前面這個高點,那這個就是一個標準的我們在節目也講過N字體。這是標準的N字體。那如果是一個N字體,底部又有大量。你不要看這個大量。這個大量現在已經突破了。它不是一個N字。對,這是標準的N字底。那如果是一個N字底底部又有大量,各位,你不要看這個大量。這個大量現在已經突破了。它不是壓力。那這個N字底就會挑戰了,就會過了。所以大家都可以去鎖骨一下。好,穩帽。對,那你看這個跟那個又可以比較了。怎麼比?那這個是已經上了月線、上了季線,而且今天多頭了。漂漂亮亮。對,漂亮亮。
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=757&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:12:37.648 --&gt; 00:13:05.368</a>
 那穩帽是V型反轉。它很標準的V型反轉。所謂的V型反轉就是反彈到前面這個高點。就剛好一個V字嘛。這兩個應該差不多嘛。所以它就剛剛好到這。那到了這裡它就下來了。那今天又上來了。所以穩帽出現的底底高。還沒有頭頭高。有沒有?還沒有。對不對?因為這個高點還沒過。
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=785&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:13:05.368 --&gt; 00:13:35.328</a>
 我們去詳細看一下如果這個高點過了它就是多頭。對,它就變多了。那不管怎麼講至少它已經跑到月線而且月線向上。可是它上面還有一個季線的壓。所以我們講股票都是陸陸續續有的會先來,有的是慢慢也做好。所以你也可以去等它,去鎖股它嘛。因為這個機會也有,這個也有機會。是。而且因為他們都是
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=815&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:13:35.328 --&gt; 00:14:05.328</a>
+同族群％有的先掌％有的後掌％被動元件％剛舉例信仓電％剛才這個族群％我們講大部分都是多頭了％你已經可以做了％CPU％但是被動元件％它轉強％但是它比較晚一點％你像這邊底底高％還沒有多％底底高％打底％都沒有變多％底部在盤整％沒有％那因為大家為什麼會覺得％它應該很好％又一直談％
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=845&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:14:05.328 --&gt; 00:14:09.228</a>
 它前兩天都漲停嘛。所以大家說又來了
@@ -1168,66 +1184,105 @@ AI的佔比越來越高的時候
 那我們一樣加起來除以2好了
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1517&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:25:17.176 --&gt; 00:25:47.176</a>
-33好了。那這些個股的情況都有點類似。就是說,他們的獲利雖然爆發性沒有很大。有些公司說,今年5塊、明年10塊、後年20塊。那股價本利比就可以給到很高。那你如果這樣看的話,明年假設33好了。其實它成長性沒有很大。就一成。可是問題是呢,這一波真的殺到太低了。你看喔,這邊325。假設明年這個法人估的是對的。那代表什麼?又是10倍的本利。又是10倍的本利。都那麼巧啊。又是送分題啊。對啊。你說,如果是很爛很爛的,
+33好了。那這些個股的情況都有點類似。就是說他們的獲利雖然爆發性沒有很大。有些公司說今年5塊、明年10塊、後年20塊。那股價本利比就可以給到很高。那你如果這樣看的話,明年假設33好了。其實它成長性沒有很大。就一成。可是問題是呢,這一波真的殺到太低了。你看哦,這邊325。假設明年這個法人估的是對的。那代表什麼?又是10倍的本利。又是10倍的本利。都那麼巧啊。又是送分題啊。對啊。你說,如果是很爛很爛的,
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1547&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:25:47.176 --&gt; 00:26:17.176</a>
-一直賠錢一直虧錢就算了。而且大家看到7月份那種大跌。很多高Beta就是本孟比的股票,幾乎殺到見股啊。所以第一時間的恢復,大家都想說哎呦,我還是先來找一點有賺錢的。有配息的。而且我有去算過。稍微看了一下技嘉這幾年當然平均可以配六成。今年賺的明年他配60%給你。好,那你如果這樣算的話呢。假設今年真的30塊達標。那明年呢,
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1547&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:25:47.176 --&gt; 00:26:17.156</a>
+那公司一直賠錢一直虧錢就算了。而且大家看到7月份那種大跌。很多高Beta就是本孟比的股票幾乎殺到見股。所以第一時間的恢復大家都想說哎呦我還是先來找一點有賺錢的有配息的。而且我有去算過稍微看了一下技嘉這幾年當然平均可以配6成。今年賺的明年他配60%給你。好那你如果這樣算的話呢。假設今年真的30塊達標。那明年呢。
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1577&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:26:17.176 --&gt; 00:26:47.176</a>
-他給你配多少錢：可能18塊：18塊：你用300多塊去換算：這個本利比不錯：不是本利比：這個直立率5-6%：這是什麼：高股息就喜歡這種東西：所以這種為什麼跌不下去：其實就在於說：它的評價已經很低了：要殺：已經殺到虎頭：再殺它也沒有意思嘛：所以為什麼最近這個老AI這麼強的原因就在這裡：好那人寶的話呢：我就會稍微給它打個問號：為什麼問號：一樣嘛：我們來評比：
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1577&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:26:17.156 --&gt; 00:26:47.156</a>
+他給你配多少錢：可能18塊：18塊：你用300多塊去換算：這個本利比不錯：不是本利比：這個直立率5-6%：這是什麼：高股息就喜歡這種東西：所以這種為什麼跌不下去：其實就在於說：它的評價已經很低了：要殺：已經殺到虎頭：再殺它也沒有意思嘛：所以為什麼最近這個老AI這麼強的原因就在這裡：好那人寶的話呢：我就會稍微給他打個問號：為什麼問號：一樣嘛：我們來評比：
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1607&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:26:47.176 --&gt; 00:27:17.176</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1607&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:26:47.156 --&gt; 00:27:17.156</a>
 今年大概2塊。明年2.89到2.41都人估。加加減減我們賺2.5好了。明年2027年。現在是多少?40塊。你覺得貴還是便宜?跟其他人比?其他人可能10倍、12倍、13倍。現在2.5股價已經40了。如果只看技術分析的人一定會很喜歡這種線型。因為我特別去看過他今天還準備開布林。看均線糾結。然後呢,
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1637&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:17.176 --&gt; 00:27:29.376</a>
-带亮藏紅。然後那個什麼布林缺口又打開。是。哦,美妙傻,市價買了啦。但是你看完這個你就覺得哎呦,如果是這樣子的話呢我可能會選擇
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1637&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:17.156 --&gt; 00:27:20.396</a>
+带亮藏紅，晶技、京元電
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1649&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:29.376 --&gt; 00:27:46.216</a>
-是不是本益比更低一點的其他老AI會比較保險一點。當然不是說這個不能做,因為它也突然之間給你標很高。那人保呢前一段時間它有說今年因為它AI的比重還不是那麼高,大概只有一成。但是公司也說明年我希望可以拉高到20%、30%。
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1640&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:20.396 --&gt; 00:27:22.556</a>
+然後布林缺口又打開
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1666&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:46.216 --&gt; 00:27:50.816</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1642&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:22.556 --&gt; 00:27:24.556</a>
+美鳥 市價買的啦
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1644&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:24.556 --&gt; 00:27:26.556</a>
+但是你看完這個你就覺得
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1646&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:26.556 --&gt; 00:27:27.796</a>
+如果是這樣子的話
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1647&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:27.796 --&gt; 00:27:29.436</a>
+我可能會選擇
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1649&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:29.436 --&gt; 00:27:31.076</a>
+是不是本益比更低一點的
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1651&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:31.076 --&gt; 00:27:33.196</a>
+其他老AI會比較保險一點
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1653&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:33.196 --&gt; 00:27:35.076</a>
+當然不是說不能做
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1655&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:35.076 --&gt; 00:27:37.716</a>
+因為它也突然之間給你標很高
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1657&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:37.716 --&gt; 00:27:39.476</a>
+那人保前一段時間他有說
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1659&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:39.476 --&gt; 00:27:41.716</a>
+今年因為他AI的比重還不是那麼高
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1661&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:41.716 --&gt; 00:27:42.876</a>
+大概只有一成
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1662&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:42.876 --&gt; 00:27:43.756</a>
+但是公司也說
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1663&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:43.756 --&gt; 00:27:46.356</a>
+明年我希望可以拉高到20% 30%
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1666&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:46.356 --&gt; 00:27:50.956</a>
 也就是說如果它的評價或者說它的這個EPS要更進步拉高的話
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1670&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:50.816 --&gt; 00:27:52.616</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1670&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:50.956 --&gt; 00:27:52.756</a>
 就代表它AI的比重
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1672&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:52.616 --&gt; 00:27:57.216</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1672&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:52.756 --&gt; 00:27:57.356</a>
 一定要符合它法說會講的明年可以拉高到20% 30%以上
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1677&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:57.216 --&gt; 00:27:58.756</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1677&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:57.356 --&gt; 00:27:58.896</a>
 那當然我們就可以重新看它
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1678&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:58.756 --&gt; 00:28:01.056</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1678&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:27:58.896 --&gt; 00:28:00.956</a>
 但是就目前我收集到資料我反而覺得說
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1681&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:01.056 --&gt; 00:28:03.616</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1680&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:00.956 --&gt; 00:28:03.756</a>
 其實它本利比目前來看不算便宜啦
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1683&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:03.616 --&gt; 00:28:06.176</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1683&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:03.756 --&gt; 00:28:06.316</a>
 所以這個部分留給大家去做參考
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1686&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:06.176 --&gt; 00:28:09.516</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1686&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:06.316 --&gt; 00:28:09.396</a>
 到底你是比較喜歡技術面很強的
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1689&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:09.516 --&gt; 00:28:12.336</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1689&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:09.396 --&gt; 00:28:12.216</a>
 還是說你會喜歡再多加一點基本面的東西
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1692&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:12.336 --&gt; 00:28:14.376</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1692&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:12.216 --&gt; 00:28:14.516</a>
 那你就會考量的因素就會比較多元
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1694&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:14.376 --&gt; 00:28:16.376</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1694&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:14.516 --&gt; 00:28:16.376</a>
 那你選擇的股票就會不一樣
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1696&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:16.376 --&gt; 00:28:18.876</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1696&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:16.376 --&gt; 00:28:18.916</a>
 不過剛剛看到不管是鴻海或者是幾家
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1698&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:18.876 --&gt; 00:28:20.476</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1698&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:18.916 --&gt; 00:28:20.516</a>
 形態也是好轉的 都好的
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1700&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:20.476 --&gt; 00:28:22.376</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1700&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:20.516 --&gt; 00:28:22.416</a>
 那都好又有基本面的
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1702&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:22.376 --&gt; 00:28:37.730</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=1702&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:22.416 --&gt; 00:28:37.730</a>
 當然我想這就更容易選擇了嘛 對不對就調給他 就是如果你基數面多一點你當然可以調人保 這沒問題你可能我基數面喜歡70%基本面放20-30%就好那如果說有人覺得我基本面要放60% 70%那你可能就會去挑技嘉 挑鴻海 挑其他的
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1717&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:28:37.730 --&gt; 00:28:39.130</a>
@@ -1384,7 +1439,7 @@ AI的佔比越來越高的時候
 一創高你去追可能今天就被扒到了
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1815&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:30:15.170 --&gt; 00:30:17.370</a>
-特別是我在猜測看很多人
+特別是我在觀察看很多人
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1817&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:30:17.370 --&gt; 00:30:18.950</a>
 立基店漲停鎖住了
@@ -1423,7 +1478,7 @@ AI的佔比越來越高的時候
 也要對他有信心對不對
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1839&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:30:39.850 --&gt; 00:30:41.990</a>
-對因為我們已經經歷過大半年
+對,因為我們已經經歷過大半年
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1841&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:30:41.990 --&gt; 00:30:43.730</a>
 300跌到200我們還是繼續講
@@ -1462,7 +1517,7 @@ AI的佔比越來越高的時候
 所以市場也給掌聲鼓勵
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1865&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:31:05.410 --&gt; 00:31:08.050</a>
-股價今天也順利的站為月季線市場
+股價今天也順利站上月季線,市場
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1868&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:31:08.050 --&gt; 00:31:08.890</a>
 而且是帶量
@@ -1549,19 +1604,19 @@ AI的佔比越來越高的時候
 會不會變成高價庫存問題
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1951&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:32:31.610 --&gt; 00:32:32.770</a>
-但是潘董很挺
+但是潘董很挺,也對員工很好
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1952&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:32:32.770 --&gt; 00:32:33.690</a>
 也對員工很高
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1953&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:32:33.696 --&gt; 00:33:03.696</a>
-好 現在好像只缺東風。對 因為其實它上半年有辦好幾次募資嘛。那它募資很大一個部分都是拿來囤那個庫存。所以即便這個情況對它來說的話,因為它剛好又是上游的控制錄機。所以其實它跟合作的是比較密切。因為它是賣一個解決方案,它不是單純賣記憶體而已。是。好 所以這邊的話也是一樣參考位階比較低一點的對我們會比較安全。好 這邊的話非常謝謝欣甫哥。謝謝。好 欣甫哥剛剛花一點時間喔。幫我們
+所以現在好像只缺東風。對 因為其實它上半年有辦好幾次募資嘛。那它募資很大一個部分都是拿來囤那個庫存。所以即便這個情況對它來說的話,因為它剛好又是上游的控制IC。所以其實它跟合作的是比較密切。因為它是賣一個解決方案,它不是單純賣記憶體而已。是。好,所以這邊的話也是一樣參考位階比較低一點的對我們會比較安全。好,這邊的話非常謝謝馨甫哥。謝謝。好,馨甫哥剛剛花一點時間喔,幫我們
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=1983&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:33:03.696 --&gt; 00:33:33.676</a>
 這次是我們做算數。這個算數呢,讓我們想,為什麼在恐慌的時候,看到這些大型的AI一線均,明明對照明年本益比只剩下10倍,甚至更低。殖利率又高,我們卻要害怕,說不過去嗎?如果現在他們的財報接出來讚,然後加上型態也好轉的話,綜合分數應該拉到很高哦,這個是穩健的選擇。至於喜歡波動率高一些的記憶體納雅科今天創高了,但創高先不追,重點在他回檔中,他會有很多人的選擇。
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2013&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:33:33.696 --&gt; 00:34:03.676</a>
-電話題。
+電視頻的動作。
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2043&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:34:03.696 --&gt; 00:34:33.696</a>
 好 當我們看到很多族群大復活的時候喜歡PCB的朋友也要為他們喊冤囉因為他們也是很早就受惠帳家題材的基本面一樣都非常厲害但是最近外資回來青睞他們然後出了非常多報告而且還陸續漲到有點要被分盤交易了這邊來請教世俊啦我們的PCB現在越觀越飆或是越觀越大有沒有兩分鐘分盤有沒有什麼影響日東坊跟斗山最近也是強勢的再來我們一直注意到大戶在買機器
@@ -1618,7 +1673,7 @@ PCB產值基本上就差不多56%左右
 所以基本上就看我們就好了
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2107&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:35:07.596 --&gt; 00:35:08.936</a>
-對嘛 好不要看
+對,嘛,好,不要看
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2108&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:35:08.936 --&gt; 00:35:10.496</a>
 對 那其實他們漲
@@ -1777,7 +1832,7 @@ ABF就兩檔抓去關了
 這最近都相當的標
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2219&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:36:59.308 --&gt; 00:37:01.508</a>
-那往右的話像富巧沒什麼標
+那往右的話,像富巧,沒什麼標
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2221&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:37:01.508 --&gt; 00:37:03.908</a>
 一漲上來也被關緊閉
@@ -2442,308 +2497,236 @@ AI的浪潮而下一個就是機器人
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2708&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:08.432 --&gt; 00:45:09.232</a>
 比如說像
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2709&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:09.492 --&gt; 00:45:10.532</a>
-得很快
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2709&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:09.232 --&gt; 00:45:14.392</a>
+賢似 賢似算多題材 主要是記憶體 最近是特別標
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2710&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:10.532 --&gt; 00:45:11.332</a>
-迪創,但多題材
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2714&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:14.392 --&gt; 00:45:17.252</a>
+他的增持有到8%
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2711&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:11.352 --&gt; 00:45:12.392</a>
-很多題材
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2717&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:17.252 --&gt; 00:45:21.332</a>
+很特別 這樣第二檔是盟利 增加了5%
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2712&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:12.392 --&gt; 00:45:13.132</a>
-記憶體
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2721&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:21.332 --&gt; 00:45:23.372</a>
+這兩檔大戶買很多
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2713&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:13.132 --&gt; 00:45:14.852</a>
-最近 最特別標
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2723&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:23.372 --&gt; 00:45:25.532</a>
+其實這兩檔剛好是這禮拜最標的
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2714&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:14.852 --&gt; 00:45:16.992</a>
-它的增持有到8%
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2725&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:25.532 --&gt; 00:45:29.452</a>
+對 多題材反而更標拉 盟利當然多題材
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2717&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:17.172 --&gt; 00:45:18.572</a>
-很特別
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2729&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:29.452 --&gt; 00:45:34.592</a>
+那很自從道德 三大法人最近5天全部都買超
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2718&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:18.652 --&gt; 00:45:19.772</a>
-第二檔的是盟利
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2734&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:34.592 --&gt; 00:45:36.932</a>
+買了很多比如說像 賢似
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2719&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:19.832 --&gt; 00:45:20.892</a>
-增加了5%
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2736&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:36.932 --&gt; 00:45:40.832</a>
+然後還有這個鴻準 其實最近表現都相當不錯
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2720&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:20.952 --&gt; 00:45:23.112</a>
-這兩檔大幅買很多
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2740&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:40.832 --&gt; 00:45:43.132</a>
+好那因為這一次機器人展之前
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2723&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:23.132 --&gt; 00:45:25.252</a>
-其實這兩檔剛好是這禮拜最飆
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2743&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:43.132 --&gt; 00:45:44.832</a>
+其實機器人股票沒什麼漲
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2725&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:25.272 --&gt; 00:45:26.572</a>
-股票也很強
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2744&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:44.832 --&gt; 00:45:47.232</a>
+所以不用怕說開展
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2726&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:26.592 --&gt; 00:45:28.112</a>
-多題材反而更飆
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2747&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:47.232 --&gt; 00:45:49.732</a>
+然後就利多出境 因為沒什麼漲嘛 對不對
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2728&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:28.132 --&gt; 00:45:29.632</a>
-盟利的話多題材
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2729&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:29.632 --&gt; 00:45:31.312</a>
-那很自從道德
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2731&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:31.312 --&gt; 00:45:33.672</a>
-三大法人最近五天全部都買超
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2733&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:33.892 --&gt; 00:45:36.192</a>
-買了很多,比如說
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2736&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:36.192 --&gt; 00:45:37.152</a>
-像欲創
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2737&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:37.152 --&gt; 00:45:39.132</a>
-然後還有洪準
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2739&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:39.132 --&gt; 00:45:44.932</a>
-最近表現都相當不錯。好那因為這次機器人展之前其實機器人股票沒什麼漲
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2744&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:44.932 --&gt; 00:45:48.432</a>
-所以不用怕說開展然後就利多出境
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2748&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:48.432 --&gt; 00:45:49.832</a>
-因為沒什麼漲嘛 對不對
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2749&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:49.832 --&gt; 00:45:52.132</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2749&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:49.732 --&gt; 00:45:52.032</a>
 所以我們可以用一個比較中長線的來看
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2753&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:53.132 --&gt; 00:45:54.232</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2752&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:52.932 --&gt; 00:45:54.132</a>
 好那我們今天看兩檔
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2754&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:54.232 --&gt; 00:45:56.232</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2754&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:54.132 --&gt; 00:45:56.132</a>
 我們今天第一檔先看這個索羅門
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2756&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:56.232 --&gt; 00:45:58.032</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2756&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:56.132 --&gt; 00:45:57.932</a>
 第一代背板股
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2758&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:58.032 --&gt; 00:46:00.232</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2757&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:45:57.932 --&gt; 00:46:00.132</a>
 就是徽達第一代的背板股
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2760&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:00.232 --&gt; 00:46:02.232</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2760&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:00.132 --&gt; 00:46:02.132</a>
 那時候一出來哇 標的跟什麼一樣
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2762&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:02.232 --&gt; 00:46:04.832</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2762&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:02.132 --&gt; 00:46:04.632</a>
 然後標完之後經過了好幾年的整理
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2764&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:04.832 --&gt; 00:46:07.032</a>
-其實最近去超渡他會覺得比較無聊
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2764&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:04.632 --&gt; 00:46:07.032</a>
+最近去操作他會覺得比較無聊
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2767&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:07.032 --&gt; 00:46:08.532</a>
 就是大概上上下下
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2768&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:08.532 --&gt; 00:46:14.432</a>
-好幾年的爭議。這次他也去展出工業AI跟3D視覺的應用產品
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2768&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:08.532 --&gt; 00:46:09.732</a>
+好幾年的真意
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2774&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:14.432 --&gt; 00:46:17.732</a>
-策略的話基本上他是區間操作啦
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2769&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:09.732 --&gt; 00:46:14.532</a>
+那這次他也去展出這個工業AI跟3D視覺的應用產品
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2777&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:17.732 --&gt; 00:46:19.832</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2774&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:14.532 --&gt; 00:46:17.832</a>
+那策略的話基本上他是區間操作啦
+
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2777&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:17.832 --&gt; 00:46:19.932</a>
 可是大戶已經進場了有沒有
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2779&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:19.832 --&gt; 00:46:21.932</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2779&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:19.932 --&gt; 00:46:22.032</a>
 所以就是等待一個表態
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2781&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:21.932 --&gt; 00:46:27.932</a>
-那最近的話他在150這邊大概都是150到130
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2782&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:22.032 --&gt; 00:46:25.132</a>
+那最近的話他在150這邊
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2787&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:27.932 --&gt; 00:46:29.732</a>
-其實很年長
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2785&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:25.132 --&gt; 00:46:29.832</a>
+大概都是150到130其實很年廊
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2789&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:29.732 --&gt; 00:46:31.932</a>
-禮拜一有突破
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2789&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:29.832 --&gt; 00:46:32.032</a>
+那禮拜一有突破
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2791&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:31.932 --&gt; 00:46:33.932</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2792&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:32.032 --&gt; 00:46:33.932</a>
 突破新高到157.5
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2793&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:33.932 --&gt; 00:46:35.332</a>
-可是有點假突破
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2793&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:33.932 --&gt; 00:46:36.272</a>
+可是有點假突破然後就馬上拉回嘛
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2795&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:35.332 --&gt; 00:46:36.232</a>
-然後就馬上拉回嘛
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2796&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:36.272 --&gt; 00:46:38.572</a>
+那回到這個月線附近如果手穩的話
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2796&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:36.232 --&gt; 00:46:38.532</a>
-那回到這個月線附近 如果手穩的話
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2798&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:38.572 --&gt; 00:46:40.712</a>
+再攻一次搞不好就真的表態
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2798&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:38.532 --&gt; 00:46:40.632</a>
-再攻一次 搞不好就真的表態
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2800&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:40.632 --&gt; 00:46:43.332</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2800&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:40.712 --&gt; 00:46:43.432</a>
 那麼久的整理 籌碼應該洗得很乾淨了吧
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2803&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:43.332 --&gt; 00:46:44.832</a>
-洗得很乾淨 乾乾淨淨
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2803&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:43.432 --&gt; 00:46:44.812</a>
+洗得很乾淨啊 乾乾淨淨
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2804&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:44.832 --&gt; 00:46:46.932</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2804&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:44.812 --&gt; 00:46:46.952</a>
 所以就看如果說大戶的籌碼沒有掉下來
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2806&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:46.932 --&gt; 00:46:48.532</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2806&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:46.952 --&gt; 00:46:48.512</a>
 就有機會再往上攻
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2808&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:48.532 --&gt; 00:46:49.732</a>
-然後再來看一下這個
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2808&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:48.512 --&gt; 00:46:51.392</a>
+然後再來看一下這個微型的線型滑溽
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2810&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:50.032 --&gt; 00:46:51.432</a>
-微型的線型滑軌
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2811&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:51.432 --&gt; 00:46:52.732</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2811&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:51.392 --&gt; 00:46:52.752</a>
 它算是龍頭部分
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2812&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:52.732 --&gt; 00:46:54.232</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2812&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:52.752 --&gt; 00:46:54.212</a>
 那1597的值得
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2814&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:54.232 --&gt; 00:46:55.132</a>
-當然它除了說
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2814&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:54.212 --&gt; 00:46:57.652</a>
+當然它除了說機器人占比慢慢拉高到10%
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2815&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:55.132 --&gt; 00:46:57.632</a>
-機器人占比慢慢拉高到10%
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2817&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:57.652 --&gt; 00:47:01.552</a>
+那還有跨這個半導體設備跟先進封裝
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2817&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:57.632 --&gt; 00:46:58.932</a>
-那還有跨這個
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2818&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:46:58.932 --&gt; 00:47:01.532</a>
-半導體設備跟先進封裝
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2821&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:01.532 --&gt; 00:47:03.132</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2821&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:01.552 --&gt; 00:47:03.192</a>
 那這個底部已經打完了
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2823&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:03.132 --&gt; 00:47:04.232</a>
-大底完成
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2823&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:03.192 --&gt; 00:47:06.092</a>
+大抵完成 剛好碰到季線反壓
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2824&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:04.232 --&gt; 00:47:06.032</a>
-剛好碰到季線反壓
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2826&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:06.092 --&gt; 00:47:07.792</a>
+上禮拜五碰到季線反壓
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2826&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:06.032 --&gt; 00:47:07.832</a>
-上禮拜五碰到機械反壓
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2827&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:07.792 --&gt; 00:47:10.792</a>
+回來其實它這個大量沒有破
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2827&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:07.832 --&gt; 00:47:10.832</a>
-回來其實它這個大量沒有破嘛
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2830&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:10.832 --&gt; 00:47:13.032</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2830&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:10.792 --&gt; 00:47:13.032</a>
 所以這個大量的高點如果一突破
 
 <a href="https://www.youtube.com/embed/Atj2btgTIII?start=2833&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:13.032 --&gt; 00:47:15.232</a>
 當然是還有機會再往上去做攻擊
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2835&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:15.232 --&gt; 00:47:16.432</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2835&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:15.232 --&gt; 00:47:16.732</a>
 這給大家參考
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2836&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:16.432 --&gt; 00:47:18.432</a>
-不同的滑軌不同的命運
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2836&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:16.732 --&gt; 00:47:18.532</a>
+不同的滑軌 不同的命運
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2838&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:18.432 --&gt; 00:47:19.832</a>
-我們看到一個是
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2838&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:18.532 --&gt; 00:47:20.312</a>
+我們看到窗戶 一個是窗戶
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2839&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:19.832 --&gt; 00:47:22.232</a>
-窗戶當然是做伺服器滑軌為主
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2840&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:20.312 --&gt; 00:47:22.772</a>
+當然是做伺服器滑軌為主
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2842&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:22.232 --&gt; 00:47:25.032</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2842&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:22.772 --&gt; 00:47:24.952</a>
 值得跟上銀全球傳動
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2845&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:25.032 --&gt; 00:47:27.432</a>
-就是做這個現行滑軌不太一樣
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2844&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:24.952 --&gt; 00:47:26.652</a>
+就是做這個現行滑軌
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2847&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:27.432 --&gt; 00:47:28.432</a>
-不太一樣一個是
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2846&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:26.652 --&gt; 00:47:27.792</a>
+不太一樣 不太一樣
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2848&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:28.432 --&gt; 00:47:29.732</a>
-for這個伺服器
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2847&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:27.792 --&gt; 00:47:29.692</a>
+一個是for這個伺服器
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2849&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:29.732 --&gt; 00:47:31.232</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2849&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:29.692 --&gt; 00:47:31.212</a>
 一個是for這個機器人部分
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2851&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:31.232 --&gt; 00:47:33.832</a>
-當然也希望機器人的滑軌可以努力一下
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2851&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:31.212 --&gt; 00:47:32.712</a>
+當然也希望機器人的滑軌
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2853&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:33.832 --&gt; 00:47:35.732</a>
-因為之前上銀本來主動是有買
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2852&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:32.712 --&gt; 00:47:35.712</a>
+可以努力一下 因為之前上癮本來主動是有買
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2855&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:35.732 --&gt; 00:47:37.392</a>
-但兩天就把它賣掉了
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2855&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:35.712 --&gt; 00:47:37.352</a>
+但兩天就把它賣掉
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2857&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:37.392 --&gt; 00:47:40.372</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2857&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:37.352 --&gt; 00:47:40.352</a>
 如果買盤能延續應該對這個族群也會有幫助
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2860&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:40.372 --&gt; 00:47:42.032</a>
-對 如果上銀也能表態的話
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2860&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:40.352 --&gt; 00:47:42.012</a>
+對 如果上癮也能表態的話
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2862&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:42.032 --&gt; 00:47:43.432</a>
-當然值得群球穿動
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2862&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:42.012 --&gt; 00:47:45.032</a>
+當然值得群球穿動 都有機會再往上拉
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2863&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:43.432 --&gt; 00:47:45.072</a>
-都有機會再往上拉
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2865&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:45.072 --&gt; 00:47:46.872</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2865&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:45.032 --&gt; 00:47:46.832</a>
 好 今天非常謝謝世君的解說
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2866&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:46.872 --&gt; 00:47:47.772</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2866&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:46.832 --&gt; 00:47:47.292</a>
 謝謝
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2867&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:47.772 --&gt; 00:47:48.972</a>
-好 世君分享哦
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2867&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:47.792 --&gt; 00:47:48.992</a>
+好 世君分享喔
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2868&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:48.972 --&gt; 00:47:51.412</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2868&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:48.992 --&gt; 00:47:51.432</a>
 PCB現在天時地利人和
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2871&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:51.412 --&gt; 00:47:53.512</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2871&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:51.432 --&gt; 00:47:53.492</a>
 他們本來業績就很好
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2873&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:53.512 --&gt; 00:47:55.892</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2873&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:53.492 --&gt; 00:47:55.872</a>
 現在籌碼也都全面好轉
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2875&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:55.892 --&gt; 00:47:57.452</a>
-但是分成兩組哦
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2875&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:55.872 --&gt; 00:47:57.432</a>
+但是分成兩組喔
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2877&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:57.452 --&gt; 00:47:59.292</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2877&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:57.432 --&gt; 00:47:59.232</a>
 有一組是已經高高在上了
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2879&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:59.292 --&gt; 00:48:00.532</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2879&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:47:59.232 --&gt; 00:48:00.512</a>
 像載板類的
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2880&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:00.532 --&gt; 00:48:02.192</a>
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2880&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:00.512 --&gt; 00:48:02.172</a>
 有一組低檔轉強了
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2882&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:02.192 --&gt; 00:48:04.192</a>
-你也可以平均分配
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2882&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:02.172 --&gt; 00:48:26.672</a>
+你也可以平均分配也可以嘗試一下如果高檔這邊有獲利的話分一點給這些低檔轉強的總之這個族群的業績沒有問題而機器人呢每次都好擔心長勢不延續可以看到像索羅門盤整了這麼久但籌碼確實清洗乾淨而大戶在進駐這一次能不能展覽後是狹帶著整個產業景氣往上走是值得拭目以待的喔
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2884&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:04.192 --&gt; 00:48:05.352</a>
-也可以嘗試一下
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2906&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:26.672 --&gt; 00:48:32.072</a>
+好 今天非常謝謝三位來賓來到現場台股一路談上來好像沒有要休息
 
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2885&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:05.352 --&gt; 00:48:09.452</a>
-如果高檔這邊有獲利的話分一點給這些低檔轉強的
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2889&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:09.452 --&gt; 00:48:11.952</a>
-總之這個族群的業績沒有問題
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2891&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:11.952 --&gt; 00:48:14.952</a>
-而機器人呢每次都好擔心長勢不延續
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2894&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:14.952 --&gt; 00:48:17.052</a>
-可以看到像索羅門盤整了這麼久
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2897&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:17.052 --&gt; 00:48:20.652</a>
-但籌碼確實清洗乾淨而大戶在進駐
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2900&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:20.652 --&gt; 00:48:24.852</a>
-這一次能不能展覽後是狹帶著整個產業景氣往上走
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2904&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:24.852 --&gt; 00:48:27.052</a>
-是值得拭目以待的
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2907&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:27.052 --&gt; 00:48:29.352</a>
-好 今天非常謝謝三位來賓來到現場
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2909&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:29.352 --&gt; 00:48:32.152</a>
-台股一路彈上來好像沒有要休息
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2912&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:32.152 --&gt; 00:48:34.052</a>
-其實各族群是有在輪動的
-
-<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2914&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:34.052 --&gt; 00:48:47.172</a>
-而且圖形打開來看。其實多種型它已經做好的可能是您可以最優先的選擇。以及基本面幾乎每個產業都繳出非常亮麗的成績。那也希望今天理財團是有對應投資有幫助哦。明天再會了,拜拜!
+<a href="https://www.youtube.com/embed/Atj2btgTIII?start=2912&amp;autoplay=1" target="yt-player-Atj2btgTIII">00:48:32.072 --&gt; 00:48:47.192</a>
+其實各族群是有在輪動的,而且圖形打開來看。其實多種型態已經做好的,可能是您可以最優先的選擇。以及基本面幾乎每個產業都繳出非常亮麗的成績。那也希望今天理財團是有對你投資有幫助喔!明天再會了,掰掰!
 </pre>
 
 </details>
