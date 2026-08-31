@@ -9,7 +9,7 @@ tags:
   - 股票分析
 categories:
   - 投資筆記
-description: "8月強漲後進入9月震盪，節目聚焦欣興PCB事件、記憶體續漲、蘋概光學散熱與半導體特化及SpaceX供應鏈題材。"
+description: "聚焦欣興事件、PCB/ABF轉單、記憶體漲價、蘋概股與半導體特化、SpaceX供應鏈輪動。"
 ---
 
 # 【理財達人秀】有欣興怎辦 PCB誰受益？
@@ -26,7 +26,7 @@ description: "8月強漲後進入9月震盪，節目聚焦欣興PCB事件、記�
 
 - 頻道：理財達人秀 EBCmoneyshow
 - 主持人：李兆華
-- 來賓：未明確標示
+- 來賓：李永年、林漢偉、楊雲翔
 - YouTube 標題：【理財達人秀】有欣興怎辦 PCB誰受益？記憶體MSCI利多再+1？大立光天價 光學.散熱亮蘋果光？半導體展 特化有黑馬？｜李兆華、李永年、林漢偉、楊雲翔2026.08.31【電視完整版】
 
 ---
@@ -42,21 +42,23 @@ description: "8月強漲後進入9月震盪，節目聚焦欣興PCB事件、記�
 
 ## 文章摘要（核心）
 
-這集先回頭看8月台股大漲3008點後的9月風險，重點放在升息預期、尾盤MSCI換股與月線支撐。  
-個股面則集中在欣興PCB事件、南亞科帶頭的記憶體、蘋概光學/散熱，以及半導體展帶出的特化與SpaceX供應鏈。  
-節目反覆強調要看量能、均線與族群比價，短線事件股不要只看新聞，發表會前後與籌碼變化才是節奏關鍵。  
+這集重點先放在 8 月台股大漲後，9 月能不能守住月線與量能，並回頭拆解欣興事件對 PCB / ABF 的影響。  
+另一條主軸是記憶體，南亞科、華邦電、群聯都被拿來討論比價與漲價延續性。  
+蘋概股、散熱、半導體特化與 SpaceX 供應鏈也都有點名，整體操作節奏偏向看高做低、等量價確認。  
+講者對短線仍偏保守，但認為多數題材股只要量能與均線結構沒有壞，輪動機會還在。
 
 ---
 
 ## 投資重點整理（最重要）
 
-- **大盤先看9月震盪**：8月大漲後，節目認為9月升息預期升高會壓住美科技股，但台股尾盤拉回、留長下影，短線仍有支撐。
-- **欣興事件先看影響範圍**：節目把重點放在「一般PCB」而非ABF載板，認為對本業影響可控，但籌碼與內控風險還要繼續看。
-- **PCB不是只有欣興**：南電、金像電、建榮都被拿來看，核心是底型、均線與量能能不能配合，而不是單靠題材追價。
-- **記憶體仍是強主線**：南亞科創高，節目引述現貨價續漲與9月再漲10%到20%的預期，華邦電與群聯則看比價與補漲。
-- **蘋概股有時間窗**：大立光、玉晶光、新日興、雙鴻被視為蘋果發表會前後的重要節奏股，發表前偏多，發表後要防失望賣壓。
-- **特化與SpaceX題材延伸**：台特化、中華化、長興，以及華通、台光電，都被當成半導體展與新供應鏈題材的延伸觀察。
-- **操作關鍵是量價**：節目一再用「月季線黃金交叉、帶量長紅、量縮守位」判斷，不鼓勵只看新聞就追高。
+- **大盤先看量**：8 月漲 3008 點很強，但 9 月若日均量不夠，盤面容易先進入整理。
+- **欣興先看事件範圍**：節目認為若只影響傳統 PCB，衝擊可控，不必先把整個 ABF 想成全面失速。
+- **PCB 族群看換手與均線**：南電、金像電、建榮都被放在「量價轉強才跟」的框架裡。
+- **記憶體是核心主線**：美銀看 9 月現貨價續漲，南亞科、華邦電、群聯都在比價觀察名單。
+- **蘋概股有發表會前慣性**：大立光、玉晶光、新日興、雙鴻都被視為 9 月前的蘋果鏈重點。
+- **特化與半導體展有題材**：台特化、中華化、長興被點名，重點在營收與供應鏈位置。
+- **SpaceX / AI 供應鏈看型態**：華通、台光電、聯德都屬於先看結構、再等突破的標的。
+- **操作上偏向看高做低**：講者多次提到要等放量、長紅、黃金交叉或頸線突破，再決定要不要追。
 
 ---
 
@@ -64,43 +66,50 @@ description: "8月強漲後進入9月震盪，節目聚焦欣興PCB事件、記�
 
 | 股票 | 代號 | 題材/族群 | 節目原話重點 | 觀察依據 | 觀察條件 | 風險/失效點 | 影片時間 |
 |---|---|---|---|---|---|---|---|
-| 南亞科 | 2408 | 記憶體 | 他直接把南亞科稱作「全世界最強的記憶體」，說今天收盤創新高，且美銀看9月現貨價可能再漲10%到20%。 | 16GB DDR4價格91美元已超越DDR5，7月營收全面創高。 | 若美光、三星、海力士9月也反彈，比價效應會更快。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=116&autoplay=1" target="yt-player-EGhPyJrwf7M">00:01:56</a> |
-| 欣興 | 3037 | PCB / 事件風險 | 節目認為這次主要是一般PCB，不是ABF載板，傳統PCB只占總業務約9%到11%，影響可控。 | 外資、美銀、瑞銀與統一投顧都還偏正面，盤後投信也沒有大賣。 | 明天若再跌停或量能放大，才需要重新評估。 | 高層、內控與ETF/基金賣壓若持續，仍可能拖累。 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=165&autoplay=1" target="yt-player-EGhPyJrwf7M">00:02:45</a> |
-| 台積電 | 2330 | 半導體 / 權值 | 他說台積電短中期均線糾結，但今天雖跌破月季線後仍收在最高；若明天帶量長紅，所有均線有機會一起翻揚。 | 外資過去三週買超約1.5萬張，融資餘額減少2027張。 | 明天若再帶量上攻，才有機會把均線一起推上去。 | 若明天跌點超過350點、收黑且吃掉一半下影線，多頭會轉弱。 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=372&autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:12</a> |
-| 南電 | 8046 | ABF載板 / PCB | 節目把南電視為偏多股，說它收十字線且守住所有均線，若明天再收紅、尤其長紅，還有更高點可期待。 | 上檔沒有什麼大量套牢壓力。 | 明天若續收紅、量能跟上，才能延續多頭。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=775&autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:55</a> |
-| 金像電 | 2368 | PCB / 轉單題材 | 盤中一度拉到漲停，但收盤帶量收黑K；節目仍認為底型與均線漂亮。 | 底部形態漂亮，今天的大量可能是換手量。 | 明天若量縮、收盤站上1200元。 | 若持續被視為出貨，短線仍會震盪。 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=932&autoplay=1" target="yt-player-EGhPyJrwf7M">00:15:32</a> |
-| 建榮 | 5340 | PCB / 上游材料 | 他說建榮今天留上影線黑K，但若明天開高收紅把上影線吃掉，反彈空間會出來。 | 預估本益比約17倍，不算高。 | 明天若開高走高、回補上影線。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1013&autoplay=1" target="yt-player-EGhPyJrwf7M">00:16:53</a> |
-| 華邦電 | 2344 | 記憶體 | 他認為華邦電型態整理得差不多，月季線開始黃金交叉往上，後面有補漲動能。 | 6月創高後已近3個月沒再創新高。 | 若量能維持，且國際記憶體同業反彈，比價會更快。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1353&autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:33</a> |
-| 群聯 | 8299 | 記憶體 / 模組 | 他說群聯的月線和季線即將黃金交叉，型態開始改變，但投信不喜歡是缺點。 | 盤面出現大量黑K高點，結構有轉變跡象。 | 要看到過大量高點、投信買盤回來，才有強勢上攻。 | 投信若不回頭，強漲動能會受限。 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1456&autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:16</a> |
-| 全新 | 2455 | 光通訊 / 比價 | 他在比較同族群估值時提到全新，作為光通訊/蘋概周邊的比價參考。 | - | - | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1721&autoplay=1" target="yt-player-EGhPyJrwf7M">00:28:41</a> |
-| 玉晶光 | 3406 | 光學鏡頭 / 蘋概 | 他把玉晶光和大立光一起看，認為蘋概股在發表會前仍有續強空間。 | 投信也在壓玉晶光。 | 9月10日前偏多。 | 發表會後可能有失望賣壓。 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1630&autoplay=1" target="yt-player-EGhPyJrwf7M">00:27:10</a> |
-| 新日興 | 3376 | 折疊機 / 蘋概 | 他提到新日興的短期均線已經糾結，若站上季線並再拉一根長紅，就會形成多頭排列。 | 短中期均線糾結，帶量紅K後型態會更完整。 | 站上季線且量增。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1630&autoplay=1" target="yt-player-EGhPyJrwf7M">00:27:10</a> |
-| 雙鴻 | 3324 | 散熱 / 蘋概 | 他說雙鴻最近走勢比同族群更強，因為在反應蘋概股拉貨情況，且股價相對委屈。 | 投信與外資同步在買方。 | 若底型續強，後續仍有爬升空間。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1763&autoplay=1" target="yt-player-EGhPyJrwf7M">00:29:23</a> |
-| 華通 | 2313 | PCB / SpaceX | 他說華通有SpaceX題材，現增賣壓宣洩告一段落後，股價站回均線。 | 被視為SpaceX相關一階供應鏈。 | 若SpaceX股價續漲，回到305.5有機會。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1849&autoplay=1" target="yt-player-EGhPyJrwf7M">00:30:49</a> |
-| 台虹 | 8039 | 軟板 / 折疊機 | 他把台虹拿來當軟板族群例子，認為折疊機題材對軟板有加分效果。 | 軟板族群近期偏熱。 | 觀察後面折疊機出貨動能。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1891&autoplay=1" target="yt-player-EGhPyJrwf7M">00:31:31</a> |
-| 中華化 | 1727 | 特化 / 電子級化工 | 他說中華化已在歷史高點附近，且是從傳統化工轉型到電子級產品。 | 營收一直有在創高。 | - | 本益比約60倍，位階已不低。 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2267&autoplay=1" target="yt-player-EGhPyJrwf7M">00:37:47</a> |
-| 台特化 | 4772 | 特化 / 台積電供應鏈 | 他說台特化是台積電最大供應商之一，8項關鍵材料中有4項獨家、3項是兩家供應。 | 供應關係很強。 | 半導體展與台積電供應鏈題材延續時可續看。 | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2309&autoplay=1" target="yt-player-EGhPyJrwf7M">00:38:29</a> |
+| 南亞科 | 2408 | 記憶體 | 說南亞科是「全世界最強的記憶體」，收盤創高；美銀估 9 月現貨價再漲 10% 到 20%，若美光、三星、海力士開始反彈，比價會更快。 | MSCI 尾盤調整、現貨價續漲、收盤新高 | 9 月報價與同業股價能否續強 | 海外同業仍弱勢時，比價速度可能較慢 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=116&autoplay=1" target="yt-player-EGhPyJrwf7M">00:01:56</a> |
+| 欣興 | 3037 | PCB / ABF載板 | 先問「有欣興怎辦」，後面說傳統 PCB 只佔總業務約 9% 到 11%，若只是這一塊受影響，業績面沒有很嚴重。 | 事件被指向 PCB 產品、投信盤後反手買 | 若只影響傳統 PCB，衝擊可控 | 若後續不是只有傳統 PCB，影響要再觀察 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=212&autoplay=1" target="yt-player-EGhPyJrwf7M">00:03:32</a> |
+| 台積電 | 2330 | 半導體 / 權值股 | 說台積電今天雖然開低，一度跌破月線季線，但短中期均線大多守住；若明天能帶量長紅，均線有機會一起翻揚。 | 短中期均線糾結、外資三週買超約 1.5 萬張、融資減少 | 明天若量增長紅 | 若明天收黑且量不夠，整理可能延續 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=372&autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:12</a> |
+| 南電 | 8046 | ABF載板 | 說南電基本面沒問題，早盤衝高又拉回但最後收十字線，且守住所有移動均線，明天若再收長紅還有更高點。 | 守均線、量能增加、收十字線 | 明天續收紅、最好是長紅 | 收不出續強紅K就會轉弱 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=726&autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:06</a> |
+| 創意 | 3443 | IC設計 / 高階題材 | 提到七月底講過創意創高後，現在看法偏向先觀察，因為很多創高股都會大幅拉回。 | 創歷史新高後的整理 | - | 創高後若快速回檔，需謹慎 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=850&autoplay=1" target="yt-player-EGhPyJrwf7M">00:14:10</a> |
+| 金像電 | 2368 | PCB | 說金像電若明天量縮、收盤站上 1200 元，今天的大量可能就是換手量。 | 大量換手 | 明天收盤站穩 1200 | 若站不回 1200，換手判讀失效 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=932&autoplay=1" target="yt-player-EGhPyJrwf7M">00:15:32</a> |
+| 建榮 | 5340 | PCB 上游 | 說建榮預估本益比才 17 倍不算高，若明天開高、把今天上影線吃掉，反彈空間就會出來。 | 低位階、上影線 | 開高收紅、補掉上影線 | 若無法收紅，反彈延續性不足 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1017&autoplay=1" target="yt-player-EGhPyJrwf7M">00:16:57</a> |
+| 南亞 | 1303 | 塑化 / PCB上游材料 | 被放在 PCB 上游動能裡一起看，屬於相對低位階的一段。 | PCB 上游題材 | - | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1063&autoplay=1" target="yt-player-EGhPyJrwf7M">00:17:43</a> |
+| 華邦電 | 2344 | 記憶體 | 說華邦電整理差不多，均線變多頭排列；若月季線黃金交叉後量能能維持，會有補漲動能。 | 月季線黃金交叉、整理久未創高 | 量能持續、均線往上 | 若量縮或大盤轉弱，動能可能延後 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1347&autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:27</a> |
+| 群聯 | 8299 | 記憶體 / 模組 | 說群聯線型也做好了，季線和月線即將黃金交叉，但缺點是投信不太喜歡它。 | 量價結構轉變、靠近大量黑K高點 | 投信買盤回來、過大量高點 | 投信若不回來，強攻不易 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1432&autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:52</a> |
+| 玉晶光 | 3406 | 蘋概股 / 光學鏡頭 | 說玉晶光也來到 1000 元，和大立光一起成為光學鏡頭的比價核心。 | 投信重壓、位階往上 | 發表會前仍有創高空間 | 發表會後可能拉回 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1644&autoplay=1" target="yt-player-EGhPyJrwf7M">00:27:24</a> |
+| 新日興 | 3376 | 蘋概股 / 折疊機 | 說新日興和富士達一起創歷史新高，屬於折疊機題材的一環。 | 折疊機、蘋果光 | 發表會前延續強勢 | 發表會後容易出現拉回 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1644&autoplay=1" target="yt-player-EGhPyJrwf7M">00:27:24</a> |
+| 雙鴻 | 3324 | 散熱 | 說雙鴻漲停，因為 iPhone 18 發熱更高，相關散熱零組件會升級；外資和投信也同步在買。 | 蘋果新品散熱升級、籌碼偏多 | 若散熱題材續熱、買盤續進 | 題材降溫或蘋果鏈轉弱會影響 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1763&autoplay=1" target="yt-player-EGhPyJrwf7M">00:29:23</a> |
+| 華通 | 2313 | 軟板 / SpaceX 概念 | 說華通有 SpaceX 題材，現增賣壓宣洩後已站回均線，若 SpaceX 續漲就有機會。 | SpaceX 題材、賣壓宣洩 | SpaceX 股價續強 | 若美股題材轉弱，續攻力道會降 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1849&autoplay=1" target="yt-player-EGhPyJrwf7M">00:30:49</a> |
+| 台虹 | 8039 | 軟板 / 折疊機 | 把台虹當作最近軟板很熱的例子來討論，並提到折疊機對軟板有加分。 | 軟板族群熱度 | 折疊機出貨動能優於預期 | 出貨不如預期時要保守 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1891&autoplay=1" target="yt-player-EGhPyJrwf7M">00:31:31</a> |
+| 材料\*-KY | 4763 | 半導體材料 | 在半導體展相關題材裡，先點名材料。 | 半導體展 / 材料題材 | - | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2175&autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:15</a> |
+| 中華化 | 1727 | 特化 | 說中華化和長興都接近歷史高點，且營收一直有在創高。 | 特化、營收創高 | 展會題材延續 | 若營收動能不續，題材會降溫 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2282&autoplay=1" target="yt-player-EGhPyJrwf7M">00:38:02</a> |
+| 長興 | 1717 | 特化 / 膠材 | 同樣被列在特化族群高點附近，屬於從傳統化工轉向電子級膠材的代表。 | 特化、營收創高 | - | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2282&autoplay=1" target="yt-player-EGhPyJrwf7M">00:38:02</a> |
+| 台特化 | 4772 | 特化 | 說台特化是台積電最大供應商之一，8 項關鍵材料中有 4 項獨家，且新產線投產後產能將大增。 | 台積電供應鏈、產能擴充 | 明年成長延續 | 若產能開出不如預期，成長性會打折 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2282&autoplay=1" target="yt-player-EGhPyJrwf7M">00:38:02</a> |
+| 台光電 | 2383 | PCB / SpaceX 供應鏈 | 說台光電跨很多領域都有，在 SpaceX 供應鏈裡屬於二階供應商。 | SpaceX 供應鏈定位 | - | - | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2622&autoplay=1" target="yt-player-EGhPyJrwf7M">00:43:42</a> |
+| 聯德 | 3308 | AI 伺服器 / SpaceX 供應鏈 | 說聯德投控轉型後有 40% 到 50% 切入 AI 伺服器，型態像頭肩底，越過頸線可能很快往上衝。 | 頭肩底、切入 AI 伺服器 | 量增突破頸線 | 若量不出、未突破頸線，型態失效 | <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2668&autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:28</a> |
 
 ---
 
 ## 產業與市場觀察
 
-- **大盤方向**：8月大漲3008點後，9月升息預期升高，節目認為市場壓力會增加；但台股長下影、尾盤拉回，仍保有多頭結構。
-- **產業趨勢**：PCB、記憶體、蘋概光學散熱、特化、SpaceX供應鏈同步輪動，節目強調不是單一族群獨強，而是題材接力。
-- **主流題材**：欣興事件、南亞科記憶體續漲、蘋果新品發表前的蘋概股、半導體展帶出的特化股。
-- **資金流向**：MSCI季度換股、外資與投信買賣超、以及族群內部的比價輪動，是節目反覆提到的關鍵。
-- **操作節奏**：事件股先看籌碼與量能，蘋概股看發表會前後的時間窗，底型股則等帶量突破與均線翻揚。
+- **大盤方向**：8 月漲 3008 點，尾盤靠 MSCI 拉回；9 月先看月線、量能與明天走勢是否續強。
+- **產業趨勢**：記憶體漲價延續、PCB / ABF 受欣興事件牽動、蘋概股進入發表會前慣性、特化與半導體展題材升溫。
+- **主流題材**：南亞科、華邦電、群聯；大立光、玉晶光、新日興、雙鴻；台特化、中華化、長興；華通、台光電、聯德。
+- **資金流向**：節目多次提到外資、投信仍有布局；部分股票已進入換手與籌碼沉澱階段。
+- **操作節奏**：偏向看高做低，等放量長紅、黃金交叉、頸線突破或站穩關鍵價位後再跟。
 
 ---
 
 ## 關鍵名詞
 
-- **MSCI季度換股**：節目提到尾盤拉抬台股的原因之一。
-- **長下影線**：盤中重挫後尾盤拉回，代表有撐。
-- **黃金交叉**：月線與季線轉強，節目用在華邦電、群聯等個股。
-- **蘋果光**：蘋概、光學、散熱因新品發表受惠的題材。
-- **折疊機**：新日興、台虹等被拿來延伸觀察的題材。
-- **台積電供應鏈特化**：台特化、中華化、長興等半導體材料題材。
+- **MSCI 季度換股**：指數成分調整，常在尾盤影響買賣盤。
+- **ABF 載板**：欣興、南電討論的載板產品。
+- **月線 / 季線**：技術面常用的中期多空參考線。
+- **黃金交叉**：短期均線上穿中長期均線。
+- **頭肩底 / 頸線**：雲翔哥用來看聯德、森茂的型態。
+- **換手量**：大量成交後換手，金像電用這個判讀。
+- **蘋果光**：蘋概股在新品發表前後的題材連動。
+- **半導體展**：節目串起特化、材料與供應鏈題材的背景。
 
 <!-- raw-vtt-appendix:start -->
 ## 字幕附錄（VTT）
@@ -420,134 +429,176 @@ WEBVTT
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=352&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:52.390 --&gt; 00:05:54.330</a>
 可是明天如果再收黑的話
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=354&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:54.330 --&gt; 00:05:56.730</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=354&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:54.330 --&gt; 00:05:56.570</a>
 就表示今天是拉高在出貨
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=356&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:56.730 --&gt; 00:05:58.230</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=356&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:56.570 --&gt; 00:05:58.170</a>
 尾盤拉高在出貨
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=358&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:58.230 --&gt; 00:05:59.630</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=358&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:58.170 --&gt; 00:05:59.570</a>
 那這樣子反而不好
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=359&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:59.630 --&gt; 00:06:01.030</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=359&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:05:59.570 --&gt; 00:06:01.010</a>
 所以要特別的注意
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=361&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:01.030 --&gt; 00:06:03.230</a>
-那月前跟季線是多頭
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=361&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:01.010 --&gt; 00:06:03.170</a>
+那月先跟季線是多頭
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=363&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:03.230 --&gt; 00:06:04.830</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=363&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:03.170 --&gt; 00:06:04.770</a>
 一定要守的地方
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=364&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:04.830 --&gt; 00:06:06.470</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=364&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:04.770 --&gt; 00:06:06.410</a>
 那如果守不住的話
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=366&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:06.470 --&gt; 00:06:09.170</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=366&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:06.410 --&gt; 00:06:09.110</a>
 那技術面就可能有轉弱的機會了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=369&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:09.170 --&gt; 00:06:12.990</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=369&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:09.110 --&gt; 00:06:12.910</a>
 所以呢稍微的要小心一些
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=372&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:12.990 --&gt; 00:06:14.990</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=372&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:12.910 --&gt; 00:06:14.890</a>
 好 再過來我們看台積電
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=374&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:14.990 --&gt; 00:06:16.790</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=374&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:14.890 --&gt; 00:06:16.690</a>
 台積電我們上個禮拜就講了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=376&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:16.790 --&gt; 00:06:19.130</a>
-它這邊做個收斂三角形吧
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=376&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:16.690 --&gt; 00:06:19.050</a>
+它這邊做個收斂三角形
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=379&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:19.130 --&gt; 00:06:21.430</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=379&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:19.050 --&gt; 00:06:21.390</a>
 我們看一下日線
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=381&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:21.430 --&gt; 00:06:23.930</a>
-掌盤開低然後呢打一度
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=381&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:21.390 --&gt; 00:06:24.790</a>
+掌盤開低然後一度打得很低
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=383&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:23.930 --&gt; 00:06:27.210</a>
-打得很低 把這個月線，季線全部跌破了
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=384&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:24.790 --&gt; 00:06:27.090</a>
+把這個月線，季線全部跌破了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=387&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:27.210 --&gt; 00:06:28.330</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=387&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:27.090 --&gt; 00:06:28.290</a>
 然後你注意看
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=388&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:28.330 --&gt; 00:06:30.330</a>
-它這所有的短中期的移動圈
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=388&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:28.290 --&gt; 00:06:30.190</a>
+它的所有的短中期的移動圈
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=390&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:30.330 --&gt; 00:06:32.010</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=390&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:30.190 --&gt; 00:06:31.970</a>
 全部都糾結在一起了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=392&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:32.010 --&gt; 00:06:34.650</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=391&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:31.970 --&gt; 00:06:34.570</a>
 全部糾結在一起有什麼好處呢
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=394&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:34.650 --&gt; 00:06:37.210</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=394&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:34.570 --&gt; 00:06:37.170</a>
 它是極端好或極端壞
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=397&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:37.210 --&gt; 00:06:39.610</a>
-為什麼 因為它今天還不錯
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=397&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:37.170 --&gt; 00:06:37.870</a>
+為什麼?
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=399&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:39.610 --&gt; 00:06:41.250</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=397&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:37.870 --&gt; 00:06:39.510</a>
+因為它今天還不錯
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=399&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:39.510 --&gt; 00:06:41.210</a>
 是今天除了五日線之外
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=401&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:41.250 --&gt; 00:06:42.890</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=401&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:41.210 --&gt; 00:06:42.870</a>
 它其他的線都守住了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=402&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:42.890 --&gt; 00:06:44.610</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=402&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:42.870 --&gt; 00:06:44.550</a>
 它其實收在最高
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=404&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:44.610 --&gt; 00:06:46.490</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=404&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:44.550 --&gt; 00:06:46.510</a>
 而且它只小跌0.62%而已
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=406&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:46.490 --&gt; 00:06:48.890</a>
-沒有錯 所以表現其實不錯
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=406&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:46.510 --&gt; 00:06:47.250</a>
+沒有錯
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=408&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:48.890 --&gt; 00:06:51.090</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=407&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:47.250 --&gt; 00:06:48.850</a>
+所以表現其實不錯
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=408&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:48.850 --&gt; 00:06:51.050</a>
 它明天如果能夠再帶量
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=411&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:51.090 --&gt; 00:06:53.050</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=411&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:51.050 --&gt; 00:06:52.910</a>
 再拉出一根長紅的話
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=413&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:53.050 --&gt; 00:07:23.050</a>
-那麼它所有的移動均線就有機會一起向上翻揚。那你知道所有的移動均線都一起向上翻揚的時候那個力量是很集中的。它就可以把這個股價推升上去了。那過去的三個禮拜呢,外資其實是默默地買超了1.5萬張。買到不多,可是呢,融資餘額也減少了2027張。這一點很重要。因為呢,這個台積電一直是這個我們散戶的心頭好。是。那大家都很喜歡它,所以零股
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=412&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:52.910 --&gt; 00:06:54.950</a>
+那麼它所有的移動均線
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=443&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:23.050 --&gt; 00:07:28.030</a>
-這次是把財經營獲出的成員、租金和財經的工作。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=414&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:54.950 --&gt; 00:06:57.250</a>
+就有機會一起向上翻揚
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=448&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:28.030 --&gt; 00:07:29.630</a>
-現在是我們在家族運了,要想說,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=417&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:57.250 --&gt; 00:06:58.850</a>
+那你知道所有的移動均線
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=449&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:29.630 --&gt; 00:07:31.430</a>
-為什麼要說, 要說,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=418&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:06:58.850 --&gt; 00:07:00.250</a>
+都一起向上翻揚的時候
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=451&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:31.430 --&gt; 00:07:34.470</a>
-那為什麼要說這些稼蓋和財經的工資?
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=420&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:00.250 --&gt; 00:07:02.190</a>
+那個力量是很集中的
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=454&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:34.470 --&gt; 00:07:36.030</a>
-我們現在是稼誕不達到的,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=422&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:02.190 --&gt; 00:07:06.390</a>
+它就可以把這個股價推升上去了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=456&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:36.030 --&gt; 00:07:38.290</a>
-像我們在家族運動到社交流,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=426&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:06.390 --&gt; 00:07:07.810</a>
+那過去的三個禮拜
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=458&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:38.290 --&gt; 00:07:40.910</a>
-然後我們在馬上,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=427&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:07.810 --&gt; 00:07:10.310</a>
+外資其實在默默地買超了1.5萬張
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=460&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:40.910 --&gt; 00:07:42.410</a>
-有一個稼轟那種的收費、
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=430&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:10.310 --&gt; 00:07:11.110</a>
+買到不多
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=462&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:42.410 --&gt; 00:07:44.230</a>
-還不錯,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=431&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:11.110 --&gt; 00:07:14.310</a>
+可是融資餘額也減少了2027張
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=464&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:44.230 --&gt; 00:07:46.050</a>
-就是有回到運動到大家做的工作。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=434&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:14.310 --&gt; 00:07:15.750</a>
+這一點很重要
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=466&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:46.050 --&gt; 00:07:47.410</a>
-對。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=435&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:15.750 --&gt; 00:07:20.850</a>
+因為台積電一直是我們散戶的心頭好
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=467&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:47.410 --&gt; 00:07:48.550</a>
-當然了,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=440&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:20.850 --&gt; 00:07:26.250</a>
+大家都很喜歡它,所以零股用融資買了一堆
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=468&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:48.550 --&gt; 00:07:50.250</a>
-所以就一定要給大家收費。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=446&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:26.250 --&gt; 00:07:30.250</a>
+最近這三個禮拜融資餘額反而減少
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=470&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:50.250 --&gt; 00:08:13.920</a>
-其實案情就有比較明確的進展。原因出來了洗產地。而且重點在可能不是載版啦是所謂一般的PCB產品。然後呢又大概15個人被抓去調查。所以到底這個事情嚴重性到哪裡?欣欣也出來講就是它它是PCB產品那我們相信它是PCB產品那PCB的產品對它的業務
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=450&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:30.250 --&gt; 00:07:34.170</a>
+盤久了就有沒耐性的人可能不想用融資買它了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=454&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:34.170 --&gt; 00:07:36.170</a>
+對 沒有錯 就減少了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=456&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:36.170 --&gt; 00:07:38.130</a>
+所以它的籌碼面來講的話
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=458&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:38.130 --&gt; 00:07:40.370</a>
+反而對多頭是比較有利的
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=460&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:40.370 --&gt; 00:07:43.010</a>
+那我們就等它的一根長紅出來
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=463&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:43.010 --&gt; 00:07:46.250</a>
+因為它一表態指數就不太一樣了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=466&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:46.250 --&gt; 00:07:49.170</a>
+另外上禮拜五我們就提到星星
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=469&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:49.170 --&gt; 00:07:51.170</a>
+那在過這個週末的時候
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=471&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:51.170 --&gt; 00:07:54.870</a>
+其實案情就有比較明確的進展
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=474&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:54.870 --&gt; 00:07:56.370</a>
+原因出來了西產地
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=476&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:56.370 --&gt; 00:07:59.250</a>
+而且重點在可能不是載版啦
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=479&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:07:59.250 --&gt; 00:08:01.490</a>
+是所謂一般的PCB產品
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=481&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:08:01.490 --&gt; 00:08:13.920</a>
+然後又大概15個人被抓去調查所以到底這個事情嚴重性到哪裡欣欣也出來講就是它是PCB產品那我們相信它是PCB產品那PCB的產品對它的業務
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=493&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:08:13.920 --&gt; 00:08:16.120</a>
 到底有多大的影響呢?我們可以看一下
@@ -577,13 +628,13 @@ WEBVTT
 那其實真的沒有很嚴重。以業績來說沒有很嚴重。對 沒有很嚴重。所以你看外資還來送暖。不怕我維持買進。那美銀呢?不怕我的目標價還是1400。那瑞銀也是一樣。我不怕買入的平等。OK好。那統一投顧的說法呢?它是這樣子。是。為什麼用統一投顧?因為婉婷在這兒。是。所以你看女王怎麼說。對沒錯。那她疑似PB西產地。
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=541&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:09:01.820 --&gt; 00:09:31.820</a>
-那這個跟這個產品跟ABF載板無關。所以呢影響是可控的。還有呢這個比較重要。美國客戶不會更換ABF載板的供應商或調整訂單比例。為什麼?因為現在每一家的ABF載板的那個訂單都滿到一個爆出來了。對不對?誰有辦法去接這個多出來的單子都沒有辦法。所以都沒有任何廠有能力接轉單。所以應該有限。應該有限。可是如果是PCB的話,我會不會有限。
+那這個跟這個產品跟ABF載板無關。所以影響是可控的。還有這個比較重要。美國客戶不會更換ABF載板的供應商或調整訂單比例。為什麼?因為現在每一家的ABF載板的訂單都滿到一個爆出來了。對不對。誰有辦法去接這個多出來的單子都沒有辦法。所以都沒有任何廠有能力接轉單。所以應該有限。應該有限。可是如果是PCB的話,我會有限。
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=571&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:09:31.820 --&gt; 00:10:01.820</a>
 我這樣子講或許會有一些急單短期的急單它非要出貨不可現在又不能出了所以它只好去找別人做急單可是以長期來講的話我也覺得影響不會太大好所以呢同意同步看法是說它對於股價影響應該小於20%所以因為它有提到說之前有美稍微啦群聯它是財報的問題那個可能事情更加嚴重那個很嚴重而這件事情的話與它的財務影響看來沒有那麼大
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=631&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:10:31.820 --&gt; 00:11:01.820</a>
-A訂單出到B貨去。那麼不是那麼嚴重的事情。所以我覺得應該不會超過三支停板。那可是呢,到底會怎麼樣?因為呢,還要看到時候呢,它的高層程訊跟內控的危機啦。還有,就是基金還有ETF會不會抽資金。這個外資晶技它其實是買超的。它成本它是比較高。也許會在低檔自救加碼。這點大家可以注意。其實今天那外資跟投信就已經有進場去買了。好,今天,我們會不會超過三支停板。那可是呢,到底會怎麼樣?因為呢,
+這個A訂單出到B貨去。那麼不是那麼嚴重的事情。所以我覺得應該不會超過三支停板。那可是呢,到底會怎麼樣。因為呢,還要看到時候呢,它的高層程訊跟內控的危機啦。還有,就是基金還有EDF會不會抽資金。這個外資晶技它其實是買超的。它成本它是比較高。也許會在低檔自救下嘛。這一點大家可以注意。其實今天那個外資跟投信就已經有進場去買了。好,今天,我們會不會超過三支停板。
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=661&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:11:01.820 --&gt; 00:11:04.920</a>
 那今天很有趣的籌碼就是外資投信是小幅買超
@@ -636,73 +687,82 @@ A訂單出到B貨去。那麼不是那麼嚴重的事情。所以我覺得應該
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=725&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:05.300 --&gt; 00:12:06.800</a>
 因為真的持股比例非常高
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=726&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:06.800 --&gt; 00:12:18.750</a>
-對 持股比例非常高7% 6%的那所以大家會擔心可是我這樣子講了他們會不會擔心我覺得他們不太會擔心對不對 為什麼呢
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=726&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:06.800 --&gt; 00:12:18.090</a>
+對 持股比例非常高7% 6%的那所以大家會擔心可是我這樣子講了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=738&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:18.750 --&gt; 00:12:21.210</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=738&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:18.090 --&gt; 00:12:19.290</a>
+他們會不會擔心
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=739&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:19.290 --&gt; 00:12:21.490</a>
+我覺得他們不太會擔心
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=741&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:21.490 --&gt; 00:12:22.730</a>
+對不對 為什麼呢
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=742&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:22.730 --&gt; 00:12:25.010</a>
 因為我不賣
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=741&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:21.210 --&gt; 00:12:23.250</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=745&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:25.010 --&gt; 00:12:26.450</a>
 大概就沒有什麼人賣了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=743&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:23.250 --&gt; 00:12:25.410</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=746&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:26.450 --&gt; 00:12:27.750</a>
 那也要這些人講好
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=745&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:25.410 --&gt; 00:12:26.690</a>
-好不好 也要這些人講好
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=747&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:27.750 --&gt; 00:12:29.090</a>
+好不好 這些人講好
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=746&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:26.690 --&gt; 00:12:28.310</a>
-一般的操盤手他不會那麼
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=749&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:29.090 --&gt; 00:12:29.890</a>
+一般的操盤手
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=748&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:28.310 --&gt; 00:12:30.710</a>
-在這個節骨點上賣不到
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=749&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:29.890 --&gt; 00:12:30.990</a>
+他不會那麼
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=750&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:30.710 --&gt; 00:12:32.350</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=750&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:30.990 --&gt; 00:12:32.730</a>
+在這個節骨眼上賣不到
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=752&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:32.730 --&gt; 00:12:34.490</a>
 賣也賣不了多少
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=752&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:32.350 --&gt; 00:12:34.950</a>
-對 所以何必自相殘殺
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=754&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:34.490 --&gt; 00:12:36.010</a>
+對 所以何必呢
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=754&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:34.950 --&gt; 00:12:36.490</a>
-好 那麼我們今天看了
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=756&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:36.010 --&gt; 00:12:39.110</a>
+因為理論上來講的話大家本來是想說
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=756&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:36.490 --&gt; 00:12:39.090</a>
-理論上來講的話大家本來是想說
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=759&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:39.090 --&gt; 00:12:40.790</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=759&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:39.110 --&gt; 00:12:40.810</a>
 如果是ABF宅板的話
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=760&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:40.790 --&gt; 00:12:43.990</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=760&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:40.810 --&gt; 00:12:44.010</a>
 那麼這個南電跟錦碩應該會占到便宜
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=763&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:43.990 --&gt; 00:12:47.870</a>
-結果今天錦碩盤中反而打到跌停板了
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=764&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:44.010 --&gt; 00:12:47.850</a>
+結果今天錦碩他盤中反而打到跌停板了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=767&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:47.870 --&gt; 00:12:49.770</a>
-它有它自己的問題
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=767&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:47.850 --&gt; 00:12:49.690</a>
+他有他自己的問題
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=769&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:49.770 --&gt; 00:12:52.070</a>
-對 其實它的問題就是說
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=769&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:49.690 --&gt; 00:12:52.030</a>
+對 其實他的問題就是說
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=772&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:52.070 --&gt; 00:12:53.510</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=772&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:52.030 --&gt; 00:12:53.530</a>
 大股東有聲暴轉讓
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=773&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:53.510 --&gt; 00:12:55.970</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=773&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:53.530 --&gt; 00:12:55.990</a>
 大家一想我們在這麼高的高檔的時候
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=775&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:55.970 --&gt; 00:12:57.970</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=775&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:55.990 --&gt; 00:12:57.970</a>
 聲暴轉讓是不是有問題
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=777&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:57.970 --&gt; 00:12:59.510</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=777&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:57.970 --&gt; 00:12:59.530</a>
 大家會害怕
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=779&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:59.510 --&gt; 00:13:01.810</a>
-事實上應該不是
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=779&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:12:59.530 --&gt; 00:13:01.810</a>
+那事實上應該不是
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=781&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:13:01.810 --&gt; 00:13:04.290</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=781&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:13:01.810 --&gt; 00:13:04.310</a>
 就是創歷史新高了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=784&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:13:04.290 --&gt; 00:13:33.630</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=784&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:13:04.310 --&gt; 00:13:33.630</a>
 賣一點股票有什麼不對嗎?當然何碩他有蠻多的轉投資是可以做十分的。然後再來說他今天是新興最好的朋友啦。最後他也跌停板,但理由顯然是不太一樣的。沒有錯,那我們再來看南電。南電就不太一樣了。南電呢,因為你可以看他基本面是沒有問題的。然後呢,他今天也是一樣,早盤的時候衝上去,然後呢又打下來,結果看得很可怕,你知道嗎?結果他最後收了一個十字線。
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=813&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:13:33.630 --&gt; 00:14:03.590</a>
@@ -749,9 +809,6 @@ OK。京區我認為說應該還有一些空間
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=902&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:15:02.470 --&gt; 00:15:32.470</a>
 所以可能創新高的股票可能要稍微的謹慎一些。好,那我們再來看PCB資金大諷之外誰是新的黑馬股。有沒有可能轉單呢?對,有轉單題材的還有什麼叫均線靠近的題材。什麼叫均線靠近呢?就是短中期的移動均線全部都糾結在一起的。就跟剛才的台積電一樣。它只要拉一根長縫起來,它整個股價就上去了。好,那我們先看的是金像電。那金像電剛才我們講了,如果
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=932&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:15:32.470 --&gt; 00:16:02.450</a>
-因為新興是PCB的問題的話可能會有短線的集單。所以今天金像電盤中的時候是一度拉到漲停板。可是收盤的時候還是打下來。它是帶量收黑K。所以大家可能會擔心是不是出貨。對,沒有錯,看起來有可能會再出貨。可是它的這個K線形態還有移動均線實在是非常的漂亮。所以我們還可以繼續的觀察一下。而且這個底部的形態真的很漂亮。它今天是站上了,它雖然是開高走低,可是站上了
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=962&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:16:02.470 --&gt; 00:16:10.550</a>
 所以明天記住 明天它如果能夠量縮收盤價佔上1200塊的話
@@ -954,164 +1011,251 @@ OK。京區我認為說應該還有一些空間
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1199&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:19:59.745 --&gt; 00:20:06.945</a>
 他說現貨價格預計在這個基礎上面再漲10%到20%。對,那我覺得就代表說
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1206&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:06.945 --&gt; 00:20:44.513</a>
-目前記憶體的事況看起來是超級週期延續的時間比大家想要來得更久。那我們大致上可以看到今天整個臺國的記憶體的表現。那剛剛提到的嘛,其實因為現在已經進入到9月份,明天就9月1號了。陸續要公佈所謂的8月營收。那我們可以看到記憶體相關的從製造IC跟模組,整個7月營收,這個區塊全面都紅通通,因為幾乎全部都創下歷史的新高。那8月份剛看到的現貨報價又再創高了,9月份合約價也會在漲。所以理論上來講,你大概在今年的第三季製造IC跟模組,他們營收繼續創高的機會非常的高。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1206&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:06.945 --&gt; 00:20:26.033</a>
+目前記憶體的事況看起來是超級週期延續的時間比大家想要來得更久。那我們大致上可以看到今天整個臺國的記憶體的表現。那剛剛提到的嘛,其實因為現在已經進入到9月份,明天就9月1號了。陸續要公佈所謂的8月營收那我們可以看到記憶體相關的 從製造IC跟模組
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1244&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:44.513 --&gt; 00:21:09.113</a>
-所以如果以現在情況來看,今天盤面上其實台股是跌的,單機股票裡面大部分都收漲。雖然說沒有像光學鏡頭那麼樣的一個激情,但整理上來看我覺得代表整個資金慢慢有回流的跡象。當然大家觀察指標就是你可以看到製造當中那顆最強,因為它上半年賺了23.38,然後IC設計當中金豪酬最強,因為上半年賺了27.58。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1226&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:26.033 --&gt; 00:20:29.733</a>
+整個7月營收 這個區塊全面都紅通通
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1269&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:09.113 --&gt; 00:21:12.313</a>
-還是有倫理的。剛剛正想問你說
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1229&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:29.733 --&gt; 00:20:32.633</a>
+因為幾乎全部都創下歷史的新高
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1272&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:12.313 --&gt; 00:21:15.213</a>
-大家基本面都很好啊怎麼分還是有差啦
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1232&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:32.633 --&gt; 00:20:35.733</a>
+那8月份剛看到的 現貨報價又在創高了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1275&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:15.213 --&gt; 00:21:18.013</a>
-對大家就優先買這個業績最好的嘛
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1235&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:35.733 --&gt; 00:20:38.633</a>
+9月份合約價也會在漲 所以理論上來講
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1278&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:18.013 --&gt; 00:21:22.013</a>
-那如果以模組廠來講的話群聯他也是賺最多187.43
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1238&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:38.633 --&gt; 00:20:42.033</a>
+你大概在今年的第三季 製造IC跟模組
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1282&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:22.013 --&gt; 00:21:26.413</a>
-目前的位階或整理型態來看群聯看起來也是整理的比較漂亮一點的
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1242&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:42.033 --&gt; 00:20:44.833</a>
+他們營收繼續創高的機會非常的高
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1286&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:26.413 --&gt; 00:21:28.613</a>
-所以我們來看一下相關的一個線型
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1244&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:44.833 --&gt; 00:20:46.733</a>
+所以如果以現在情況來看
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1288&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:28.613 --&gt; 00:21:29.113</a>
-是
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1246&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:46.733 --&gt; 00:20:48.633</a>
+今天盤面上其實台股是跌的
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1289&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:29.813 --&gt; 00:21:33.313</a>
-目前來看當然納爾科是這個全世界記憶體之光
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1248&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:48.633 --&gt; 00:20:51.133</a>
+但基金股票裡面大部分都收漲
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1293&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:33.313 --&gt; 00:21:36.913</a>
-都在創新高的路上太厲害
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1251&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:51.133 --&gt; 00:20:53.833</a>
+雖然說沒有像光學鏡頭
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1296&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:36.913 --&gt; 00:21:42.513</a>
-對 因為今天收盤價543塊剛剛好也收到歷史的新高價格
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1253&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:53.833 --&gt; 00:20:55.173</a>
+那麼樣的一個激情
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1302&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:42.513 --&gt; 00:21:46.113</a>
-所以你對比到如果大家去看美光、三星、海力士
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1255&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:55.173 --&gt; 00:20:55.973</a>
+但整理上來看
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1306&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:46.113 --&gt; 00:21:47.553</a>
-他們都在季線下面
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1255&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:55.973 --&gt; 00:20:57.173</a>
+我覺得代表說整個資金
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1307&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:47.553 --&gt; 00:21:48.193</a>
-對啊
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1257&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:57.173 --&gt; 00:20:58.773</a>
+慢慢有回流的跡象
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1308&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:48.193 --&gt; 00:21:51.153</a>
-那只有納爾科一馬當先往上衝
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1258&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:20:58.773 --&gt; 00:21:00.973</a>
+當然大家觀察指標就是
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1311&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:51.153 --&gt; 00:21:52.353</a>
-我覺得剛提到的
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1260&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:00.973 --&gt; 00:21:02.893</a>
+你可以看到製造當中那顆最強
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1312&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:52.353 --&gt; 00:21:54.673</a>
-第一個它有台塑集團的加持
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1262&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:02.893 --&gt; 00:21:05.293</a>
+因為它上半年賺了23.38
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1314&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:54.673 --&gt; 00:21:56.873</a>
-第二件事情因為最近的法蘭籌碼
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1265&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:05.293 --&gt; 00:21:07.393</a>
+然後IC設計當中金豪哥最強
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1316&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:56.873 --&gt; 00:21:59.433</a>
-土洋、同買大戶站在買方
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1267&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:07.393 --&gt; 00:21:09.793</a>
+因為上半年賺了27.58
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1319&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:59.433 --&gt; 00:22:01.233</a>
-所以我覺得籌碼的優勢搭配
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1269&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:09.793 --&gt; 00:21:11.093</a>
+還是有倫理的是不是
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1321&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:01.233 --&gt; 00:22:03.833</a>
-台灣的特色是每個月公布營收
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1271&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:11.093 --&gt; 00:21:12.493</a>
+因為剛剛正想問你說
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1323&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:03.833 --&gt; 00:22:05.513</a>
-所以有這樣的一個營收加持
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1272&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:12.493 --&gt; 00:21:13.793</a>
+大家基本面都很好啊
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1325&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:05.513 --&gt; 00:22:06.753</a>
-記憶體的特性就是說
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1273&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:13.793 --&gt; 00:21:14.293</a>
+怎麼分
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1326&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:06.753 --&gt; 00:22:07.973</a>
-你好像撐過一個月
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1274&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:14.293 --&gt; 00:21:44.293</a>
+還是有差啦。對,大家就優先買這個業績最好的嘛。那如果以模組廠來講的話,群聯他也是賺最多187.43元。目前的位階或整理型來看,群聯看起來也是整理的比較漂亮一點的。所以我們來看一下相關的一個線型。目前來看,當然納爾科是這個全世界記憶體之光。都在創新高的路上,太厲害了。對,因為今天他收盤這樣543塊,剛剛好也收到歷史的新高價格。所以你對比到,如果大家去看那個
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1327&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:07.973 --&gt; 00:22:09.553</a>
-又有一個營收公布的利多
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1304&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:21:44.293 --&gt; 00:22:14.293</a>
+美光、三星、海力士,他們都在季線下面。那只有納尔科一馬當先往上衝。我覺得剛剛提到的,第一個它有台塑集團的加持。第二件事情,因為最近的法人籌碼,土洋同買,大戶站在買方。所以我覺得籌碼的優勢搭配台灣的特色是每個月公布營收。所以有這樣的一個營收加持。記憶體的特性就是說,你好像撐過一個月,又有一個營收公布的利多。所以每個月都有一個期待性。那現在的情況我覺得納尔科就是,他其實算是很大的,
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1329&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:09.553 --&gt; 00:22:11.293</a>
-所以每個月都有一個期待性
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1334&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:14.293 --&gt; 00:22:16.693</a>
+你會覺得短線上來到相對高點
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1331&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:11.293 --&gt; 00:22:13.593</a>
-那現在的情況我覺得納爾科就是
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1336&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:16.693 --&gt; 00:22:19.993</a>
+但你發現它跟月季線的怪力並沒有很大
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1333&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:13.593 --&gt; 00:22:16.793</a>
-他其實雖然說你會覺得好像短線上來到相對高點
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1339&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:19.993 --&gt; 00:22:23.493</a>
+所以這個就代表說如果未來再做一個比較積極的補量
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1336&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:16.793 --&gt; 00:22:20.053</a>
-但你會發現到他跟月季線的乖離並沒有很大
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1343&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:23.493 --&gt; 00:22:25.593</a>
+應該它還有再往上攻高一波
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1340&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:20.053 --&gt; 00:22:21.133</a>
-所以這個就代表說
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1345&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:25.593 --&gt; 00:22:27.693</a>
+那整體上來看南亞科這一波
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1341&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:21.133 --&gt; 00:22:23.473</a>
-如果未來再做一個比較積極的補量
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1343&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:23.473 --&gt; 00:22:25.673</a>
-應該他有在往上公告一波
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1345&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:25.673 --&gt; 00:22:27.733</a>
-那整理上來看納爾科這一波
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1347&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:27.733 --&gt; 00:22:30.733</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1347&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:27.693 --&gt; 00:22:30.693</a>
 股價比較溫是因為國際大廠沒有漲
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1350&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:30.733 --&gt; 00:22:33.873</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1350&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:30.693 --&gt; 00:22:33.893</a>
 所以我覺得如果說在美光、三星、海力士
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1353&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:33.873 --&gt; 00:23:03.873</a>
-他們畢竟已經整理三個月了。如果九月份他們股價能夠開始反彈的話。對南亞科或說對華邦店這些所謂的機體製造廠來講,比價向會推升比較快一些。哦,我懂了。我們有全世界最強的南亞科。但其他人就可能要等到,比如我們落後的這些韓國啦美國廠上來,大家就會一起跟了。對,因為職場還是要有倫理嘛。人家賺的比較多,他們沒有漲。那南亞科自己漲就有點說不過去。所以我們就派華邦店望虹林健中比較弱勢來代表。那華邦店我覺得他優勢,他優勢,他優勢,他優勢,他優勢,他優勢,他優
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1353&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:33.893 --&gt; 00:22:35.593</a>
+他們畢竟已經整理三個月了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1383&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:03.873 --&gt; 00:23:08.473</a>
-你可以看到這邊的形態整理得差不多。 均間都比多頭排列了。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1355&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:35.593 --&gt; 00:22:38.393</a>
+如果九月份他們股價能夠開始反彈的話
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1388&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:08.473 --&gt; 00:23:11.473</a>
-那現影的部分,因為今天M4在做一個補量的動作。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1358&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:38.393 --&gt; 00:22:40.793</a>
+對南亞科或說對華邦電這些所謂的
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1391&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:11.473 --&gt; 00:23:16.673</a>
-所以我覺得其實你可以看到,如果它這個月季線已經開始到黃金交叉往上。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1360&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:40.793 --&gt; 00:22:41.993</a>
+機體製造廠來講
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1396&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:16.673 --&gt; 00:23:22.473</a>
-也代表說這個量如果能夠維持一段時間的話,它股價畢竟以前兩家是差不多嘛。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1361&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:41.993 --&gt; 00:22:44.093</a>
+比價向會推升得比較快一些
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1402&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:22.473 --&gt; 00:23:29.273</a>
-它創高它會跟著創高。現在華邦店已經大概6月份創高之後,加近3個月沒有創新高了。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1364&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:44.093 --&gt; 00:22:46.693</a>
+我懂了 我們有全世界最強的南亞科
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1409&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:29.273 --&gt; 00:23:32.673</a>
-所以我覺得大家可以期待的是華邦店接下來有沒有一些股長的動能。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1366&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:46.693 --&gt; 00:22:48.493</a>
+但其他人就可能要等到
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1412&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:32.673 --&gt; 00:24:02.673</a>
-那當然因為兩個背後的媽媽不太一樣。對,台座集團特別強。那華興集團特別弱。華興集團加油,這是兩集團之爭。對,面子之爭啦。所以我覺得華邦店可能需要後面集團,不管被動元件。不管是它後面相關的一些PCB股票。也能跟長的話,也許華邦店的一個動能會變得更強。那接下來大家也可以看到,像在所謂的群聯跟金豪科。好,群聯真的,我想很多的觀眾朋友都說,啊,獲利已經好成這樣了。然後潘董也到處去,
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1368&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:48.493 --&gt; 00:22:51.493</a>
+比如我們落後的這些韓國、美國廠上來
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1442&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:02.673 --&gt; 00:24:05.573</a>
-宣揚自己躲好了 到底為什麼不漲呢?
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1371&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:51.493 --&gt; 00:22:52.693</a>
+大家就會一起跟了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1445&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:05.573 --&gt; 00:24:06.873</a>
-對 因為他還沒來這裡
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1372&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:52.693 --&gt; 00:22:55.133</a>
+對 因為職場還是要有倫理嘛
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1446&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:06.873 --&gt; 00:24:08.673</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1375&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:55.133 --&gt; 00:22:56.933</a>
+人家賺的比較多 他們沒有漲
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1376&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:56.933 --&gt; 00:22:59.213</a>
+那南亞科自己漲就有點說不過去
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1379&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:22:59.213 --&gt; 00:23:01.373</a>
+所以我們就派華邦店、望虹、林健中
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1381&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:01.373 --&gt; 00:23:02.813</a>
+比較弱勢來代表
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1382&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:02.813 --&gt; 00:23:04.373</a>
+那華邦店我覺得它優點在於說
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1384&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:04.373 --&gt; 00:23:06.853</a>
+你可以看到這邊型態整理得差不多
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1386&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:06.853 --&gt; 00:23:08.493</a>
+軍艦就變得多頭排列了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1388&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:08.493 --&gt; 00:23:09.413</a>
+那現影的部分
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1389&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:09.413 --&gt; 00:23:11.493</a>
+因為今天M4在做一個補量的動作
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1391&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:11.493 --&gt; 00:23:12.693</a>
+所以我覺得其實你可以看到
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1392&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:12.693 --&gt; 00:23:16.713</a>
+如果它這個月季線已經開始到黃金交叉往上
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1396&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:16.713 --&gt; 00:23:19.653</a>
+也代表說這個量如果能夠維持一段時間的話
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1399&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:19.653 --&gt; 00:23:22.553</a>
+它股價畢竟以前兩家是差不多嘛
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1402&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:22.553 --&gt; 00:23:24.113</a>
+它創高它會跟著創高
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1404&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:24.113 --&gt; 00:23:27.673</a>
+現在華邦電已經大概五月六月份創高之後
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1407&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:27.673 --&gt; 00:23:29.253</a>
+將近三個月沒有創新高了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1409&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:29.253 --&gt; 00:23:31.013</a>
+所以我覺得大家可以期待的是華邦電
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1411&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:31.013 --&gt; 00:23:32.693</a>
+接下來有沒有一些股長的動能
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1412&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:32.693 --&gt; 00:23:35.413</a>
+那當然因為兩個背後的媽媽不太一樣
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1415&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:35.413 --&gt; 00:23:36.593</a>
+對 台客集團特別強
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1416&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:36.593 --&gt; 00:23:38.193</a>
+對 那華興集團特別弱
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1418&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:38.193 --&gt; 00:23:41.273</a>
+華興集團加油這是兩集團之爭
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1421&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:41.273 --&gt; 00:23:42.473</a>
+對 面子之爭
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1422&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:42.473 --&gt; 00:23:46.773</a>
+所以當然我覺得華邦店可能需要後面集團不管被動元件
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1426&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:46.773 --&gt; 00:23:50.473</a>
+不管是它後面相關的一些PCB的股票也能跟長的話
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1430&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:50.473 --&gt; 00:23:52.713</a>
+也許華邦店的一個動能會變得更強
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1432&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:52.713 --&gt; 00:23:56.313</a>
+那接下來大家也可以看到像在所謂的群聯跟金豪科
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1436&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:56.313 --&gt; 00:23:59.353</a>
+好群聯真的我想很多的觀眾朋友都說
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1439&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:23:59.353 --&gt; 00:24:01.193</a>
+啊貨利已經好成這樣了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1441&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:01.193 --&gt; 00:24:03.853</a>
+然後潘董也到處去宣揚自己躲好了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1443&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:03.853 --&gt; 00:24:05.693</a>
+到底為什麼不漲呢
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1445&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:05.693 --&gt; 00:24:06.873</a>
+對因為他還沒來這裡
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1446&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:06.873 --&gt; 00:24:08.693</a>
 所以他就沒有漲大
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1448&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:08.673 --&gt; 00:24:09.773</a>
-也許他有可能拿
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1448&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:08.693 --&gt; 00:24:09.733</a>
+也許他有可能啦
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1449&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:09.773 --&gt; 00:24:11.373</a>
-那我們就看到取年的部分
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1449&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:09.733 --&gt; 00:24:11.373</a>
+那我們就看到群年的部分
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1451&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:11.373 --&gt; 00:24:13.313</a>
-你可以看到他的線景也做好了
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1451&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:11.373 --&gt; 00:24:13.373</a>
+你可以看到它也線已經做好了
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1453&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:13.313 --&gt; 00:24:16.193</a>
-他現在所謂的季線跟月線
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1453&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:13.373 --&gt; 00:24:16.213</a>
+它現在所謂的季線跟月線
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1456&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:16.193 --&gt; 00:24:18.153</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1456&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:16.213 --&gt; 00:24:18.153</a>
 即將在最近出現黃金交叉
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1458&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:18.153 --&gt; 00:24:33.841</a>
-所以眾多架構開始改變了那最近你可以發現到這邊有一個大量那個大量是所謂的公布這個第二季的季爆利多爆量長黑K-Bun 那我覺得它只要過這個大量高點這邊量也出來 代表量價也開始出現結構上的轉變
+所以眾多架構開始改變了那最近你可以發現到這邊有一個大量那個大量是所謂的公佈這個第二季的季爆利多爆量長黑K-Bun 那我覺得它只要過這個大量高點這邊量也出來 代表量價也開始出現結構上的轉變
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1473&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:24:33.841 --&gt; 00:24:37.201</a>
 那群年的缺點還是在說投信真的不喜歡它
@@ -1234,7 +1378,7 @@ OK。京區我認為說應該還有一些空間
 iPhone18就長這樣,手機就長這樣
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1600&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:26:40.101 --&gt; 00:27:10.101</a>
-所以就有點這個失望性的賣壓。所以往往過往關心是蘋果的新品發表會之後,蘋果本身跟平台股容易出現股價拉回。但後面除了業績存長可能有新一波的一個動能。那我們大致上來掃一下,這次要發表什麼?iPhone 18 Pro Pro Max。那當然就是有更快的晶片,更好的拍照,然後更強的AI。今年Siri會有一個比較好的功能的發表。那尤其是今年因為換了一個新的CEO,所以會不會有一個新人新氣象,對硬體對軟體的一個整合
+所以就有點失望性的賣壓。所以往往過往關心蘋果的新品發表會之後,蘋果本身跟平台股容易出現股價拉回。但後面除了業績存長可能有新一波的一個動能。那我們大致上來掃一下,這次要發表什麼?iPhone 18 Pro Pro Max。那當然就是有更快的晶片,更好的拍照,然後更強的AI。今年Siri會有一個比較好的功能發表。那尤其是今年因為換了一個新的CEO,所以會不會有一個新人新氣象,對硬體、軟體的一個整合
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=1630&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:27:10.101 --&gt; 00:27:17.901</a>
 所以我們來看一下今天相關的瓶蓋股其實表現就有點紅通通
@@ -1572,32 +1716,101 @@ iPhone18就長這樣,手機就長這樣
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2069&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:34:29.310 --&gt; 00:34:59.290</a>
 不過我可以籠子多少滿?也就是說最大的一個磁場可以到快一億。總資金4千萬收益是250%。因為現在剛好含今天的話是剛好破一億了。今天有在砸下去就對了。不過這一次呢,因為確實比較競爭。因為它這個不是用收益率來比。不只比收益率。對,它是完全就是不管你放多少資金,它就比你的收益率。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2099&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:34:59.310 --&gt; 00:35:03.910</a>
-比純收益：晶技、京元電
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2099&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:34:59.310 --&gt; 00:35:06.410</a>
+你會有錢、誰的手幣就出嗎?對,會比較有這樣的
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2103&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:03.910 --&gt; 00:35:08.450</a>
-那不就是誰有錢 誰的手幣就出嗎：晶技、京元電
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2106&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:06.410 --&gt; 00:35:10.250</a>
+當然也有可能它會虧很多,不過這裡來講,你會發現第一名
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2108&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:08.450 --&gt; 00:35:12.050</a>
-對 會比較有這樣的 當然也有可能他會虧很多
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2110&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:10.250 --&gt; 00:35:15.050</a>
+大概這四個月就做了900多億的金額
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2112&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:12.050 --&gt; 00:35:14.430</a>
-不過這裡來講 你發現第一名大概是四個月就做了九百多億的金額：
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2115&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:15.050 --&gt; 00:35:17.590</a>
+900多億?都快千億了。第一名是誰?我看一下
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2114&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:14.430 --&gt; 00:35:17.430</a>
-九百多億 都快千億了：晶技、京元電
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2117&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:17.590 --&gt; 00:35:21.490</a>
+LaBron James,什麼東西?怎麼跟他比,他很有錢?
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2122&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:22.030 --&gt; 00:35:26.230</a>
-怎麼跟他比 他很有錢了：晶技、京元電
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2121&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:21.490 --&gt; 00:35:26.630</a>
+所以他大概收益到前一天是大概7.5億
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2126&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:26.230 --&gt; 00:35:56.230</a>
-7.5億的收益：晶技、2、3、4就很貼近：晶技、1億左右。第五名就大概7000多萬。前十當然都有獎盃。不過當然基本上大家在搶前三。所以現在來講是坐視望山。等一下你為什麼要把你的本名叫冠軍操盆手：晶技、人家是Loburn Jets 跟文斑亞。對。所以確實我把這個本來沒差。對,就把它列出來。那這一次呢：晶技、
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2126&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:26.630 --&gt; 00:35:28.590</a>
+7.5億的收益７
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2156&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:56.230 --&gt; 00:36:26.210</a>
-是 當然這個收益是真正的實單。所以那戶頭30萬的戶頭目前已經2.28億了。這是實單交易大家要理解。這個不是虛擬交易。年初我記得是8888。所以已經過了2.28億。所以這裡面剛剛趙有提到大概做什麼。其實跟我講的東西當然差不多意思了。看高做低。然後找一些大概本一比,本一比。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2128&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:28.590 --&gt; 00:35:31.810</a>
+那2、3、4就很貼近７大概就在1億左右。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2186&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:26.210 --&gt; 00:37:02.836</a>
-比較弱點比較優的一些標的。就可以稍微有避開,像這波有避開,七月五還是賺的。近期來講有一個半島地展。應該是明天嘛,對不對。好,8月31今天有論壇。9月2號後天。開始展。那其實這一次來講,其實圍繞的當然都是跟台信的關連性非常非常大。所以這裡面你來看就是說大概有幾個,比較那個這個是攤位的位置嘛。那基本上第一個來講一定是材料。那另外來講就是封裝。那封裝裡面當然還含了這個面板級的三豬型風格。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2131&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:31.810 --&gt; 00:35:34.370</a>
+對,那第五名就大概要7千多萬。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2134&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:34.370 --&gt; 00:35:35.370</a>
+就拉開了。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2135&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:35.370 --&gt; 00:35:37.110</a>
+前十,前十當然都有獎盃啦。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2137&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:37.110 --&gt; 00:35:40.470</a>
+不過當然,基本上大家在搶前三嘛。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2140&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:40.470 --&gt; 00:35:43.650</a>
+所以現在來講是做事旺山。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2143&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:43.650 --&gt; 00:35:47.550</a>
+等一下,你為什麼要把你的本名叫冠軍操盆手。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2147&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:47.550 --&gt; 00:35:49.850</a>
+人家是Loburn Jets跟文斑亞嘛。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2149&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:49.850 --&gt; 00:35:53.490</a>
+對,所以確實我就把這個,反正沒差啦。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2153&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:53.490 --&gt; 00:35:55.490</a>
+對,就把它列出來。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2155&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:55.490 --&gt; 00:35:58.930</a>
+那這一次呢 我覺得說當然這個收益一億呢
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2158&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:35:58.930 --&gt; 00:36:00.990</a>
+這是真正的實單嘛 收益
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2160&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:00.990 --&gt; 00:36:03.490</a>
+所以那戶頭30萬的戶頭
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2163&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:03.490 --&gt; 00:36:05.130</a>
+目前已經2.28億了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2165&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:05.130 --&gt; 00:36:08.510</a>
+好 這是實單交易喔 大家要理解
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2168&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:08.510 --&gt; 00:36:10.170</a>
+這個不是虛擬交易喔
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2170&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:10.170 --&gt; 00:36:13.070</a>
+年初我記得是8888
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2173&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:13.070 --&gt; 00:36:15.410</a>
+對 所以已經過了2.28億
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2175&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:15.410 --&gt; 00:36:17.770</a>
+所以這裡面呢 剛剛趙有提到
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2177&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:17.770 --&gt; 00:36:18.950</a>
+說大概做什麼
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2178&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:18.950 --&gt; 00:36:22.250</a>
+其實跟我講的東西 當然差不多意思了
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2182&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:22.250 --&gt; 00:36:24.390</a>
+就是看高做低
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2184&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:24.390 --&gt; 00:36:29.190</a>
+然後找一些大概本益比較弱點比較優的一些標的
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2189&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:29.190 --&gt; 00:36:31.590</a>
+就可以稍微有避開 像這一波我有避開
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2191&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:36:31.590 --&gt; 00:37:02.836</a>
+其實七月五還是賺的近期來講有一個半導地展應該是明天嘛 對不對好 八月三十一號就有論壇。今天有論壇。9月2號後天。開始展。那其實這一次來講,其實圍繞的當然都是跟台信的關連性非常非常大。所以這裡面你來看就是說大概有幾個,比較那個這個是攤位的位置嘛。那基本上第一個來講一定是材料。那另外來講就是封裝。那封裝裡面當然還含了這個面板級的三豬型風格。
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2222&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:37:02.856 --&gt; 00:37:32.836</a>
 封裝，晶技、京元電
@@ -1824,38 +2037,14 @@ iPhone18就長這樣,手機就長這樣
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2639&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:43:59.562 --&gt; 00:44:03.462</a>
 對 可是這裡面來講就是說除了臺光電之外
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2643&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:03.462 --&gt; 00:44:05.742</a>
-都是 Tier 1 的供應商：
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2643&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:03.462 --&gt; 00:44:15.562</a>
+都是 Tier 1 的供應商就直接的供應商。台光店反而是二階的。所以在這裡面來講,一階的供應鏈裡面,我覺得最近蠻強的,華通也蠻強。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2645&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:05.742 --&gt; 00:44:07.322</a>
-就是直接的供應商：
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2655&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:15.562 --&gt; 00:44:28.162</a>
+華通也有轉強,我還是會去看一下它的本益比。你會發現說確實以很多股票來講,目前都在創高的一個狀況。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2647&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:07.322 --&gt; 00:44:09.702</a>
-台光店反而是二階的。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2649&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:09.702 --&gt; 00:44:14.062</a>
-所以在這裡面來講,就是說一階的供應鏈裡面,我覺得說最近蠻強。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2654&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:14.062 --&gt; 00:44:14.962</a>
-華通也蠻強。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2654&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:14.962 --&gt; 00:44:15.742</a>
-華通也蠻強。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2655&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:15.742 --&gt; 00:44:17.582</a>
-對,華通也有轉強。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2657&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:17.582 --&gt; 00:44:22.622</a>
-那在這裡面來講,我覺得還是,我還是會去看一下它的一個本益比。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2662&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:22.622 --&gt; 00:44:28.182</a>
-你會發現說,確實以這個很多股票來講,目前都在一個創高的狀況。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2668&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:28.182 --&gt; 00:44:31.182</a>
-也代表說這一塊來講,很多股票還是不錯。
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2671&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:31.182 --&gt; 00:45:11.168</a>
-那上次我們有提到這個聯德投控。好,大家可能上次聽還比較陌生,那後來有漲。對,後來有上來。我有講,因為本益比真的我覺得非常低,落點很低。那它的一個所謂的業績成長來講是非常好。那它的這個Q2的整個營收,還有它整個這個2026年的EPS來講,基本上都還是不錯。所以我覺得聯德投控基本上不錯,我們待會可以講一下。那我覺得森茂也要特別注意一下。好,森茂也是我們的老朋友。對,因為剛剛有看到這個展具裡面,它現在也不只是所謂的這個Space的供應鏈。我們看一下它也是。因為它習高需求也散落在很多地方。對,也是在半導體。對,高級半導體。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2668&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:44:28.162 --&gt; 00:45:11.168</a>
+也代表說這一塊來講很多股票還是不錯。那上次我們提到這個連的投控。好,大家可能上次聽還比較陌生,那後來有漲喔。對,後來有上來。我有講,因為本益比真的我覺得非常低,落點很低。那它的一個所謂的業績成長來講是非常好。那它的這個Q2的整個營收,還有它整個這個2026年的EPS來講,基本上都還是不錯。所以我覺得聯德投控基本上不錯,我們待會可以講一下。那我覺得森茂也要特別注意一下。好,森茂也是我們的老朋友。對,因為剛剛有看到這個展具裡面,它現在也不只是所謂的這個Space的供應鏈。我們看一下它也是。因為它習高需求也散落在很多地方。對,也是在半導體。對,高級半導體。
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2711&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:11.168 --&gt; 00:45:15.268</a>
 好 黏著投控。那先看一下連得為什麼會特別講一下就是說上次我們有提到
@@ -1872,119 +2061,143 @@ iPhone18就長這樣,手機就長這樣
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2733&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:33.068 --&gt; 00:45:39.368</a>
 對 頭肩底我們講說頸線如果在這裡會布局的話一越過頸線它可能就會很快往上衝
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2739&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:39.368 --&gt; 00:46:08.488</a>
-那時候,量也可能會帶起來。結果那個量非常大。也就是說,我們講完大概第二天以後,開始就供量。那我覺得說,這個才開始供量。所以說,慢慢有機會,可以供到第一個衛生點,就是上次的一個,六月份的一個高點。那另外來講,它的前高也滿高的。所以如果業績持續起來,我覺得還是有機會。也要整體族群比較熱,對不對?像今天比較沒有想到它的話,量可能就會有電調。對,量可能就稍微縮,可是它今天還算不錯啦。那衛生點還這樣,不算。銀盤附近。對。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2739&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:39.368 --&gt; 00:45:41.868</a>
+連項需要幼齒組繁出、環境的售。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2768&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:08.488 --&gt; 00:46:11.368</a>
-另外來講 森茂我覺得特別注意為什麼
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2741&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:41.868 --&gt; 00:45:44.748</a>
+可能會帶起來。約得過的!
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2771&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:11.368 --&gt; 00:46:14.488</a>
-因為以這次來講 剛提到出了SpaceX
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2744&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:44.748 --&gt; 00:45:47.748</a>
+這樣就升級了,問題是有限度的年紀。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2774&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:14.488 --&gt; 00:46:16.488</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2747&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:47.748 --&gt; 00:45:50.748</a>
+如果這個月園的東西也下場,
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2750&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:50.748 --&gt; 00:45:52.348</a>
+就是有限度的年紀度,
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2752&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:52.348 --&gt; 00:45:52.908</a>
+你會有限度的年紀度。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2752&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:52.908 --&gt; 00:45:53.948</a>
+如果是值得?
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2753&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:53.948 --&gt; 00:45:55.408</a>
+應該是可以的。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2755&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:55.408 --&gt; 00:45:57.328</a>
+我們提供給你一個月園,
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2757&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:57.328 --&gt; 00:45:58.328</a>
+因為他會做的。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2758&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:45:58.328 --&gt; 00:46:01.088</a>
+以為是會提供要的。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2761&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:01.088 --&gt; 00:46:05.128</a>
+因為他也不會考慮到市場的年紀。
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2765&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:05.128 --&gt; 00:46:07.328</a>
+所以他基本上在公共產業後,
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2767&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:07.328 --&gt; 00:46:11.328</a>
+對 那另外來講 森茂我覺得說特別注意為什麼
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2771&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:11.328 --&gt; 00:46:14.428</a>
+因為以這次來講 剛提到就是說 除了SpaceX
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2774&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:14.428 --&gt; 00:46:16.428</a>
 它也是一個半導體材料 有沒有
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2776&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:16.488 --&gt; 00:46:18.488</a>
-剛剛這個展區裡面看到
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2776&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:16.428 --&gt; 00:46:18.428</a>
+剛這個展區裡面看到
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2778&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:18.488 --&gt; 00:46:23.488</a>
-所以在AI伺服器的部分的佔比已經大概接近50%了
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2778&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:18.428 --&gt; 00:46:20.928</a>
+所以在這個AI伺服器的一個部分呢
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2783&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:23.488 --&gt; 00:46:25.488</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2780&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:20.928 --&gt; 00:46:23.828</a>
+佔比已經大概接近50%了 對
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2783&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:23.828 --&gt; 00:46:25.728</a>
 所以高毛利的一個需求
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2785&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:25.488 --&gt; 00:46:30.488</a>
-基本上這一塊來講可能會佔到所謂的40%的毛利
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2785&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:25.728 --&gt; 00:46:27.128</a>
+基本上這一塊來講
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2790&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:30.488 --&gt; 00:46:32.488</a>
-這來講對它整體的毛利來講影響很大
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2787&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:27.128 --&gt; 00:46:30.428</a>
+可能會佔到所謂的一個40%的一個毛利
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2792&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:32.488 --&gt; 00:46:34.488</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2790&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:30.428 --&gt; 00:46:32.728</a>
+這個來講 對它整體的毛利來講影響很大
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2792&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:32.728 --&gt; 00:46:34.728</a>
 因為總體毛利才18.8%
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2794&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:34.488 --&gt; 00:46:36.488</a>
-所以你發現如果這一塊增加起來
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2794&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:34.728 --&gt; 00:46:36.828</a>
+所以你發現說 如果這一塊增加起來
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2796&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:36.488 --&gt; 00:46:38.488</a>
-它的毛利就會帶上來
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2796&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:36.828 --&gt; 00:47:04.328</a>
+它的毛利就會帶上來。所以它第二季增長很多。第二季的EPS是2.11元。所以整個3.82元來講,整年應該會超過8塊。所以以目前來講說,它的本益也是比較偏低。所以以這一塊來講,包含BGA的需求,也是它主要的一個來源。那這一面來講一樣,就是說,這就有看到,以它來講一樣,它現在也呈現了一個所謂的頭肩底。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2798&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:46:38.488 --&gt; 00:47:03.588</a>
-第二季增長很多。第二季的EPS是2.1億元。所以整個3.82元來講,整年應該會超過8塊。所以以目前來講說,它的本益也是比較偏低。所以以這一塊來講,包含BGA的需求,也是它主要的一個來源。那這一面來講一樣,就是說,這就可以看到,以它來講一樣,它現在也呈現了一個所謂的頭肩底。
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2824&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:04.328 --&gt; 00:47:08.108</a>
+對 那頭領頸目前來講也是在頸線的一個位置點
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2823&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:03.588 --&gt; 00:47:05.588</a>
-頭尖底，晶技、京元電
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2828&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:08.108 --&gt; 00:47:11.668</a>
+所以這邊一樣就是說如果有量開始往上供
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2825&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:05.588 --&gt; 00:47:07.588</a>
-目前來講也是在景線的一個位置點
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2831&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:11.668 --&gt; 00:47:14.808</a>
+就會很像連得這樣的一個模式就是說
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2827&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:07.588 --&gt; 00:47:11.588</a>
-所以這邊一樣就是說如果有量開始往上攻
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2834&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:14.808 --&gt; 00:47:17.948</a>
+如果量開始供起來越過這個所謂的一個頸線位置
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2831&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:11.588 --&gt; 00:47:14.588</a>
-就會很像聯德這樣的一個模式就是說
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2834&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:14.588 --&gt; 00:47:17.588</a>
-如果量開始攻起來越過這個所謂的一個景線位置
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2837&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:17.588 --&gt; 00:47:20.588</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2837&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:17.948 --&gt; 00:47:20.848</a>
 我覺得這是一個好的一個進場的一個機會點
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2840&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:20.588 --&gt; 00:47:22.588</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2840&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:20.848 --&gt; 00:47:22.948</a>
 為什麼?因為它離一個前高來講
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2842&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:22.588 --&gt; 00:47:24.588</a>
-目前來講距離還很遠
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2842&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:22.948 --&gt; 00:47:24.908</a>
+目前來講距離還很遠 對
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2844&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:24.588 --&gt; 00:47:27.588</a>
-對,所以以這一支來講就是如果有業績的情況下
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2844&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:24.908 --&gt; 00:47:27.588</a>
+所以以這一支來講就是如果有業績的情況下
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2847&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:27.588 --&gt; 00:47:30.588</a>
-有熱門的一個題材,加上說衛介來講
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2847&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:27.588 --&gt; 00:47:29.188</a>
+有熱門的一個題材
+
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2849&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:29.188 --&gt; 00:47:30.588</a>
+加上說位界來講
 
 <a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2850&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:30.588 --&gt; 00:47:32.588</a>
 在右下講底型已經打出來的情況下
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2852&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:32.588 --&gt; 00:48:02.348</a>
-我覺是有機會。現在量縮到極致了。而且上面可能季線也有一個小壓力剛好在這個位置。有帶量突破空間就相當大。準備非常謝謝雲翔哥。雲翔哥幾乎是用本名來參加比賽。之前都沒有提是因為在比賽過程中不想要干擾,今天晚上就要結算最後的名次給予他祝福啦。希望能夠擠進前三。那剛剛講到的看高做低、出量這件事情,在台股其實現在雖然我們的
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2852&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:32.588 --&gt; 00:47:33.448</a>
+我覺得是有機會
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2882&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:02.348 --&gt; 00:48:05.748</a>
-看起來指數在高檔位街區有很多的公司創歷史新高
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2853&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:33.448 --&gt; 00:47:43.448</a>
+現在量縮到極致了。而且上面可能季線也有一個小壓力剛好在這個位置。有帶量突破空間就相當大。準備非常謝謝雲翔哥。
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2885&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:05.748 --&gt; 00:48:10.548</a>
-但事實上也有很多公司剛好在一個形態的下緣就等放量
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2863&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:47:43.448 --&gt; 00:48:03.408</a>
+好雲翔哥幾乎是用本名來參加比賽。之前都沒有提是因為在比賽過程中不想要干擾。今天晚上就要結算最後的名次給予他祝福啦。希望能夠擠進前三。那剛剛講到的看高做低出量這件事情。在台股其實現在雖然我們的看起來指數在高中的
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2890&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:10.548 --&gt; 00:48:15.248</a>
-像特化族群既然已經有領頭羊就有可能會有人跟長
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2883&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:03.408 --&gt; 00:48:33.408</a>
+有很多公司創歷史新高,但事實上也有很多公司,剛好在一個形態的下緣就等放量。像特化族群既然已經有領頭羊,就有可能會有人跟長。再狹帶以業績非常好這件事情作為保底哦。那SpaceX供應鏈如果整體的族群也能往上帶的話,相信也會不同的風景,因為他們的位階相對也是比較便宜的。好,今天非常謝謝三位來賓來到現場。台股要進入到九月份了哦。那九月份歷史上來的,我們會不會有很多公司的公司,
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2895&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:15.248 --&gt; 00:48:19.748</a>
-再狹帶以業績非常好這件事情作為保底
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2913&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:33.408 --&gt; 00:48:36.808</a>
+是壓力比較大一點點的,可是我們之前跌過了嘛
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2899&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:19.748 --&gt; 00:48:23.748</a>
-那SpaceX供應鏈如果整體的族群也能往上帶的話
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2916&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:36.808 --&gt; 00:48:41.308</a>
+所以難免也希望展望到即將銜接第四季的作夢行情
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2903&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:23.748 --&gt; 00:48:27.548</a>
-相信也會不同的風景因為他們的位階相對也是比較便宜的
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2921&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:41.308 --&gt; 00:48:42.608</a>
+能有一些好表現喔
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2907&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:27.548 --&gt; 00:48:30.248</a>
-好 今天非常謝謝三位來賓來到現場
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2910&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:30.248 --&gt; 00:48:32.048</a>
-台股要進入到九月份囉
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2912&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:32.048 --&gt; 00:48:35.248</a>
-那九月份歷史上來說是壓力比較大一點點的
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2915&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:35.248 --&gt; 00:48:36.848</a>
-可是因為我們之前跌過了嘛
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2916&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:36.848 --&gt; 00:48:42.548</a>
-所以難免呢也希望展望到即將銜接第四季的作夢行情能有一些好表現喔
-
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2922&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:42.548 --&gt; 00:48:45.048</a>
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2922&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:42.608 --&gt; 00:48:45.108</a>
 那也希望今天的理財答案秀對你投資有幫助喔
 
-<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2925&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:45.048 --&gt; 00:48:46.548</a>
-明天再會了 掰掰
+<a href="https://www.youtube.com/embed/EGhPyJrwf7M?start=2925&amp;autoplay=1" target="yt-player-EGhPyJrwf7M">00:48:45.108 --&gt; 00:48:46.508</a>
+明天再會了,掰掰
 </pre>
 
 </details>
